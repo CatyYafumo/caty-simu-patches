@@ -8,5 +8,5 @@
         "https://mirors.thpatch.net/catysumi/catysumi/ro98/"
     ],
     "title": "Return Of 98",
-    "update": true"
+    "update": true
 }
