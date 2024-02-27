@@ -1,0 +1,70 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "This is funny!"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Funny?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "It won't be fun anymore,",
+                "you shouldn't have stopped by here."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "oh it's you!",
+                "How easy it was to defeat you that time!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Hm it was like that."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "But now you won't have the same luck!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Huh?",
+                "have you defeated me?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Yes, I won this time and on my own!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I have to go look for my friend"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "it was funny,",
+                "I would like to play more,"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "but we must get Hallownest out of Gensokyo!"
+            ]
+        }
+    }
+}

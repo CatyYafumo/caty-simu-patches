@@ -1,0 +1,74 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Hegemol! Stop!",
+                "It's me!"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Haha"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "It's mine,",
+                "mine!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "This armor belongs to me!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Oh now I understand",
+                "Thief... You will deal with me."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Wait how did you know!?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "This armor..."
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Oh I guess...",
+                "Yeah I'm a thief..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Do not judge me!",
+                "I wanted it only to protect my brothers"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "It's understandable but you should have looked",
+                "for a better alternative than stealing!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "That's right...",
+                "I'm sorry."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Thank you that I know what you feel,",
+                "I would have killed you right now."
+            ]
+        }
+    }
+}
