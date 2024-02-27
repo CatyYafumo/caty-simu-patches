@@ -1,0 +1,987 @@
+{
+    "2": {
+        "40_0": {
+            "lines": [
+                "Con que eras tu"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Mmn..."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Pero estoy tan cansada."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Ah ¿enserio?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Ya es hora de que la verdad salga a la luz."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "En medio de esta mansión extraña."
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "¿Debería salir a darte la bienvenida?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Pues ¡Wena cabros!"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "¿Que?"
+            ]
+        },
+        "104_h1_0": {
+            "lines": [
+                "Pequeña Guerrera Profanadora",
+                "Caty Yafumo"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Tu acabas de ganar un duelo contra la Andro"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Habré escuchao mal."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Pero le dijiste a mi casa \"Extraña\"?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Pues si"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "¿Hmm osea que me queo mal?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "¡O quisas tu no eri de mis gustos!"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Tienes un acento extraño"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "¿A que hai venio?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Me llamó la atención no ver antes esta isla"
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "¡Ah Terraria!"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Pues bienvenia"
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "¿Esto es un lugar peligroso?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Yo diría que si, almenos no esta zona."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Entonces tendré que hacer algo al respecto."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Me parece que eres una Youkai."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "Así que tendré trabajo que hacer."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "¿Tai tratando de hallanar mi morada?"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Se buena niña nada más"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Como..."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Me..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "¿Llamaste...?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "¿Eso te importa?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "No seas caprichosa."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "¿Sí?"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "He estado un tanto aburria ultimamente."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Esto se pondrá interesante..."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "¡Carai que fue eso!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Me parece que te precipitaste un poco jeje"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Sí, supongo..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Sorprendente"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Bueno yo tambien un tanto."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Pero no me quedaría sin defender este lugar"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Tu tienes un trabajo, este es el mío."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Bien tienes razón."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Calma, un error nada más."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Pero"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "¡que infantil eres!"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Pero entonces ¿no eres una Youkai?"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "No, para nada."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Soy humana igual que tú."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "¿De verdad?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "¿Que hay de tus alas?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Me las regaló una amiga.",
+                "Después de que la derroté jeje."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Todo mi poder se forja con el recuerdo de viajes y aventuras.",
+                "Ahora mi siguiente aventura es aprender a hacer danmaku."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Probablemente use esta experiencia en un futuro."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "No está nada mal"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Para ser una principiante en eso."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Mira, si quieres te ayudaré en lo que necesites con gusto",
+                "pero ni se te ocurra dar un pie aquí a menos que te lo permita."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Está bien."
+            ]
+        }
+    },
+    "12": {
+        "40_0": {
+            "lines": [
+                "¿Tú otra vez?"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Hoy estoy cansada."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Estaba a punto de irme a dormir."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Vaya dedicación..."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Extraño."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Diabólicamente extraño."
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "¿Qué es extraño?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "¿El color de la Luna esta noche?",
+                "O..."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "El brillo de la luna."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Es demasiado brillante, ¿no crees?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "La luz de la Luna es un reflejo de la del Sol."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Esa es la única llave de la frontera",
+                "entre el día y la noche."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Así que habrá luz",
+                "sea de día o de noche, ¿eh?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Sí, pero ¿no será porque el Inframundo,",
+                "donde estamos, se ubica por encima de las nubes?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "¿Y tú quién eres?"
+            ]
+        },
+        "111_h1_0": {
+            "lines": [
+                "La Mente Maestra Tras las Desapariciones",
+                "Yukari Yakumo"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Ran me ha hablado de ti."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Ajá. Así que tú eres su ama."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Así es, oí que Ran te causó algunos problemas."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "A la gente del Inframundo, no a mí."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Bueno, en ese caso..."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Continuaré donde ella lo dejó."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Más molestias..."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "¿No te has dado cuenta aún?"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "¿Eh?"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Esta noche hay luna nueva."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Sostengo el límite entre el día y",
+                "la noche en la palma de mi mano."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "¿Acaso no eres una youkai nocturna?"
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Si uso este poder..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "... ¿O eras diurna?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Pronto estarás atrapada tras mis barreras."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Allí, no es de noche, tampoco de día."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Ah, ¿entonces eres la youkai",
+                "de los cerezos que iluminan en la noche?"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Y una vez dentro... ",
+                "¡Jamás podrás escapar!"
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Oh, está por amenecer."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Y estoy tan cansada..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Eso no fue tan difícil."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Es porque aún no me he recuperado.",
+                "Apenas he despertado de mi hibernación."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Oh, ¿Y qué guardas antes de hibernar? ¿Miel?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Humanos."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Ya veo."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Aunque siempre hago que Ran se encargue",
+                "de eso mientras yo duermo."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Siento que tuve un despertar desagradable este año."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "¿Quizás porque el invierno fue demasiado largo?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Ah, cierto, eso explica la escasez de humanos."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Escasez de humanos, hmm…",
+                "¿Es esa la forma correcta de usar esa palabra?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "...Probablemente no."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Para mí, es fácil manipular el límite",
+                "entre invierno y primavera..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Era tu deber hacer que el problema se resuelva pronto."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "En primer lugar, eso no es responsabilidad mía."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Y en segundo, si manipula el borde, la primera tormenta",
+                "primaveral se convertirá en un fuerte y gélido viento."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Es verdad"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Además, si hace frío y es primavera. ",
+                "¿No estarás dormida y despierta a la vez?"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "¿Te refieres al noctambulismo?"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Ese también es mi pasatiempo."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Pasatiempo, ¿eh?",
+                "...Es una especie de síndrome."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "No, no yo."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Son los humanos los que tienen sonambulismo."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Pero yo soy capaz de manipular el límite entre",
+                "estar despierta y estar dormida."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "Vaya, qué conveniente."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "A propósito, ¿no se supone que",
+                "ya debería ser de día?"
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "En realidad, ya estamos cerca a otra puesta de sol."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Solo que siempre es de noche en este lugar..."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "¡Maldición! ¡Me saldrán ojeras tan",
+                "grandes que pareceré un oso panda!"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "¡Me engañaste!"
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "...Esa nunca fue mi intención."
+            ]
+        }
+    },
+    "22": {
+        "40_0": {
+            "lines": [
+                "¿Tú otra vez?"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Hoy estoy cansada."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Estaba a punto de irme a dormir."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "En ese caso, me aseguraré de que descanses ",
+                "en paz."
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "Cielos. Qué lugar tan peligroso."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "¿Acaso no hay nadie encargado de que ",
+                "se respete la ley aquí?"
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "No hay leyes en este mundo."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "No es como que puedas imponer pena de muerte ",
+                "a los habitantes del Inframundo, después de todo."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Oh, ¿y qué hay del juicio del Yama?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Cuando eres más fuerte que el propio Yama,",
+                "puedes todo lo que desees."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Así es en este lugar... no, así funciona ",
+                "en todas partes."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "¿Más fuerte en qué sentido?",
+                "¿Financieramente?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "En astucia."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "¿Y quién es esa “astuta” persona con la ",
+                "que tengo el gusto de hablar?"
+            ]
+        },
+        "110_h1_0": {
+            "lines": [
+                "La Mente Maestra Tras las Desapariciones",
+                "Yukari Yakumo"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Ran me habló mucho de ti."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Oh, parece que me he hecho famosa."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Así es. Y yo siempre he deseado conocer ",
+                "a alguien tan famosa como tú."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Tanto que te despertaste enseguida, ",
+                "por lo que veo."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Aunque no puedo darte un autógrafo."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "No hay problema, con escribir",
+                "tus fanfarronerías bastará."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "¿Fanfarronerías?"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Parece que aún no te has dado cuenta."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "¿Cuenta de qué? ¿De que de astuta ",
+                "no tienes nada?"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "De que la frontera entre la tierra pura",
+                "y el infierno se desvanece."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Este lugar se ha convertido en una ",
+                "tierra sin ley, habitada por los oni."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Comparado con el Makai, este lugar no ",
+                "da nada de miedo."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Y los oni no son nada comparado con ",
+                "los demonios."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "No creas que podrás escapar."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Todo lo que te espera más allá son ",
+                "los peores horrores del infierno."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Está bien, mientras tenga una cuerda hecha ",
+                "de telaraña,"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "podré encontrar un camino al cielo."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Ja, ja ja..."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "De nada te servirá, pues el camino a ",
+                "través de mi barrera"
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "es más delgado, más estrecho, que ",
+                "cualquier telaraña."
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Ahh, es el cielo."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "¿Cómo es posible que fueras capaz de ",
+                "pasar entre mis barreras?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Las telarañas son capaces de capturar cosas",
+                "aun más grandes que una araña misma."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Como una mariposa, por ejemplo."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Ah, ya entiendo."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Dicen que si ves una araña de noche significa ",
+                "que alguien va a asaltar tu casa."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "¿Me estás llamando ladrona?",
+                "Oh, por favor."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Aunque ahora que lo dices... con este uniforme de ",
+                "sirvienta resulta muy difícil meterme en problemas."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "No es como que haya algo en mi casa ",
+                "que valga la pena robar..."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Y aun así estoy segura de que valen mucho más ",
+                "que ese santuario ubicado en el límite de Gensokyo."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "No me sorprende."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "¿Qué podría haber en la casa de",
+                "alguien que solo duerme todo el día?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Qué grosera.",
+                "Mi casa está llena de cosas bonitas."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Eso no es lo que dijiste hace un rato."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Por ejemplo, mi futón."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Nadie va a robar eso..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Y mi almohada."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Así que realmente no hay nada..."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Pero a veces me encuentro con algunas ",
+                "cosas flotando a la deriva."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "... ¿Hay algún mar por aquí?"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Como humanos, niños o adultos."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Más te vale regresarlos a sus hogares."
+            ]
+        }
+    }
+}

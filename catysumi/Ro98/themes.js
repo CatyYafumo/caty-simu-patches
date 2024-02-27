@@ -1,0 +1,16 @@
+{
+    "th06_02": "Bad Apple",
+    "th06_03": "Spirit Battle ~ Perdition Crisis",
+    "th06_04": "Dimension Of Reverie",
+    "th06_05": "Reiten ~ Spiritual Heaven",
+    "th06_06": "Dream Land",
+    "th06_07": "Sleeping Terror",
+    "th06_08": "Civilization Of Magic",
+    "th06_09": "Now Until the Moment You Die",
+    "th06_10": "Love Of Magical Chimes",
+    "th06_11": "Strawberry Crisis",
+    "th06_12": "End of the World ~ World's End",
+    "th06_13": "Legendary Illusion ~ Infinite Beign",
+    "th06_14": "Reincarnation",
+    "th06_15": "Complete Darkness",
+}
