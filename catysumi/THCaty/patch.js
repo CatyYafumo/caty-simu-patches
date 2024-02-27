@@ -6,8 +6,8 @@
     ],
     "id": "THCaty",
     "servers": [
-        "https://srv.thpatch.net/catysumi/"
+        "https://mirrors.thpatch.net/catysumi/catysumi/thcaty/patch.js"
     ],
-    "title": "Touhou Caty",
+    "title": "Caty Yafumo Phantasm",
     "update": true
 }

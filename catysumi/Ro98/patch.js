@@ -3,9 +3,9 @@
 		"nmlgc/base_tsa",
 		"nmlgc/script_latin"
     ],
-    "id": "ro98",
+    "id": "Ro98",
     "servers": [
-        "https://srv.thpatch.net/catysumi/"
+        "https://mirors.thpatch.net/catysumi/catysumi/ro98/patch.js"
     ],
     "title": "Return Of 98",
     "update": true"

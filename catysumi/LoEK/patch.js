@@ -6,7 +6,7 @@
   ],
   "id": "LoEK",
   "servers": [
-    "https://srv.thpatch.net/catysumi/"
+    "https://srv.thpatch.net/catysumi/catysumi/loek/patch.js"
   ],
   "title": "Touhou x Hollow Knight ~ Legacy Of Eternal Kingdom",
   "update": true
