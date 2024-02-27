@@ -5,7 +5,7 @@
     ],
     "id": "ro98",
     "servers": [
-        "https://srv.thpatch.net/ro98/"
+        "https://srv.thpatch.net/catysumi/"
     ],
     "title": "Return Of 98",
     "update": true"

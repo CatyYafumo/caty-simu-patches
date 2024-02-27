@@ -6,7 +6,7 @@
     ],
     "id": "THCaty",
     "servers": [
-        "https://srv.thpatch.net/thcaty/"
+        "https://srv.thpatch.net/catysumi/"
     ],
     "title": "Touhou Caty",
     "update": true
