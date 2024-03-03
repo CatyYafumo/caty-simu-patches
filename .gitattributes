@@ -3,4 +3,5 @@
 *.js text
 *.jdiff text
 *.png binary
+*.wav binary
 *.ogg binary
