@@ -160,10 +160,10 @@
     "17": [
         "@",
         "　",
-        "The staff roll theme.",
+        "Te staff roll theme.",
         "",
-        "same with title",
-        "",
+        "I thought about leaving it as is but I changed my mind.",
+        "And to finish a game you have to feel power, this metal cover by LittleV is perfect!",
         ""
     ]
 }
