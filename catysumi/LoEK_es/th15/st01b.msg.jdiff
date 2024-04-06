@@ -1,0 +1,74 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "¡Hegemol! ¡Detente!",
+                "¡Soy yo!"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Jaja"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Es mía,",
+                "¡Mía!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¡Esta armadura me pertenece!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Oh ahora entiendo",
+                "Ladrón... Te las verás conmigo."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Espera ¡¿Como lo sabes?!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Esta armadura..."
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Oh Creo...",
+                "Si, soy un ladrón..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¡No me juzgues!",
+                "Solo quería proteger a mis hermanos"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Es comprensible,",
+                "¡pero busca una alternativa mejor que robar!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Es cierto...",
+                "Perdón."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Agradece que sé lo que sientes.",
+                "Te hubiera matado ahora mismo."
+            ]
+        }
+    }
+}

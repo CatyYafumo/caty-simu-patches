@@ -1,0 +1,278 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Llegan demasiado tarde."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Ya he sellado todas las puertas.",
+                "Ahora no se llevarán a la princesa."
+            ]
+        },
+        "121_1": {
+            "lines": [
+                "¿Por qué nos interesaría una princesa?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Hm... Lo siento más cerca..."
+            ]
+        },
+        "123_h1_0": {
+            "lines": [
+                "Reisen Udongein Inaba"
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "¿Qué? ¿Son youkai?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "No les debería ser posible encontrar este lugar. ",
+                "Como sea, no hay nada de qué preocuparse."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Somos humanos, ambos."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Los humanos me preocupan incluso menos."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "¡Esque no nos conoces! Y lo sé.",
+                "Esos arcoíris y la luna falsa son de aquí"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Oh",
+                "¿Cómo lo ha adivinado?"
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Mencionaste algo que nada que ver..."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Okay ya. Osea",
+                "¡Tú haz hecho eso a la Luna!"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Pues sí",
+                "Es el hechizo más poderoso de mi maestra Eirin."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Convirtió a la Tierra en una enorme cámara sellada.",
+                "Eso es"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Oh vaya."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Reisen",
+                "Un inconveniente se ha presentado."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "La princesa no quiere que sea interrumpida,",
+                "menos por esas personas extrañas."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "¡Vez Sumi!"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "No entendí"
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "¡Ella está aquí por lo mismo que nosotros!"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "¿La conoce?",
+                "No importa."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Udonge. Que nadie se acerque",
+                "¿entendido?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Te lo encargo."
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "Déjemelo a mí.",
+                "No permitiré que abran ninguna de las puertas selladas."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Ya me perdí",
+                "Pero acabaré contigo."
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "Y pronto... Así que",
+                "¡A tí te mostraré el poder de mi tierra!"
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Je. No he tenido con quién pelear últimamente,",
+                "así que esto es perfecto."
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "¡Les mostraré todo sobre la ",
+                "locura lunar!"
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "No suena complicado"
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "Mi poderosa hipnosis, que sumió a los humanos ",
+                "que llegaron a la Luna en la locura. Fueron muy débiles."
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "A diferencia de otros",
+                "¡La noche nos empodera!"
+            ]
+        },
+        "269_0": {
+            "lines": [
+                "¿De verdad? Entonces..."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "¿Podrán mantenerse cuerdos",
+                "tras contemplar los ojos de esta coneja lunar?"
+            ]
+        }
+    },
+    "3": {
+        "180_0": {
+            "lines": [
+                "Sigue tus ojos (FinalA)",
+                "Confía en tu intuición (FinalB)"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Bien, ¿está cerca quien dices?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Eso parece pero yo no soy adivina."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Que pena"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Hay dos objetivos parece..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "¡Iremos por el que sea!"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Mi señora..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "¡Vamos hacia allá!"
+            ]
+        }
+    },
+    "2": {
+        "60_0": {
+            "lines": [
+                "Bien, ahora por donde"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Siento por ahí... ¿Es quien creo que es?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "¿Por está?",
+                "Uy, ¡esos arcoíris!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "¡Oh no!",
+                "No logré sellarla a tiempo."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Es lo que pensé..."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Oh ¿Encerio?",
+                "Vamos."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Ay, mi señora se enojará conmigo...."
+            ]
+        }
+    }
+}

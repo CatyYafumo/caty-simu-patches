@@ -1,0 +1,70 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "¡Esto es divertido!"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "¿Divertido?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Ya no te será divertido.",
+                "No debiste haber pasado por aquí."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¡Oh eres tu!",
+                "¡Que fácil fue derrotarte esa vez!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Hm fue así."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¡Pero ahora no tendrás la misma suerte!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Huh?",
+                "¿Me haz derrotado?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¡Si! ¡Y ahora lo hice por mi propia cuenta!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Debo ir donde mi amigo ahora."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Fue divertido",
+                "Quisiera jugar un poco más"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "¡Pero debemos sacar a Hallownest de Gensokyo!"
+            ]
+        }
+    }
+}
