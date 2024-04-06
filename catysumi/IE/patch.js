@@ -6,7 +6,7 @@
   ],
   "id": "IE",
   "servers": [
-    "https://srv.thpatch.net/catysumi/ie/"
+    "https://srv.thpatch.net/catysumi/catysumi/ie/"
   ],
   "title": "Infinite Eclipse (Danmaku EoL)",
   "update": true
