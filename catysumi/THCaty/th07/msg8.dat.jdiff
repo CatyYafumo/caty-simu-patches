@@ -2,7 +2,7 @@
     "2": {
         "40_0": {
             "lines": [
-                "Con que eras tu"
+                "¿Haz venido denuevo?"
             ]
         },
         "120_0": {
@@ -12,7 +12,7 @@
         },
         "210_0": {
             "lines": [
-                "Pero estoy tan cansada."
+                "Estas siendo algo agobiante..."
             ]
         },
         "300_0": {
@@ -24,7 +24,7 @@
     "0": {
         "60_0": {
             "lines": [
-                "Ya es hora de que la verdad salga a la luz."
+                "Ya es hora de que la ama salga."
             ]
         },
         "61_0": {
@@ -50,12 +50,12 @@
         "104_h1_0": {
             "lines": [
                 "Pequeña Guerrera Profanadora",
-                "Caty Yafumo"
+                "Caty"
             ]
         },
         "104_0": {
             "lines": [
-                "Tu acabas de ganar un duelo contra la Andro"
+                "¡Tu acabas de ganar un duelo contra mi amiga!"
             ]
         },
         "105_0": {
@@ -312,78 +312,78 @@
     "12": {
         "40_0": {
             "lines": [
-                "¿Tú otra vez?"
+                "¿Haz venido otra vez?"
             ]
         },
         "120_0": {
             "lines": [
-                "Hoy estoy cansada."
+                "Pero parece que tampoco te haz ido de aquí..."
             ]
         },
         "210_0": {
             "lines": [
-                "Estaba a punto de irme a dormir."
+                "Nosotros no tenemos nada que ver con el exterior.",
+                "¡Vete ya!"
             ]
         },
         "300_0": {
             "lines": [
-                "Vaya dedicación..."
+                "¿Me vaz a obligar?"
             ]
         }
     },
     "10": {
         "60_0": {
             "lines": [
-                "Extraño."
+                "Me cuesta saber si dicen la verdad."
             ]
         },
         "61_0": {
             "lines": [
-                "Diabólicamente extraño."
+                "Este lugar no me parece de confiar"
             ]
         },
         "61_1": {
             "lines": [
-                "¿Qué es extraño?"
+                "Afirmaré que tu si ¿verda'?"
             ]
         },
         "102_0": {
             "lines": [
-                "¿El color de la Luna esta noche?",
-                "O..."
+                "Bueno tal ve' solo sea mi caso",
             ]
         },
         "104_0": {
             "lines": [
-                "El brillo de la luna."
+                "¿Así que tu eres la ama?"
             ]
         },
         "105_0": {
             "lines": [
-                "Es demasiado brillante, ¿no crees?"
+                "Supongo."
             ]
         },
         "106_0": {
             "lines": [
-                "La luz de la Luna es un reflejo de la del Sol."
+                "Me han dicho que han venio muchos forasteros",
+                "por aquí últimamente"
             ]
         },
         "107_0": {
             "lines": [
-                "Esa es la única llave de la frontera",
-                "entre el día y la noche."
+                "No creo que debería darte la bienvenia",
+                "a mi morada entonce'."
             ]
         },
         "108_0": {
             "lines": [
-                "Así que habrá luz",
-                "sea de día o de noche, ¿eh?"
+                "¿Se te metió algo en la boca?"
+                "No te entiendo nada."
             ]
         },
         "109_0": {
             "lines": [
-                "Sí, pero ¿no será porque el Inframundo,",
-                "donde estamos, se ubica por encima de las nubes?"
+                "¿No será porque somos de lugar distintos?"
             ]
         },
         "110_0": {
@@ -393,48 +393,49 @@
         },
         "111_h1_0": {
             "lines": [
-                "La Mente Maestra Tras las Desapariciones",
-                "Yukari Yakumo"
+                "Pequeña Guerrera Profanadora",
+                "Caty"
             ]
         },
         "111_0": {
             "lines": [
-                "Ran me ha hablado de ti."
+                "Sea como me llame, no soy quien buscan ustedes.",
+                "Se han equivocao de hace rato"
             ]
         },
         "112_0": {
             "lines": [
-                "Ajá. Así que tú eres su ama."
+                "Ah pues tendré que retirarme ¿no?"
             ]
         },
         "113_0": {
             "lines": [
-                "Así es, oí que Ran te causó algunos problemas."
+                "No no ¡espera!"
             ]
         },
         "114_0": {
             "lines": [
-                "A la gente del Inframundo, no a mí."
+                "¿eh?"
             ]
         },
         "115_0": {
             "lines": [
-                "Bueno, en ese caso..."
+                "Me ai caio bien."
             ]
         },
         "116_0": {
             "lines": [
-                "Continuaré donde ella lo dejó."
+                "¡Quedate un poco y pelea conmigo!"
             ]
         },
         "117_0": {
             "lines": [
-                "Más molestias..."
+                "En serio..."
             ]
         },
         "118_0": {
             "lines": [
-                "¿No te has dado cuenta aún?"
+                "Porfa"
             ]
         },
         "119_0": {
@@ -444,28 +445,28 @@
         },
         "120_0": {
             "lines": [
-                "Esta noche hay luna nueva."
+                "He estado muy aburrida."
             ]
         },
         "121_0": {
             "lines": [
-                "Sostengo el límite entre el día y",
-                "la noche en la palma de mi mano."
+                "Desde hace tiempo no aparece un",
+                "enemigo que resista mucho."
             ]
         },
         "122_0": {
             "lines": [
-                "¿Acaso no eres una youkai nocturna?"
+                "No me insistas niña"
             ]
         },
         "123_0": {
             "lines": [
-                "Si uso este poder..."
+                "¿Que... fue... lo que escuche?"
             ]
         },
         "124_0": {
             "lines": [
-                "... ¿O eras diurna?"
+                "eh..."
             ]
         },
         "125_0": {
