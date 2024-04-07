@@ -1,4 +1,16 @@
 {
+    "118": "Magia <Resurreción fantasmal>",
+    "119": "Otro mundo <Mortíferas cuatro estaciones>",
+    "120": "Destrucción <Último Prisma>",
+    "121": "Maleficio Constante <Día y Noche>",
+    "122": "Iluminación <Arcoíris Eterno>",
+    "123": "<Destello Celestial Lunar>",
+    "124": "Pesadillas <Ilusión de la mente perturbada>",
+    "125": "Invocación <Apocalipsis Estelar>",
+    "126": "Anillo Maldito <Dominación Oscura>",
+    "127": "Calamidad <Caos de profecías en una palabra>",
+    "128": "<Eternidad de la luna llena>",
+    "129": "Caos Floral <Espinas Negras>",
     "130": "Destrucción <3 reliquias de la Calamidad>",
     "131": "<Destello que retuerce la mente>",
     "132": "<Arco de la profanación>",
@@ -6,8 +18,8 @@
     "134": "Sello de la aventura <Prismas Iluminados>",
     "135": "Profanación <Maldad condenada>",
     "136": "Tierra inhospita de oscuridad <Constante>",
-    "137": "Andromeda <Galaxia purificada>",
+    "137": "Vórtice y Nebulosa <Galaxias Puras>",
     "138": "Sello de ruinas <El sol sellado en abismo>",
     "139": "Sello de un viaje <Infierno convertido en cielo>",
-    "140": "Belleza destructiva <Tirana de los tiranos>"
+    "140": "Profanación Definitiva <Tirana de los tiranos>"
 }
