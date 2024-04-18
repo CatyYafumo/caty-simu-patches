@@ -2,6 +2,7 @@
 * text eol=lf
 *.js text
 *.jdiff text
+*.sht text
 *.wav binary
 *.png binary
 *.ogg binary
