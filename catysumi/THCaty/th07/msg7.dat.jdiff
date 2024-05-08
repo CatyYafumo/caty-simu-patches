@@ -107,7 +107,7 @@
         },
         "115_0": {
             "lines": [
-                "¡Eso es como ser una sacerdotista!"
+                "¡Eso es como una sacerdotista!"
             ]
         },
         "116_0": {
@@ -178,17 +178,17 @@
         },
         "129_0": {
             "lines": [
-                "¿Dices que me vaz a atacar?"
+                "¿Dices que soy mala?"
             ]
         },
         "130_0": {
             "lines": [
-                "No precisamente, ¡pero lo haz pedido!"
+                "No precisamente, ¡pero haz pedido una batalla!"
             ]
         },
         "131_0": {
             "lines": [
-                "Okay"
+                "Muy bien"
             ]
         },
         "132_0": {
@@ -232,7 +232,7 @@
         },
         "63_0": {
             "lines": [
-                "Como lo pensé..."
+                "Oh, como lo pensé..."
             ]
         },
         "64_0": {
@@ -273,17 +273,18 @@
         },
         "71_0": {
             "lines": [
-                "¿Que me quieres decir?"
+                "Un poco de respeto hacia tus amigos ¿si?"
             ]
         },
         "72_0": {
             "lines": [
-                "Si rompes la paz en este lugar..."
+                "Esta mansión no se destruirá así."
             ]
         },
         "73_0": {
             "lines": [
-                "Verás al verdadero amo de esta mansión."
+                "Pero si planeas algo contra este hogar,",
+                "ahí si verás a su dueña."
             ]
         },
         "74_0": {
@@ -298,7 +299,7 @@
         },
         "76_0": {
             "lines": [
-                "Ahora tu estás siendo escortez."
+                "Eso si fue descortez"
             ]
         },
         "77_0": {
@@ -330,39 +331,39 @@
     "12": {
         "40_0": {
             "lines": [
-                "Finally, we meet again."
+                "¡Nos volvemos a ver!"
             ]
         },
         "120_0": {
             "lines": [
-                "Today, I have now become..."
+                "¿Haz venido a ver que hay aquí?"
             ]
         },
         "210_0": {
             "lines": [
-                "...freshly and newly possessed!"
+                "¡Yo también!"
             ]
         },
         "300_0": {
             "lines": [
-                "Well, it's only been ten days."
+                "Espera ¿tu otra vez?"
             ]
         }
     },
     "10": {
         "60_0": {
             "lines": [
-                "Ahh,"
+                "Que extraño lugar"
             ]
         },
         "61_0": {
             "lines": [
-                "What's all this commotion?"
+                "¿Qué son esas criaturas?"
             ]
         },
         "61_1": {
             "lines": [
-                "This evening, let's do fun banquet preparations again..."
+                "Oh vaya."
             ]
         },
         "102_h1_0": {
@@ -373,264 +374,253 @@
         },
         "102_0": {
             "lines": [
-                "Ooh, I see a human."
+                "A que se debe la visita de otro humano"
             ]
         },
         "103_0": {
             "lines": [
-                "Preparations are fun?",
-                "You're a weirdo."
+                "Ah ¿Un youkai?"
             ]
         },
         "105_0": {
             "lines": [
-                "What are you saying?",
-                "I meant preparations for a \"fun banquet\"."
+                "¿Que?",
+                "Que palabra tan rara."
             ]
         },
         "107_0": {
             "lines": [
-                "Well, I mean, some people DO."
+                "¿palabra rara?"
             ]
         },
         "108_0": {
             "lines": [
-                "Y'know, think that preparing is the most enjoyable part."
+                "Que ¿acaso no existen youkais por aquí?"
             ]
         },
         "109_0": {
             "lines": [
-                "Anyways, have you seen a cat around",
-                "these parts, by any chance?"
+                "Hmm supongo que no."
             ]
         },
         "110_0": {
             "lines": [
-                "The preparations are actually her job."
+                "Existen muchos tipos de criaturas aquí",
+                "pero no esos tales /"Youkais/""
             ]
         },
         "111_0": {
             "lines": [
-                "If you're talking about Chen, then no, I haven't seen her."
+                "Oh vaya."
             ]
         },
         "112_0": {
             "lines": [
-                "Aha! It was you, then!",
-                "You're the jerk who caused Chen trouble!"
+                "¿Podrías responderme la pregunta de antes?"
             ]
         },
         "113_0": {
             "lines": [
-                "How rude! I don't cause anyone trouble!"
+                "Busco a alguien..."
             ]
         },
         "114_0": {
             "lines": [
-                "I only made her something too terrible to look at."
+                "para que nos ayude en un problema."
             ]
         },
         "115_0": {
             "lines": [
-                "Chen is my shikigami."
+                "¡Ah si!"
             ]
         },
         "116_0": {
             "lines": [
-                "Though she's a shikigami, she's not so cheap."
+                "Con gusto mi amiga los ayudaría."
             ]
         },
         "117_0": {
             "lines": [
-                "Shikigami use shikigami?"
+                "Oh ¿en serio?"
             ]
         },
         "118_0": {
             "lines": [
-                "Isn't that vaguely cannibalistic?"
+                "Quiero hablar con ella de prisa."
             ]
         },
         "119_0": {
             "lines": [
-                "I don't mean I <i$eat> her!"
+                "Ella está ocupada por ahora."
             ]
         },
         "120_0": {
             "lines": [
-                "Anyways, so what you're saying is that",
-                "you—a shikigami—must have a master."
+                "¿Qué?"
             ]
         },
         "121_0": {
             "lines": [
-                "I bet it might be Chen?"
+                "¡Tengo prisa! porfavor"
             ]
         },
         "122_0": {
             "lines": [
-                "No way."
+                "No no."
             ]
         },
         "123_0": {
             "lines": [
-                "My mistress is fast asleep."
+                "¡No deberías molestarla tan repentinamente!"
             ]
         },
         "124_0": {
             "lines": [
-                "Someone who can use a \"shikigami that",
-                "can use shikigami\" is surely interesting."
+                "..."
             ]
         },
         "125_0": {
             "lines": [
-                "Mind if I speak to this mistress of yours?"
+                "Suenas muy sobreprotectora."
             ]
         },
         "126_0": {
             "lines": [
-                "I am also her guardian."
+                "Los guardiantes de este lugar..."
             ]
         },
         "127_0": {
             "lines": [
-                "And as such I have no intention of letting those who",
-                "make my shikigami too terrible to look at meet with her."
+                "Nos ayudamos mutuamente."
             ]
         },
         "128_0": {
             "lines": [
-                "Oh, I get it."
+                "Vamos."
             ]
         },
         "129_0": {
             "lines": [
-                "Now I just have to make you",
-                "too terrible to look at too."
+                "Y si te gano en una pelea de danmaku",
+                "¿Me llevarías con ella?"
             ]
         },
         "130_0": {
             "lines": [
-                "I don't get what you think you \"get.\""
+                "¿Danmaku? ¿es ese bullet hell?"
             ]
         },
         "131_0": {
             "lines": [
-                "Very soon, I will make you too terrible",
-                "not to just look at but to do anything."
+                "Le gustará ver a alguien fuerte",
+                "Acepto."
             ]
         }
     },
     "11": {
         "60_0": {
             "lines": [
-                "Okay, show yourself, you youkai."
+                "Okey ¡ahora guíame!"
             ]
         },
         "61_0": {
             "lines": [
-                "Gee, she's strong."
+                "Eres fuerte."
             ]
         },
         "62_0": {
             "lines": [
-                "No wonder Chen had no chance against her."
+                "A ella le gustará conocerte."
             ]
         },
         "63_0": {
             "lines": [
-                "Where's your mistress?"
+                "¿Donde está ella?"
             ]
         },
         "64_0": {
             "lines": [
-                "Master Yukari is still sleeping."
+                "Oh sinceramente no lo se."
             ]
         },
         "65_0": {
             "lines": [
-                "Ahh?"
+                "¿Ahh?"
             ]
         },
         "66_0": {
             "lines": [
-                "She doesn't wake up even when",
-                "her shikigami is in a mess?"
+                "Oye."
             ]
         },
         "67_0": {
             "lines": [
-                "Wake her up."
+                "¡Que robo!"
             ]
         },
         "68_0": {
             "lines": [
-                "You say that, but Master Yukari isn't heeere."
+                "No te precipites. Ella volverá."
             ]
         },
         "69_0": {
             "lines": [
-                "So you're a long-distance type?"
+                "Entonces..."
             ]
         },
         "70_0": {
             "lines": [
-                "You have quite a bit of power for that",
-                "type though."
+                "¿Que diablos voy a hacer en este tiempo?"
             ]
         },
         "71_0": {
             "lines": [
-                "What are you talking about?"
+                "Lo que quieras."
             ]
         },
         "72_0": {
             "lines": [
-                "I've been in shikigami possession for",
-                "quite a long time."
+                "Terraria en sí es una tierra libre."
             ]
         },
         "73_0": {
             "lines": [
-                "My power surely exceeds that of",
-                "average youkai."
+                "Pero nosotros mantenemos la paz aquí."
             ]
         },
         "74_0": {
             "lines": [
-                "Okay, I understand that you're plainly",
-                "worthless."
+                "Vale."
             ]
         },
         "75_0": {
             "lines": [
-                "What should I do to wake her up?"
+                "Entiendo bien."
             ]
         },
         "76_0": {
             "lines": [
-                "She will at night."
+                "Vuelve en un rato más."
             ]
         },
         "77_0": {
             "lines": [
-                "I only see her when she is sleeping, anyway."
+                "Solo no causes desastres."
             ]
         },
         "78_0": {
             "lines": [
-                "So I have to wait till nighttime..."
+                "Muy bien."
             ]
         },
         "79_0": {
             "lines": [
-                "Well, you may go back to your",
-                "fun banquet preparations."
+                "¿Cuanto tiempo tendré que esperaar?"
             ]
         },
         "80_0": {
             "lines": [
-                "...sob sob..."
+                "eh..."
             ]
         }
     },

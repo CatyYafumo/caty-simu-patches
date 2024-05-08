@@ -312,45 +312,44 @@
     "12": {
         "40_0": {
             "lines": [
-                "¿Haz venido otra vez?"
+                "¿Qué ha sido todo eso?"
             ]
         },
         "120_0": {
             "lines": [
-                "Ya te lo he dicho"
+                "Ya te lo dije."
             ]
         },
         "210_0": {
             "lines": [
-                "Nosotros no tenemos nada que ver con el exterior.",
-                "¡Vete ya!"
+                "¡Nunca causes desastres en este lugar!"
             ]
         },
         "300_0": {
             "lines": [
-                "¿Me vaz a obligar?"
+                "Espera ¿que?"
             ]
         }
     },
     "10": {
         "60_0": {
             "lines": [
-                "Me cuesta saber si dicen la verdad."
+                "¡No estoy causando desastres!"
             ]
         },
         "61_0": {
             "lines": [
-                "Este lugar no me parece de confiar"
+                "¡Estas criaturas los causan!"
             ]
         },
         "61_1": {
             "lines": [
-                "Afirmaré que tu si ¿verda'?"
+                "¿Eras tú?"
             ]
         },
         "102_0": {
             "lines": [
-                "Bueno tal ve' solo sea mi caso",
+                "¡Tú me estabas buscando! ¿No?",
             ]
         },
         "104_0": {
@@ -405,7 +404,7 @@
         },
         "112_0": {
             "lines": [
-                "Ah pues tendré que retirarme ¿no?"
+                "Uh... todo para nada."
             ]
         },
         "113_0": {
@@ -456,7 +455,7 @@
         },
         "122_0": {
             "lines": [
-                "No me insistas niña"
+                "No me insistas niña."
             ]
         },
         "123_0": {
@@ -471,12 +470,12 @@
         },
         "125_0": {
             "lines": [
-                "Aguantaría insultos pero eso no"
+                "Ah por favor."
             ]
         },
         "126_0": {
             "lines": [
-                "Me es una falta de respeto"
+                "¿Pueden dejar de decirme so?"
             ]
         },
         "127_0": {
@@ -650,7 +649,8 @@
         },
         "90_0": {
             "lines": [
-                "Me agrada este lugar."
+                "debo admitir que me",
+                "agrada este lugar."
             ]
         },
         "91_0": {
