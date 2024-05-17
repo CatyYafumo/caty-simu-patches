@@ -8,6 +8,6 @@
     "servers": [
         "https://mirrors.thpatch.net/catysumi/catysumi/thcaty/"
     ],
-    "title": "Caty Yafumo Phantasm",
+    "title": "(TH07) Caty BossFight Addon",
     "update": true
 }
