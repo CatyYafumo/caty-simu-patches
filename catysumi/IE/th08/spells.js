@@ -203,7 +203,7 @@
     "201": "Teorias Fumadas 3",
     "202": "\"Hollow Manía\"",
     "203": "\"SILKSONG SALE MAÑANA\"",
-    "204": "\"SILKSONG NO SALE MAÑANA\"",
+    "204": "\"SILKSONG SALE MAÑANA\"",
     "205": "Tormenta de Mariposas Fuera de Temporada",
     "206": "Ave Ciega Nocturna",
     "207": "Emperador del País del Sol Naciente",
