@@ -26,7 +26,7 @@
     "48": "Weaver <Ring Of Silk>",
     "50": "Hallownest Protector <Needle & Silk>",
     "52": "Hallownest Protector <Needle & Silk>",
-    "54": "Daugther Of Hallownest <Pale Silksong>",
+    "54": "Daughter Of Hallownest <Pale Silksong>",
     "58": "Nightmare Sign <Feed The Child>",
     "60": "Nightmare Sign <Feed The Child>",
     "62": "Nightmare Heart <Essence Of Chaos>",
