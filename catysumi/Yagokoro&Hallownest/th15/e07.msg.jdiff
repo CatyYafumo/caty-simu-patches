@@ -1,0 +1,210 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Hornet:  $Eirin:  >Después de una gran batalla de ensueño, Hallownest desapareció de Gensokyo..."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Después de la victoria, los heroes se dirigieron al Eientei"
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Hornet:  >\"Eirin...\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$>\"¡No puedo creer que lo hayas logrado!\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$>\"Realmente... Me sorprende Gensokyo.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Eirin:   >\"Heheh...\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$>\"No fue fácil...\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$>\"Pero afortunadamente...\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$>\"Todo está resuelto ahora.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Hornet:   >\"Respecto a \"Todo está resuelto ahora...\"\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$>\"¡Qué pasa con mi otra parte!\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$>\"¡La que no me contaste\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Eirin:   >\"Oh si...\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$>\"Estarás bien.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<l$>\"Si eso pasó cuando llegaste a Gensokyo...\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<l$>\"Se resolverá al volver.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$>\"No te preocupes.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Hornet:  >\"Oh...\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Eirin:  >\"También...\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$>\"Hay muchas cosas que no me quedan claras...\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$>\"Puedes...\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<l$>\"¿Contarme más de su mundo?\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Hornet:  >\"Eh...\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<l$>\"¿Estás segura..?\""
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Eirin:   >\"¿Te lastima..?\""
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Hornet:   >\"...\""
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Eirin:   >\"Me pregunto si podría hacer...\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<l$>\"Una medicina que evite ser infectado.\""
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<l$>\"Creo que en el camino por poco caigo...\""
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Hornet:   >\"¿Cómo será posible eso?\""
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<l$>\"No creo... De verdad no creo.\""
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<l$>\"¿Por eso quieres que te diga más?\""
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "<r$Eirin:   >\"En efecto...\""
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "<r$Hornet:   >\"Está bien.\""
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "<l$>\"Pero te repito, no lo creo.\""
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Eirin tiene esperanza en ayudar a sus nuevos amigos."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Sus dudas fueron saciadas. Pero ya era tarde."
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "Ellos volvieron a Hallownest.",
+                "(Esta historia continuará en la Extra Stage...)"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Final  No.07　　Legado de Hallownest."
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "¡Haz completado el juego! Congratulations!"
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "Final Modo VerdaderoRadiante o No Miss conseguido"
+            ]
+        }
+    }
+}
