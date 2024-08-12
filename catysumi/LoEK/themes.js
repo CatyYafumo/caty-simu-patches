@@ -8,7 +8,7 @@
     "th15_07": "Broken Vessel",
     "th15_08": "Kingdom's Edge",
     "th15_09": "Daughter Of Hallownest",
-    "th15_10": "Troupe Master Grimm",
+    "th15_10": "Grimm",
     "th15_11": "Nightmare King (Metal)",
     "th15_12": "Dreamers",
     "th15_13": "Radiance (Metal)",

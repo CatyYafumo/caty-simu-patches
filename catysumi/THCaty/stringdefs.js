@@ -11,6 +11,5 @@
     "th07 config": "Touhou Caty - Environment Custom Program",
     "th07 Stats Play Count": "<tl$Veces jugada\t$Reimu Hakurei (Espíritu)\t $Reimu Hakurei (Sueño)\t $Marisa Kirisame (Magia)\t $Marisa Kirisame (Amor)\t $Sakuya Izayoi (Ilusión)\t $Sakuya Izayoi (Tiempo)\t> Faci\t Norm\t Difi\t Luna\t Destrucción\t Total",
     "th07 Stats Play Count +Phantasm": "<tl$Veces jugada\t\t\t\t\t\t\t\t\t\t\t> Faci\t Norm\t Difi\t Luna\t Destrucción\t Profanación\t Total",
- 2 215": "Con Sakura.",
     "th07": "Touhou Caty ~ Perfect Cherry Blossom Addon"
 }

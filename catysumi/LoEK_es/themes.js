@@ -8,7 +8,7 @@
     "th15_07": "Receptáculo Roto",
     "th15_08": "Límite del Reino",
     "th15_09": "Hija de Hallownest",
-    "th15_10": "Maestro de la Compañía Grimm",
+    "th15_10": "Grimm",
     "th15_11": "Rey Pesadilla (Metal)",
     "th15_12": "Soñadores",
     "th15_13": "Radiance (Metal)",
