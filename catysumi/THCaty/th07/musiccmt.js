@@ -11,7 +11,7 @@
         "Honestamente me quedé sin ideas.",
         "Estaba por poner un tema de Gloryhammer pero sentí que ninguno quedaba.",
         "Pero como ella dice: \"Nos ayudamos mutuamente\"",
-        "Si nos ponemos a pensar los \"Guardiaes\" son cada uno Shikigami del otro."
+        "Si nos ponemos a pensar los \"Guardianes\" son cada uno Shikigami del otro."
     ],
     "17": [
         "@",
