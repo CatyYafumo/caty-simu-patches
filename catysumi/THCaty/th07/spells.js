@@ -18,7 +18,7 @@
     "134": "Sello de la aventura <Prismas Iluminados>",
     "135": "Profanación <Maldad condenada>",
     "136": "Tierra inhospita de oscuridad <Constante>",
-    "137": "Vórtice y Nebulosa <Galaxias Puras>",
+    "137": "Fantasía del Horror y el Destino",
     "138": "Sello de ruinas <El sol sellado en abismo>",
     "139": "Sello de un viaje <Infierno convertido en cielo>",
     "140": "Profanación Definitiva <Tirana de los tiranos>"
