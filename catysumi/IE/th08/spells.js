@@ -199,7 +199,7 @@
     "197": "Se un gordito",
     "198": "Teorias Fumadas 2",
     "199": "Guardián de los gorditos",
-    "200": "1% ddel poder de Zote",
+    "200": "1 por ciento del poder de Zote",
     "201": "Teorias Fumadas 3",
     "202": "\"Hollow Manía\"",
     "203": "\"SILKSONG SALE MAÑANA\"",
