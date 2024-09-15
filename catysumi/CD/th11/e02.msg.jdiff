@@ -1,0 +1,54 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Caty  >La mansión de una guerrera poderosa."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Donde su ama volvía exahusta."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Abrumada por un camino borroso."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Caty  >\"¡Ah! Reviví muchas veces\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$>\"¡Ese skill issue!\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Ella se recuperó fácilmente."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "Y luego siguió lo que empezó."
+            ]
+        },
+        "7_1": {
+            "lines": [
+                "<c$Final No.09 — Tropezón de Maestros.$>"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<c$¡Intenta terminar el juego sin continuar!$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "　...　"
+            ]
+        }
+    }
+}

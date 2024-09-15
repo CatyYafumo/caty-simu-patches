@@ -1,0 +1,230 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Caty  $Calamitas  >La mansión de una guerrera poderosa."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Donde su ama volvía exahusta."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Junto a su amiga."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "Aún con preguntas."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Caty  >\"Tanto tiempo sin pelear contigo"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$>Dime algo..."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$>¿Cómo lograste saber eso?"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$>¿Donde está esa deidad?\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Calamitas   >\"Bueno, fue un accidente."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$>Uno de tus cofres brillaba"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$>Y descubrí que el terminus hacía eso."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$>Supe que no pudiste usarlo antes de derrotar a ese noxus."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$>Pero ahora funciona\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Caty   >\"Wait."
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<l$>Creí que era un bug"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<l$>Creí que no volvería a tener un boss rush."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$>¿Entonces despues de derrotarlo funcionaba?\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Calamitas  >\"Si"
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<l$>Esa cosa ahora es un teletransportador\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Caty  >\"What\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Calamitas  >\"Me llevó a un..."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<l$>Lugar extraño..."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$>Pero muy bonito"
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<l$>Creo que está ahí"
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$>No lo se con exactitud..."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<l$>Pero podrías ir a ver\""
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Caty   >\"¿Entonces cómo supiste que era una deidad?\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Calamitas   >\"El ojo de Xeroc."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<l$>Estaba en el cielo de ese mundo.\""
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Caty   >\"Uhm..."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<l$>Entonces iré a ver."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<l$>Veré si crono está dispuesto."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "<l$>Pero creo que primero le daré un descanso"
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "<l$>Pobre man.\""
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "<r$Calamitas   >\"..."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "<l$>Bueno."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "<l$>Y...\""
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "<r$Caty>\"No te disculpes, gracias.\""
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Calamitas se quería discupar por haber sido",
+                "mala con ella antes."
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "Pero la pureza de Caty lo dejaba pasar."
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "A fin de cuentas pensaba en que era algo irritante."
+            ]
+        },
+        "41_0": {
+            "lines": [
+                "Pero solo quería darle una vida mejor."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Lo que logró con éxito."
+            ]
+        },
+        "43_0": {
+            "lines": [
+                "<c$Final No.01 — El comienzo del final$>"
+            ]
+        },
+        "44_0": {
+            "lines": [
+                "<c$¡Completado! ¡Felicitaciones!$>"
+            ]
+        }
+    }
+}

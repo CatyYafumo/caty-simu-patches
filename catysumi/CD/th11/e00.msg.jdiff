@@ -1,0 +1,49 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Caty  >La mansión de una guerrera poderosa."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Donde su ama volvía exahusta."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Abrumada por un camino borroso."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Caty  >\"Estoy muy cansada\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$>\"Creo que tomaré un descanso antes de seguir\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Caty seguía sin una respuesta. Pero no se rendiría."
+            ]
+        },
+        "6_1": {
+            "lines": [
+                "<c$Final No.07 — Descansa la mente.$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$¡Intenta terminar el juego sin continuar!$>"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "　...　"
+            ]
+        }
+    }
+}
