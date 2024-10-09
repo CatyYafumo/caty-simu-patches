@@ -1,0 +1,59 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Crono  >La mansión de una guerrera poderosa."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Donde uno de sus grandes amigos volvía exahusto."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "abrumado por un camino borroso."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Crono  >\"Uhg... ¿Qué hago~?"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Parece que..."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> necesito más entrenamiento..."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$>¡Porque no voy a dejarle el control a el!\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "Parecía que Crono estaba dispuesto a volver..."
+            ]
+        },
+        "8_1": {
+            "lines": [
+                "<c$Final No.12 — Petición importante.$>"
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<c$¡Intenta terminar el juego sin continuar!$>"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "　　"
+            ]
+        }
+    }
+}
