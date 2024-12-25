@@ -1,0 +1,190 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Caty  $Marisa>En la mansión de la profanadora..."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Los participantes del duelo amistoso se reunieron."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Para cualquier charla..."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Caty  >\"Supe que te molestó un poco eso del maná."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$>Así que quería que vieramos algunas cosas."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$>Quizás se alegren\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Marisa  >\"Hm... Okay."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$>Esos artefactos se ven interesantes.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Caty  >\"Cada uno tiene sus cualidades"
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$>Ese que tienes ahí es muy esencial."
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$>Te ayudará con el problema del maná.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Marisa  >\"¿Y que hace exactamente?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Caty  >\"Mientras tengas unas pociones de maná."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$>Recuperarás maná."
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<l$>¡Sin hacer nada!"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<l$>Te sacará un peso encima"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$>Aunque hay mejores, claro.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Marisa  >\"¿Como cuales?"
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<l$>Pero, me gusta este."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$>Se ve muy peculiar\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Caty  >\"Puedes quedartelo."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<l$>Será un regalo."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$>Por haberte portado bien\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Marisa  >\"Creo que..."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$>No robaré nunca más...\""
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Marisa quedó en silencio."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "Estuvo emocionada."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "Parecía que Caty le tenía aprecio."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Marisa se dedicó a ver el artefacto más a detalle."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "Caty le dijo que era una cosa muy básica."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "Que podía darle algo mejor."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "Pero Marisa estaba satisfecha."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "Su curiosidad se había saciado."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "Pero..."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "Aún tenía una duda."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "<c$Final No. 7 — El beneficio del bien$>"
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "<c$¡Felicitaciones!$>",
+                "<c$Terminado sin Continues!$>"
+            ]
+        }
+    }
+}

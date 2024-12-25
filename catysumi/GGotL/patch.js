@@ -7,6 +7,6 @@
   "servers": [
     "https://mirrors.thpatch.net/catysumi/catysumi/ggotl/"
   ],
-  "title": "(TH16-DEMO) Touhou Profaner ~ Great Guardians of the Land",
+  "title": "(TH16) Touhou Profaner ~ Great Guardians of the Land (AU-OC)",
   "update": true
 }

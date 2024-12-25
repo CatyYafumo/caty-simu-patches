@@ -1,0 +1,64 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Wendy  $Marisa>En la mansión de la profanadora..."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Los participantes del duelo amistoso se reunieron."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Para cualquier charla..."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Marisa  >\"Uhm... Wendy."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$>Quiero decirte algo..."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$>Estoy cansada de ese sistema.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Wendy  >Entonces dile a Caty que te de algo.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "Wendy parecía estar segura de la solución."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "Quizás era algo tan simple para ellos."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<c$Final No. 8 — No Maná$>"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<c$¡Felicitaciones por terminar!$>"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<c$¡La próxima vez intenta no usar Continues!$>"
+            ]
+        }
+    }
+}

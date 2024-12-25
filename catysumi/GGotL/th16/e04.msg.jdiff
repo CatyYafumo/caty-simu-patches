@@ -1,0 +1,94 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Caty  $Yukari  >En la mansión de la profanadora..."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Los participantes del duelo amistoso se reunieron."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Yukari  >\"hhhm..."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$>Esto ya es muy agotador...\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Caty  >\"¡Yukari!"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$>¡Lady Yukari!"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$>¡Eh! ¡No se duerma!"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$>¡Esta cosa aún no termina!\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Yukari  >\"¿Hmm...?"
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$>Oh, si si...\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Caty  >\"¡Ey!"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$>¿¿¿¿Lady Yukari????\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Después de múltiples batallas."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "Yukari se canso y se quedó dormida."
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "Caty aunque intentó que no lo hiciera, falló."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<c$Final No. 4 — Sleep Time!$>"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<c$¡Felicitaciones por terminar!$>"
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<c$¡La próxima vez intenta no usar Continues!$>"
+            ]
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Sakuya  >En la mansión de la profanadora..."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Los participantes del duelo amistoso se reunieron."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Sakuya  >\"Fue entretenido usar esa arma."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$>Pero creo que ya es hora de un cambio."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$>No debería cambiar a los cuchillos."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$>¿Pero habrá algo parecido?\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "Sakuya quedó pensando en la Clase que había mencionado la Deviantt"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "Tenía curiosidad saber acerca de la clase Rogue."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "Y encontrar algo más de su estilo."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<c$Final No. 6 — Algunos Cambios$>"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<c$¡Felicitaciones por terminar!$>"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<c$¡La próxima vez intenta no usar Continues!$>"
+            ]
+        }
+    }
+}

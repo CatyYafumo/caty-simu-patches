@@ -1,0 +1,165 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Caty  $Reimu  >En la mansión de la profanadora..."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Los participantes del duelo amistoso se reunieron."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Reimu  >\"Hmm..."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$>Creo que si. Los he subestimado.\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Caty  >\"Que te dije."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$>¿Y ahora descartas que ninguno es un Youkai?\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Reimu  >\"No. ya no."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$>Bueno. Eres la siguiente ¿no?\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Caty  >\"¿De qué hablas?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Reimu  >\"¿Qué?"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$>¿No vaz a pelear?\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Caty  >\"PS..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$>Quería que ellos se lucieran esta vez."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$>Tiene que haber un tiempo de observación.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reimu  >\"¡No dijiste nada!\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Caty  >\"*sight*"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$>Ya veo"
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<l$>Creí que no habría necesidad."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<l$>Creí que te conformarías."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$>Pero bien, ya que ese es tu deseo..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$>¡Que así sea!"
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<l$>¡Toma tus armas y bailemos en un bello infierno\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "Y así se decidió."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "La continuación de ese duelo."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "Pero Reimu aún no comentaba algo."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Algo que notó luego de pelear contra Xaero."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "Sospechaba que fuera una de sus habilidades."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "Sin embargo la intuición de Reimu no parecía ser exacta."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Así que solo se preparó de una manera distinta."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "La batalla estaría por darse..."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<c$Final No.01 — La llegada del Encore$>"
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<c$¡Felicitaciones!$>",
+                "<c$Terminado sin Continues!$>"
+            ]
+        }
+    }
+}

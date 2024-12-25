@@ -1,0 +1,190 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Wendy  $Sakuya  >En la mansión de la profanadora..."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Los participantes del duelo amistoso se reunieron."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Wendy  >\"Sakuya..."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$>¿Qué haces?\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Sakuya  >\"Solo dejame hacer algo de cortesía."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$>\No hay ningún sirviente o superior ¿no?"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$>Todo está en la amabilidad de las personas.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Wendy  >\"Pero tu eres una invitada~"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$>No tienes por qué hacer ese trabajo."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$>Eso no hace el anfitrión."
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$>\Pero tienes razón en lo que dijiste.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Sakuya  >\"Ya vez."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$>Puedes dejarmelo a mí."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$>Que por cierto."
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<l$>Me agrada como funcionan las cosas aquí\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Wendy  >\"Parece que fuiste maid por mucho tiempo."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$>No es por ofender."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<l$>Me sorprendiste.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Sakuya  >No hay por donde.\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$>Pero quisiera saber."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$>¿Por qué la señorita Caty no quiso?\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Wendy  >\"Ya se a qué vaz."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$>Solo nos abrió el paso al resto."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<l$>Si de verdad quieres pelear."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$>Diselo.\""
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Sakuya  >\"Una última cosa."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<l$>¿podría cambiar mi subclase?\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "Sakuya quería contarle algo que había notado."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Wendy le pareció lógico."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "Luego Sakuya se retiró a ver a Caty."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "Para acordar otro encuentro."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "Wendy quedó agradecida."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "La cortesía de Sakuya le agradaba."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "Quizás fue un favor."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "De uno de hace tiempo atrás."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "<c$Final No. 5 — Recompensa escondida$>"
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "<c$¡Felicitaciones!$>",
+                "<c$Terminado sin Continues!$>"
+            ]
+        }
+    }
+}

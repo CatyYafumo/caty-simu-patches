@@ -138,19 +138,20 @@
     "16": [
         "@",
         "",
-        "Este es el tema final.",
-        "",
-        "Se siente como un mal final, pero para decir la verdad,",
-        "Todos los finales de esta vez son como malos finales."
+        "Tema de los Finales",
+        "-Terraria",
+        "Cuando escuchaba este tema era para mi una visión del pasado y el futuro.",
+        "Creo que es una idea general en mis finales.",
+        "Y VAMOS EL OST DE TERRARIA OTHERWORLD ES GOOD ¿NO?"
     ],
     "17": [
         "@",
         "",
-        "Este es el tema del rollo del personal.",
-        "",
-        "Es una versión diferente del tema de la etapa de invierno hecha con una imagen de una conclusión refrescante.",
-        "",
-        "Hablando de que. ¿Por qué es una canción de invierno blizzard refrescante, usted pregunta?",
-        "Eso es porque lo hice con \"temprano en la mañana\" en mente. Fuyu wa tsutomete, como dicen."
+        "Tema de los Créditos.",
+        "-ssbbmaster",
+        "Siempre soy cuidadosa con elegir un tema para esta parte.",
+        "Finalidad y poder OBLIGATORIOS. Aunque el metal es de lo último.",
+        "La finalidad y \"epiquicidad\" los logro sentir cuando el tema",
+        "me hace sentir como en una T pose cristo redentor, no se si me explico."
     ]
 }

@@ -1,0 +1,76 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Este lugar me empieza a gustar."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Es tan sereno..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "¡Alguien nuevo!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Que haces aquí comenzando con un arma así."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "¿Tienes algún conocido en este lugar?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Si tengo conocidos aquí."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "pero aún no manejo bien esta arma."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "¡Puedes entrenar conmigo!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "¡Está bien!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Mmm."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Sigo prefiriendo los cuchillos."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "¿Cuchillos arrojadizos dices? Esos son de Clase Rogue."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "¿Clase Rogue?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Bueno, gracias por el dato."
+            ]
+        }
+    }
+}
