@@ -11,7 +11,7 @@
     "18": "\"Verdadera Magia de Azufre\"",
     "20": "\"Sagrada Lluvia de Slimes\"",
     "22": "Sello Prismático \"Iluminación Cristalizada\"",
-    "24": "Sello Prismático \"Iluminación Cristalizana\"",
+    "24": "Sello Prismático \"Iluminación Cristalizada\"",
     "26": "\"Sagradas Estrellas Etereas\"",
     "29": "\"Sagradas Estrellas Eternas\"",
     "30": "\"Choque del Carmesí y la Bendición\"",
