@@ -2,7 +2,7 @@
     "0": {
         "0_0": {
             "lines": [
-                "<ts$Eirin:  $Hornet:  $Both:  >De cualquier lugar de Gensokyo se podía ver la tierra de Hallownest desapareciendo de ese mundo."
+                "<ts$Eirin:  $Hornet:  $Ambas:  >De cualquier lugar de Gensokyo se podía ver la tierra de Hallownest desapareciendo de ese mundo."
             ]
         },
         "1_0": {
@@ -32,7 +32,7 @@
         },
         "6_0": {
             "lines": [
-                "<l$>\"¿De verdad la haz matado?\""
+                "<l$>\"¿De verdad la has derrotado?\""
             ]
         },
         "7_0": {
@@ -47,7 +47,7 @@
         },
         "44_0": {
             "lines": [
-                "You have completed the game! Congratulations!"
+                "Has Completado el juego! Congratulations!"
             ]
         },
         "9_0": {
@@ -67,7 +67,7 @@
         },
         "12_0": {
             "lines": [
-                "<l$>\"Después de todo ella la creo\""
+                "<l$>\"Después de todo ella la creó\""
             ]
         },
         "13_0": {
@@ -198,7 +198,7 @@
         },
         "38_0": {
             "lines": [
-                "<r$Both:   >\"uh?...\""
+                "<r$Ambas:   >\"uh?...\""
             ]
         },
         "39_0": {
