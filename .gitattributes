@@ -4,6 +4,7 @@
 *.jdiff text
 *.sht text
 *.wav binary
+*.anm binary
 *.png binary
 *.ogg binary
 *.rpy binary
