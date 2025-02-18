@@ -1,6 +1,6 @@
 {
     "id": "CD",
-    "title": "(TH11) Touhou Calamity ~ Calamitous Danmaku",
+    "title": "(TH11) Touhou Calamity ~ Calamitous Danmaku (Terraria Calamity mod)",
     "dependencies": [
         "nmlgc/base_tsa",
         "nmlgc/script_latin"

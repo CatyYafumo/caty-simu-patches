@@ -6,6 +6,6 @@
   "servers": [
     "https://mirrors.thpatch.net/catysumi/catysumi/loek_es/"
   ],
-  "title": "(TH15) Touhou x Hollow Knight Español",
+  "title": "(TH15) Touhou x Hollow Knight en Español Addon",
   "update": true
 }

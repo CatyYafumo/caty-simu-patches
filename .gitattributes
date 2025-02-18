@@ -3,6 +3,7 @@
 *.js text
 *.jdiff text
 *.sht text
+*.msg binary
 *.wav binary
 *.anm binary
 *.png binary

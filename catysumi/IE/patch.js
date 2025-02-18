@@ -7,6 +7,6 @@
   "servers": [
     "https://srv.thpatch.net/catysumi/catysumi/ie/"
   ],
-  "title": "(TH08) Infinite Eclipse - Danmaku EoL",
+  "title": "(TH08) Touhou Gosshokumugen ~ Infinite Eclipse (Danmaku EoL)",
   "update": true
 }

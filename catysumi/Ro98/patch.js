@@ -7,6 +7,6 @@
     "servers": [
         "https://mirors.thpatch.net/catysumi/catysumi/ro98/"
     ],
-    "title": "(TH06) Return Of 98",
+    "title": "(TH06) Touhou Back to 98 ~ Return Of 98",
     "update": true
 }
