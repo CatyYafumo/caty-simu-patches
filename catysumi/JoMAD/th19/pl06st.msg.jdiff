@@ -1,0 +1,835 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's ridiculous to think you can beat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "That's frustrating..."
+            ]
+        }
+    },
+    "3": {
+        "34_0": {
+            "lines": [
+                "Oh dear,",
+                "not the shrine maiden!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "A moon rabbit!?",
+                "Fine, I'll beat you up on the way."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Go ahead and try me!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "¿¡Que demonios!?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "¡Estaba hace un momento cuidando nuestro mundo!"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "¡A donde he ido! ¡Ella me va a regañar!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Ow. Hola eh..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Este es tu mundo?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Es muy diferente a otros que conozco..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Espera que..."
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "¡Estás loco!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "O... ¿Lo estoy yo...?"
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Esto es raro..."
+            ]
+        }
+    },
+    "6": {
+        "34_0": {
+            "lines": [
+                "Hey, miss rabbit.",
+                "I don't feel like losing to anyone now~"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Hehehe, me too!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I'm also in a fighting mood!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Uf... ¿Estaba soñando?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Estoy aquí..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Creo que si estuve alucinando o algo..."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "ya no importa... Tengo que cumplir mi deber."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "¡Oye Tú!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¿Qué está pasando?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¿Qué hace una extraña criatura por aquí?"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "¡Alguien armado nunca es buena señal aquí!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "..."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "¿Qué demonios?"
+            ]
+        }
+    },
+    "9": {
+        "34_0": {
+            "lines": [
+                "Ah, it's the magician of the forest."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Everyone says she's got a habit of stealing",
+                "things. Gotta be careful."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Oi, stop doing that \"hiding something\" kinda face!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Say, aren't you that moon rabbit from a while ago?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Kuh, I'll beat you up before you do!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "¡Ah! ¡No estaba soñando!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "¿Esa chica tiene algo que ver en esto?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Esto comienza a aterrarme..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Hay alguien por aquí..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Quién eres?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "(¿Será seguro decirle mi nombre?)"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Soy Shire..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "(¿Shire? No me es conocido...)"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Soy la Diosa del Clima de... De..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "¿Por qué estás nerviosa?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Es una actitud sospechosa..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "¿...N- No será?",
+                "¡¿Diosa?!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Puede ser..."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "¿¡Fuiste tú quién hizo eso!?"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "¡No! ¡Yo no-!"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "¡Si no quieres confesar",
+                "deja que las acciones lo hagan por tí!"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "¡Ya se cual era tu plan!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¿Creíste que con derrotarme restaurarías todo, no?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Sin embargo ¡Ni siquiera sé la razón de esto!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Dudo si estoy aquí realmente..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "uh..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Osea..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Todo esto es extraño."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Estoy en otro lugar, alguien me pregunta si es mi mundo",
+                "vuelvo... ¡Ey!"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "¿Estuve antes o no?"
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "¡Por supuesto que eres-...!"
+            ]
+        }
+    },
+    "12": {
+        "34_0": {
+            "lines": [
+                "Ah!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "That's a treasure hunter!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I don't want anyone to know about the jewel.",
+                "I have to talk my way out of this."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Hey... you."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Tesso?",
+                "I heard the rumors about you."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Eh?",
+                "You've got it all wrong."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Huh?",
+                "But I heard you live in the temple."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "I live there, but you're mistaken.",
+                "I'm not Tesso."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Since you live in a temple,",
+                "isn't it the same thing?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "What's with all this useless bickering?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "...No, wait.",
+                "My rods are picking up a faint signal."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "......That's right."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "You have a jewel, right?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Eh? A jewel?",
+                "I don't have any!"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "I had enough! If I have to search you",
+                "to restore my power, I will!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "hm... Otra persona."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "¡Demonios! ¿Donde está?",
+                "Debió de haberse teletransportado ya..."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Y donde estoy ahora..."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "¡Ah, un ser oscuro!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "¿Que soy qué?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "¡Tú, ser abismal!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "¡Ahora es oportunidad para dominar!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "¿uh? ¿Qué?"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "¿Ella siente su poder?"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Pero no... ¿Habrá quedado parte de su poder en mí?"
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "Lo veo... ¡No lo soy!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "¡Siente el poder de los dioses!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "P-pero..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "¿¡No estoy siendo tan fuerte!?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "¡Yo no provengo de ese mundo!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "¿No vez mis ojos?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "¿Qué? Juraba que..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "¡¿Ah?! ¿Era eso verdad?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "¿Y este don?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Creo qué..."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Hm... Ya se ha teletransportado..."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Es bien aterrador esto...",
+                "¿Estoy leyendo sus mentes?"
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "¡No soy de ese mundo!"
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "HA-... ¿Ha pasado denuevo?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Este lugar es tan sereno..."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "¿Quién eres?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Hm..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Has venido debido a ese incidente?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¡No te lo diré hasta que mostrás quién eres!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Este es mi rostro..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¡¿Quién sos?!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "¡Soy el Dios creador de esta tierra!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "¡Tu poder de Diosa no es comparable con el mío!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "¡Eso está por verse!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "¡Tú desgraciada!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¿Un dios creador dices...?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Esa luz..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "No soy como tus amigas."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Para que entiendas mejor: Soy todo en uno."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "... ¿Tenes que ver con este desastre?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "¿uh? No."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Entonces..."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "¿Estoy atrapada?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "¡¿Cómo vuelvo?!"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Y ahora-... Qué-..."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "¡Tú insolente!"
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "No... Esto no puede ser cierto..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "L-legué al mundo oscuro?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Si, así es."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "¿Acaso me seguiste Shire?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¡Caty! ¡¿Qué hacés aquí?!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Bueno, solamente es coincidencia."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Esa extraña teletransportación?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Aún no se que es lo que sucede."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Son las dimensiones."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Muchas de ellas se han unido y causado eso."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Oh... Gracias."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "No tienes por qué estar vigilandome."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Pero..."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Shire... Largate."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "¡Sé lo que harás!"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "¿Qué?"
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Ah... Es obvio..."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Sí, no lo hagas sola..."
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "No."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "No quiero el error de nadie. Así que para evitar molestias..."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "Haré esto por mí misma, no dejaré ir la oportunidad."
+            ]
+        },
+        "296_0": {
+            "lines": [
+                "Pero..."
+            ]
+        },
+        "304_0": {
+            "lines": [
+                "¿Estás ansiosa por pelear?"
+            ]
+        },
+        "312_0": {
+            "lines": [
+                "Entonces muestrame que tienes."
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "No creo que sea tan seguro..."
+            ]
+        },
+        "328_0": {
+            "lines": [
+                "Pero... esta bien..."
+            ]
+        },
+        "336_0": {
+            "lines": [
+                "Si tienes un avance prometedor..."
+            ]
+        },
+        "344_0": {
+            "lines": [
+                "Quizás puedas ayudar un poco..."
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "Así solo molestarás."
+            ]
+        }
+    }
+}

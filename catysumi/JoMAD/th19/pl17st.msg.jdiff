@@ -1,0 +1,532 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "You're a fool if you think you can defeat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "How frustrating..."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "... Estoy comenzando a extrañar mi mansión.",
+                "Quizás si comienzo a ayudar..."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "¿Tú otra vez?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Si estabas esperando pelear.",
+                "Te daré algo más fuerte para que aprendas."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "No, espera. Quiero ayudar."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Eh? ¿Estás bromeando?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¡Debe haber algo que pueda hacer!"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Solamente quieres matar el tiempo..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¿Vaz a rechazar una ayuda?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No creo que quede algo más que hacer..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "¡Claro que sí!",
+                "¿Entonces por qué aún no está resuelto?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "hmmmmmm..."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Ow, si que lo hiciste."
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "Creo que será más aburrido de lo que pensé..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Bueno, que otra opción hay."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Ey."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Tú eres esa \"Youkai\" de antes."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Oh, la Humana de magia química."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Deja de llamarme así, soy Yumemi."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¡Y ahora te mostré la magnitud de mis artefactos!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "Aw. Eso fue inútil~"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "augh, okay."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "¿Qué es lo que quieres?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "¿Qué has estado haciendo por este incidente?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Alguien me envió a preguntar..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Hmp, sigo reuniendo información."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Solo te puedo decir eso."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "¿Ya vez?"
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Debería de estar..."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "¿Usted?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Que sorpresa."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "¿Acaso quiere otra ronda?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Ey ¿Usted habrá peleado con una tal-...?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¡Ey! ¡Eso no es de su importancia!"
+            ]
+        }
+    },
+    "10": {
+        "4_0": {
+            "lines": [
+                "¿Qué quiere hacer?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Solo me enviaron a descubrirlo."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Así que es un secreto."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "No hay por qué esconder cosas~"
+            ]
+        },
+        "44_0": {
+            "lines": [
+                "No intente insistirme."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "guh..."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "¿Por qué quiere saberlo?"
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "Carai. Nadie ha de abrir la boca para lo que debo."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Pero almenos, he podido matar el tiempo."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "heheh."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "¿Otra vez buscando una pelea emocionante?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Oh no. Esta vez no."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¿Quieres volver a jugar a Makai?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿O qué es lo que quieres?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Hm, ¿Buscas saber que pasa?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Jej. ¡Algo así!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "¿Qué has estado haciendo? ¿Qué sabes?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¿No has encontrado nada que sea más divertido?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "¡Oh vamos! ¡Dímelo! ¡Sea cual sea el por qué!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "No creo que sea la indicada para eso..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Oye, me interesa lo que hiciste.",
+                "Y quiero que me lo digas tú misma."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "¿Ya no tienes nada entretenido?"
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "Eso ha sido terrible."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "No he logrado nada de lo que me propuse."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Pero... ¿Se detuvo ese escalofrío de verdad?",
+                "Que curioso."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Es porque has intentado ayudar al resto.",
+                "A remendar esa molestia que les causaste."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Me pareció un poquito cruel el que Sumiyoshi",
+                "te diera esa misión solo para deshacerte de tí."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Pero ese es el efecto que se genera."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Cielos, no me había dado cuenta...",
+                "Que humanos tan astutos."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "No creas que no pudiste hacer nada.",
+                "Has sido el ojo vigilante en tu travesía."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Y puedo otorgarte una tarea más..."
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Tú no estás jugando conmigo ¿o sí?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "No, eso ya sería demasiado."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No quiero llegar a molestar a una persona con mi presencia.",
+                "Sería mejor que lo hiciera alguien más."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "¿Así de simple?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Hubiera preferido pelear aún más."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Si te invita a hacerlo.",
+                "Consideralo un \"Mission Passed\""
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "Jugar contigo ya sería demasiado."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "Ya veo, es la misma persona que todos buscaban."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Había querido pelear con esa Reina.",
+                "Qué premio tan fascinante."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Ya pensaba que estas apariciones terminarían."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Puedes decirle a Yafumo que está todo en orden.",
+                "No tiene por qué ser tímida."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Oh, finalmente la observo en todo su esplendor."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Tienes buenos modales para ser un extranjero."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Sabías que vendría?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Nunca desprendería mi vista de nada de este mundo."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Ah. Pero eso suena demasiado agotador."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "¿Entonces está hecho? ¿Lo hará ahora mismo?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "hm... Sí..."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Ahora como nunca antes estoy en deuda",
+                "con Ella y la Sombra luminosa."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Y..."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Sé lo que quieres. Está bien."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Estoy de buen humor."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Oh cielos. Porfín."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Si te interesa volver a tu hogar cuanto antes.",
+                "Te sugiero tener una pelea rápida."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Adelante, muestra tu fuerza ahora mismo."
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "Hahah, esperaba algo mejor."
+            ]
+        }
+    }
+}

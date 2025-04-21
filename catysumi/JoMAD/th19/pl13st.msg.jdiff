@@ -1,0 +1,554 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's a ridiculous idea to try and defeat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "Aw, man..."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "Calamitas, quiero verte en este momento por favor."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Caty..."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "¿Te haz dado cuenta de lo que está pasando?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "En efecto, ya lo he notado."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Por ende, he de dejarte a cargo.",
+                "Serás como la quinta guardiana."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¡¿UUh?! ¿Estás segura?"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Se que puedes hacerlo"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Pero..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "¿Y si el incidente me teletransporta?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Ya habrá alguien más para ese entonces."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Okay. Lo haré..."
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "¿Será la intuición de Reimu?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Algo me dice..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Que Mimé está detrás de esto."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "De alguna manera."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Hm, estoy sintiendo un interesante pasado."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "¿Será usted aquella chica?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "La busco para que nos ayude."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Hm... Esto es interesante..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Bueno ¡Hora de la acción!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Ah te refieres a pelear ¿No?"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "Así que Sumiyoshi me estaba buscando.",
+                "Eso me aclara las dudas."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Si... Me refería a el."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Lo conocí y me dijo acerca del incidente."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Uh... ¿Dijiste algo sobre \"Mi pasado\"?"
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "Hey... Es agradable."
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Aquí es donde estuvo Crono."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Creo que está comenzando a verlo...",
+                "Lo siento... Tan intenso."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "D- dijiste..."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "¿Eres su A-amiga?",
+                "Uh... M-me siento tan calmado..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Con que Crono quiso hacer algo por tí..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "No es que quiera lastimarte.",
+                "Pero si quieres ¡Muestrame tu fuerza!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Oh, bueno... ¡Okay!"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "Estarás bien. No te preocupes.",
+                "Cuentame, que pasó contigo y \"Radiance\" ahora."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Creí que m-mi último sacrificio no fue en vano..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Pero a-ahí apareció..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "¡Fallé otra vez! Y-y ahora...",
+                "¡M-Me ordenó que me quedara aquí!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "No la iba a obedecer... P-pero no entiendo esto... Qué me empuja,",
+                "qué es lo que veo aveces. ¡¿Q-QUE PASA CONMIGO?!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Pronto lo entenderás...",
+                "Radiance... Te veré pronto..."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "Un gran poder impulsado por la ira y la melancolía..."
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "Después de eso he conseguido otra tarea."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Respecto a la primera no hay duda."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Y eh ¿Quién viene por ahí?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "¡Caty!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Tienes razón. Mimé lo ha hecho."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Y tengo que resolver todo..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Esa lunática, como se le revalsó el vaso..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¡Pero bien! ¿por 'onde empezamo'?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Pues... Tu primero..."
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "Fuiste tú quien envió a Hornet."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Ahora... ¿Qué sigue?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Hornet lo hizo de maravilla."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Creí no haber hecho ningún progreso."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Pero gracias a ustedes dos y Feny lo he hecho."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Aunque no se como continuar..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "(Dioses... ¿Para qué están ellos?)"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "(No es la primera vez que veo tal negligencia",
+                "en un ser que se supone es sabio.)"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Entonces iré por mi camino",
+                "Y cuando termine, te imaginarás que haré..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "No intentarás..."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "¡Voy a castigarla por esto...!"
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "¿Caty...?"
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "Siento que está cerca... Pero."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Aaaw..."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "A pesar de lucir como una niña inocente...",
+                "También parece fuerte..."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Ignoraré eso..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Vaz a pelear?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Por diversión ¿No?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Hehehe, ¡Sí!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¿No te haz cansado de estancar el camino",
+                "de muchos con esa tontería?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Voy a pelear...",
+                "¡Para darte una lección!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Y bien."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¿ S A T I S F E C H A ?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "aaw~"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Fue fenomenal~"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "¡Esta No-humana es digna!"  
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "¿Estás infiriendo que soy un Youkai?"       
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Uh-"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "¡No! ¡Humano! ¿Me oyes?"
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "Uh... ¿Y tu lección?"
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "Es hora..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "¡No te escondas de mí!",
+                "¡Alma atormentada!"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Hm..."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Te pareces a ella... Sin embargo...",
+                "¿Por qué sentiría esta sensación de seguridad?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Se dice que algunos seres vivos saben reconocer la",
+                "amabilidad de los demás. O bien ¿Enmano esa sensación?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Ve al punto..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Pero parece que..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Vienes por mi ayuda ¿No?",
+                "Para ese incidente."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Bueno, entonces no lo repetiré.",
+                "Y si, eres importante para resolverlo."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "He visto tu historia... Siempre pintamos a",
+                "la luz como el bueno ¿No? Que estereotipo..."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "No comprendo... Esta pureza de persona..."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Nunca antes la había imaginado..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "¿Acaso tratas de manipularme?",
+                "No, no parece... ¡¿Qué es lo que sucede?!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "¿Eres tú acaso un Dios verdaderamente digno?",
+                "Vamos... ¡¿No vaz a querer matarme?!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "¡¿Haz podido levantarte?!"
+            ]
+        }
+    }
+}

@@ -1,0 +1,811 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's a ridiculous idea to try and defeat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "How frustrating..."
+            ]
+        }
+    },
+    "3": {
+        "34_0": {
+            "lines": [
+                "Ah, Miiiss Reimu?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "M-Miiiss?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Wow, you're really Miiiss Reimu!",
+                "Is there another incident?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You're like way too nervous."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "The animal spirits are excited."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I wonder if the incident is influencing that."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Where are you trying to go,",
+                "Miss Reimu?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "I don't need to tell you."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Heeh, you're going to the beast world?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Huh?",
+                "What's that...?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "I heard some whispers just now."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Be careful!",
+                "There will be a trap for sure."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Well, I have to stop you right here!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "¿Y este lugar?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Ya entiendo... Me estoy teletransportando a rato."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "¿Uh?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Tú... ¿Otra vez?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Ah, eres tú."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¡Maldición, esto no para!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿No has podido volver?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "¡¿Tú tienes que ver en esto?!"
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "¿N-No...?"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Entonces, esto se está poniendo feo."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Someone's talking about you.",
+                "I don't think that happened before."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Mugh..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Hm, I really think it's a trap!"
+            ]
+        }
+    },
+    "6": {
+        "34_0": {
+            "lines": [
+                "I knew it, now you're here too!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The spirits have been quite busy, you know."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I can't just sit around and do nothing!"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "¡Horn-!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Uh... P-pensaba que..."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "El incidente a-aún no para... Es d-difícil así."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "¿Vasija Pura? Por los que me dijieron él..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Tú lo... Notaste?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¿Estás muerto no?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "S-si..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¿El incidente lo habrá hecho?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "¡Si es así esto si está empeorando deveras!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "¿Sumiyoshi no ha logrado nada?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¡Parece que esa chica oscura se resiste mucho!",
+                "Eso debe ser..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "¿Catyon?",
+                "E- Ella confía en mí..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "¿Ah? ¿La viste?"
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "Hornet... ¿D-donde estás?"
+            ]
+        }
+    },
+    "9": {
+        "34_0": {
+            "lines": [
+                "Kyah, a rat!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The temple's rat even!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Isn't that great? Even as a mouse"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I prefer cats, and",
+                "I'm not scared of dogs."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I don't like going to the temple!",
+                "That incense is strong."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Hm, I see."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Pero entonces..."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "¿Feny?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Ah, otra vez eres tú..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Sumiyoshi? ¡¿Sigues aquí?!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¿Qué sigo en donde?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "¿Cuándo terminará esto?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Qué? ¿Qué dices?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Oh ya entiendo..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "¡Feny, no estás viendo lo mismo que yo!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "¡El incidente se está agravando más!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "¡Maldita sea!"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "¡¿Es en serio lo que dices?!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Feny... Deberías de ayudarnos..."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "¡Se están creando ilusiones!"
+            ]
+        }
+    },
+    "12": {
+        "34_0": {
+            "lines": [
+                "Who could you be?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You ask who I am?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "You'll know when I dominate you,",
+                "whether you like it or not!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Uwah!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Oh, hola Calamitas."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Qué te pasó?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Me volví a teletransportar, pero ahora voy a..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Voy a ver al responsable."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "¡Ven! Sé donde está."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Ah, ¿qué?"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Bueno."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "¡Suficiente! Voy a hacerlo."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Y creo que se como ir al grano..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Ey..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Otra vez nos vemos..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "¿Qué estás haciendo Feny?"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "No estas bromeando. ¿Cierto?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "No, claro que no."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Bueno, al final iré solo."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Perdón..."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "No hablas encerio ¿verdad?"
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "Bueno..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Ahg, ¡Esta teletransportación!"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Almenos..."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "¿No importará la ilusión, si?",
+                "Mientras lo vea..."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Quién..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Te parezco extraño?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¿eh?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "La verdad es la primera vez que me lo dicen."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¡Otra criatura extraña!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Pues... ¿No es obvio?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Oh... eh..."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Soy Feny."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Uhm..."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "¿Cómo llegaste?"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Bueno, por la teletransportación..."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Oh... ya veo."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Podría investigar más de est-..."
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "¡Okay OKAY! suficiente~"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Creo que ya entiendo..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "¿Uh?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Hace un tiempo... Estuve con una \"Vasija\""
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Ah... se a quién te refieres."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Si... parece estar muy sensible.",
+                "Ahora creo que estaba buscando a su hermana..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Hm..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Apareció de la nada y... Lo asusté sin querer..."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "¡Bueno es todo!"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "¡AH!"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "¡No más charla! ¡Tengo que apresurarme!"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "¿qué?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "¿Qué pasa?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "¡No hay tiempo de explicar!"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "¡Espera! ¿Sabes donde está?"
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "hM... Interesante."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "¿Estará por aquí?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Espero..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "¡Espero haber tenido suerte!"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "¡Y que no me teletransporte otra vez!"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "¡Es Feny! ¡Es él!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¡Tomame una foto con el!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Jejej, Gracias por esa bienvenida."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Bueno bueno..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "¿Qué te trae por aquí?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Anda, no seas tímido~"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "¡Eh! ¡Deberías saber a que vengo!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Oh, eh..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Ya veo..."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Este incidente aún no ha parado."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "¡Sí!"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "No hay prisa."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "¿Qué?"
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Seh."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "¡Cómo eso!"
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "¡Si fuera tú estaría muy al pendiente de eso!"
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "No hace falta."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "¡Ey! ¿Cómo que no? ¡Tomatelo encerio Mimé!"
+            ]
+        },
+        "296_0": {
+            "lines": [
+                "Veras..."
+            ]
+        },
+        "304_0": {
+            "lines": [
+                "Lo más complicado era Catyon..."
+            ]
+        },
+        "312_0": {
+            "lines": [
+                "Pero como pudiste descubrir. Gracias a la exótica",
+                "percepción de Caty y la inocencia de la Vasija está hecho."
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "Solo queda evitar que su mayor enemigo no la desafíe..."
+            ]
+        },
+        "328_0": {
+            "lines": [
+                "Pero ¿Qué te parece?",
+                "¡Hagamos una danza para matar el tiempo!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "¿Ha terminado?"
+            ]
+        }
+    }
+}

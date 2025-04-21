@@ -1,0 +1,619 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "You think you can beat me? Ridiculous."
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "Frustrating..."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "Hm ¿Sigues por aquí?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "¡Estos jardines son muy preciosos!"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Oh, si. No se como irme."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Hm, no es la primera vez."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿uh?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Ya que sigues aquí. Que tal un calentamiento."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Una última batalla?",
+                "¡Será un placer!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Luego de eso deberás marcharte."
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Ahora, tal y como le dije a la sombra luminosa:",
+                "Solo alejate un poco más y podrás teletransportarte."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Es un hechizo que he mantenido."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Oh..."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "¿A donde se fue?"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Bueno, hora de ir a casa...",
+                "O intentar..."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "¡Eso fue maravilloso!"
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "¿Con que sigues merodeando entre las dimensiones?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "¿QUE? ¿¡TU!?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Te has recuperado fácilmente..."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "¡Ahora si veras!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Ah bien. Esperaba una pequeña venganza."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Pero que sea corta."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¡Este incidente debe de resolverse!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "¡Desgraciada! ¡¿Cómo has podido derrotarme?!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¡Maldigo a aquellos aliados tuyos!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Parece que tu ira no fue suficiente esta vez."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Y ellos no son de tu incumbencia."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Pero si te atreves a acercarte al menos un micrómetro",
+                "usaré mi arma para destruirte."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "gh-..."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "¡Ves que puedo derrotarte!"
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Mi ojos comienzan a lastimarme..."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Vaya vaya."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Nunca esperaba verla denuevo."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Pero creo que no es buen momento para una charla."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "No."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "El incidente debe de ser resuelto."
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "¿Entonces has venido para dar la noticia?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Ya es tiempo de reunirnos ¿No?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "No se que tienes que ver con ese dios Mime."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Pero supongo que si."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Solo es el incidente haciendo lo suyo",
+                "con esa teletransportación."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Es comprensible."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "Creo que estoy ciega..."
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "¡Demonios! ¡Este lugar es aún más brillante!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "¿A quién tenemos aquí?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Vaya... Finalmente."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Finalmente te nos uniste."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "hm... Si, lo admito."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Pero espero que no hagas lo mismo en una próxima vez."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Y para que creas en mi palabra..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "He de darle valor con mi poder."
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "Cielos..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Ya veo su \"valor.\""
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "¿Y que esperas?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Ya es tiempo de hacer la movida."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Tienes lo que querías, y no alegues más."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Muy bien muy bien, lo haré."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "uhg... Mis ojos..."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "... jejej."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "¿Hay algo mal?"
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "Y ahí está."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Esa desgraciada luz que arde."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Y esa risa... Que no da tan buena aura..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Exacto, es muy sospechosa."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Parece que ambas sospechamos desde el principio."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Es un placer verte denuevo, Caty Yafumo."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Je, si. Se me fue la pequeña duda gracias a Yuuka."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Ya lo había visto, pero observar tal lealtad es bello."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "¿Has venido por noticias?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Si, el incidente está por terminar."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Hm, eso es perfecto."
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Presiento en que haya algo mal..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Tal vez..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Quizás algo que esté haciendo mal."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Si puedes. Avísale a quienes vinieron aquí."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Sí, estaría bien."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Eso logrará que no se hagan cosas de más."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Si nos podemos ver denuevo.",
+                "Hablemos de nuestras sospechas sobre Mime."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Estoy de acuerdo."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "Diablos, creo que me he pasado otra vez."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "Ahg, si que era un riesgo..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Mis ojos nunca han soportado tanta luz."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Está bien..."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Un descanso más y-..."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Toda una eternidad..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¡Pero finalmente, cara a cara otra vez!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Que lento."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Parece que Yafumo no puede controlar muchas cosas a la vez."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "No importa, ya que estás tú aquí:"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Díme en que está realmente Mimé."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Alguien más que desconfía..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Si."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "¿Te parece lógico?"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Algo. Solo que yo estuve ahí cuando todo comenzó."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "¿Acaso confías tan ciegamente?"
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Sé que lees mi mente. Debíste hacerlo con él."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¡El incidente debe terminar!"
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Pero basta de charla."
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "Como dijiste antes. Este incidente ya debe terminar."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "¿Qué me estás queriendo decir?"
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "¿He llegado aquí para nada?"
+            ]
+        },
+        "296_0": {
+            "lines": [
+                "Esto parece un juego..."
+            ]
+        },
+        "304_0": {
+            "lines": [
+                "¡Uno cruel y despiadado!"
+            ]
+        },
+        "312_0": {
+            "lines": [
+                "Que ha avanzado tanto que-..."
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "Ahora si parece que estés leyendo mi mente."
+            ]
+        },
+        "336_0": {
+            "lines": [
+                "Pero ya basta de aflicciones. Quiero esto como estaba."
+            ]
+        },
+        "328_0": {
+            "lines": [
+                "Quizás esto siempre fue un juego."
+            ]
+        },
+        "344_0": {
+            "lines": [
+                "¡El atardecer debe llegar a todo el universo!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "Después de todo solo querías lo mismo que yo",
+                "¿No? Solo fue el miedo y falta de amor."
+            ]
+        }
+    }
+}

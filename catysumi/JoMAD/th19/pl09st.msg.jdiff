@@ -1,0 +1,671 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's ridiculous to think you can beat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "How frustrating..."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "¡Se lo dije!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "¡Que me teletransportaría en cualquier momento!"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Bueno... Ella dijo que no era de preocuparse."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "¿uh?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Nos conocemos?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "hm, creo que sí."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¡Ah, tu eres Calamitas!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¡La amiga de Caty!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "¿Qué? ¿La conoces?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "¿Qué es lo que eres?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Wow, no hay por qué alborotarse."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Peero..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "¡Pero si quieres...!"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Mn, pareces de confianza."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Esta bien..."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Dejame presentarme ahora."
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "Crono ha estado por acá ¿no?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "¿Quién se supone que está cuidando entonces...?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "¡Calamitas!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "¿Fuiste afectada por el incidente?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Si..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Aunque Caty dijo que no me preocupara."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Sabes que pasa ¿no?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Deberías hacerle caso."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Oh si, un desastre dimensional... Creo."
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "He notado que estás algo cansado.",
+                "¿Te enfrentaste contra alguien?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¿Eh? Oh, si."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "¿Qué es lo que pasó?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Estaba antes con un chico que me hacía sentir...",
+                "Triste... Y podía ver cosas de él."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Fue bastante fuerte, dijo que no podía irse pero luego",
+                "me di cuenta que no estaba."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "¿Qué? ¿Ha podido ser capaz de hacer eso?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Voy a ver que puedo hacer..."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "¡Espera! ¡No!"
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "¿Que estoy cansado? ¿Por qué lo dices?"
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Creo que esto se está convirtiendo en algo peor."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Hm..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "¡Ah, ya se que estás por ahí!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "¡Calamitas~!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Tiempo sin una conversación frente a frente."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¿Eh? ¿No estás preocupada de este incidente?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Estoy intentando saber que pasa."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Ah ya veo."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Bueno, estamos frente a un revueltijo de dimensiones."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Uh..."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "No se como se podrá resolver."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Hmn, okay."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Y eso..."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Oh, es terrible."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "¡Parece demasiado grande!"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "Si, por si no lo sabías...-"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Caty y Crono ya fueron a investigar."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Si..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "¿Por casualidad no has visto gente extraña?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Hm... Creo que no.",
+                "Pero esto parece requerir más ayuda."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Si no te molesta...",
+                "Trataré de saber más acerca de este incidente."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Por lo que he visto las personas se",
+                "teletransportan derrepente."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Podría ser ventajoso de alguna manera."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Gracias..."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "¿Qué vaz a hacer?"
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "La Emperatriz si que es una buena aliada."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Me sorprendió que confiara en mí."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Acerca de la teletransportación...",
+                "Podría ser cierto."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "¿Eh?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Eres un demonio o algo así?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¿Hm? No."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Entonces tienes esos cuernos por decoración?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¿Qué tipo de insulto es ese?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "¿Que tipo de visita es esta?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "La inesperada, supongo."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Para que sepas..."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "¡Este territorio es mío!"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "¡Señorita No-demonio!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "Que extraña forma de recibir."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Pero... No es la primera vez que lo veo."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Entonces... Ey, ¿Cuándo llegamos a Makai?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Bueno dejame explicar."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Hay un desastre dimensional que causa la unión de estas."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Uhm..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Oh no otra vez..."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "Espera ¿Cómo llegaste?"
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "Uhg."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Quizás a muchos les ha molestado esto."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Si... Que horrendo."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Ey..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿No eres tú una Youkai o sí?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "hahahah"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Eh? De que te ries."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "A una amiga la han confundido con un Youkai."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Pero no me imaginaba eso hacia mí."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Uh... Eso me es familiar..."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "¿Qué?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Si conoces a esa chica..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "¡Debes de ser fuerte!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "¡Vamos a pelear!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Uhm..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¿Qué sucede..?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Creo que reconozco esa reacción."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Desde hace un rato mis",
+                "ganas de jugar han estado desapareciendo..."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¿Por qué mi entusiasmo para esto ha bajado?"
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "Lo que he estado haciendo este rato es solo informar..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Espero que haya servido de algo..."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Esto es muy extraño..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¡AH!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Ni siquiera ellas se espantan así..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Hehe, hay opiniones muy diversas en",
+                "todo el universo."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "...Perdón."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "¿Eh?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Que raro que te disculpes."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Eso nunca lo ví venir."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Parece que no existen tantas personas buenas aquí..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Entonces..."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Si serías tan \"amable\""
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "¿Pensarías en irte de aquí?"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Este mundo no puede tener visitantes."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "¡Y te has topado con la más alta defensora!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "¿Qué es lo que sucede?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Me da mala espina..."
+            ]
+        }
+    }
+}

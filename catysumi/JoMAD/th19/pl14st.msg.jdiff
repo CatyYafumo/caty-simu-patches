@@ -1,0 +1,602 @@
+{
+    "3": {
+        "4_0": {
+            "lines": [
+                "¿Otra vez?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Y bien."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "¿Has cambiado de opinión?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Aún no te das cuenta?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Esperaba algo mejor de una científica."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Pero está bien..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¿Eh?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "¡Oye dejame! ¡Ni sé que es lo que pasa!"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Vamos."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Si lo haces te daré algo de magia."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "¿Qué?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Pero no."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Piensa en la recompenza."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "¡EH!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Vamos."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Pero... No quiero..."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Vamos, puedes hacerlo."
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "No le haré caso a un extraño."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Pero comenzaré mi investigación a fondo."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "¿uh...?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Creo que no la vi antes..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Será hora de preguntar cómo volver?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Wow... Tan bonito..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Eh?"
+            ]
+        }
+    },
+    "7": {
+        "66_0": {
+            "lines": [
+                "¿Eso nada más?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "¡¿Se puede saber a qué le llamas \"bonito\"?!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¡Esa magia! pero...",
+                "Quiero preguntar si sabe de estos sucesos recientes."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Mucha gente se ha teletransportado y visto",
+                "cosas extrañas. Estoy algo perdida..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Creo que sé quién puede saber más...",
+                "pero tendré que ser muy suave..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Es un desastre dimenional."
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "¿En qué lugar puedo encontrarlo? ¿Será este?",
+                "Uhg, ¿Por qué la criatura de antes evito decirme algo?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "¡¿Qué haces aquí?!"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "¡Dejame solo!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "¡Espera! Igual que antes... Me disculpo, pero..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Aléjate..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¡Buscas a alguien más ahora!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Podría ayudarte a buscar a tu hermana...",
+                "¡Soy tu amiga!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "....?"
+            ]
+        }
+    },
+    "10": {
+        "66_0": {
+            "lines": [
+                "Quiero que me digas por qué buscabas a esa otra persona."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "Por qué sabes que busco a mi h-hermana..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Alguien me lo dijo hace unos momentos."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "¿Por qué m-me... ofreces eso?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Estoy analizando lo que está pasando."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "¿Cómo sabes que la busco a e-ella...?"
+            ]
+        }
+    },
+    "15": {
+        "144_0": {
+            "lines": [
+                "Tu eres esa humana con \"Magia Química\" ¿No?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Eh? Mencionandolo así, ¿Tú no eres humana?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "No. Soy una Youkai."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Heheh, que ingeniosos son para hacer esas cosas."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¿Ah?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "¿Tienes algún problema?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Tanta perseverancia para obtener algo que no se merecen."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Bueno. ¡Es hora del juego!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Entonces, ahora tengo que hacer este trabajo.",
+                "Y luego buscar a la hermana de esa Vasija."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "¡Pero aún falta que me digan cosas! ¿Donde está ese",
+                "Dios Mime? Si es un dios debería de escucharme en este momento."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "¡Vaya vaya!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Wow, eso fue inesperado."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Esto será artificial, pero si vale la pena."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No había visto otro humano asi de fuerte desde que",
+                "... Uh um... No otra vez...~"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "¡No importa!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "¡Ahora buscaré más entretención!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                ".............."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "¿Eh? ¿Qué sucede?"
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "¡La verdadera magia es la más fuerte!"
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "Esta telentrasportación si que es molestosa"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "¡¿Y por qué todos parecen evitar decirme algo acerca de esto!?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Ey..."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "¡Pero si es la Muggle Científica!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Una chica con alas de fuego? Que hermoso."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Así que tu eres la nueva aliada para arreglar este desastre."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Oh, gracias..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Si tan solo hubiera más gente eligiendo correctamente..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Las decisiones que has hecho me han cautivado."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Y si, estoy ayudando también.",
+                "Con gusto te informaré de este plan."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "¡Podremos resolver esto más rápido!"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Ahh, finalmente una persona así de amable."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Me alegra mucho eso, ya era hora de conseguir a alguien más."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Honestamente... Ese plan no me agrada mucho, me parece extraño.",
+                "Es un dios demasiado poderoso ¿Por qué necesitaría de gente más común?"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "¡Ah! ¡Esa suposición me explotó la cabeza!"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Tal vez no todos los dioses son unos verdaderos",
+                "santos en gran parte de este universo."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Tuviste un pensamiento como el mio, en efecto.",
+                "Ellos también pueden ser gobernantes que abusan de su poder."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "¡Pero ahora relajemos nuestros deseos con un",
+                "magnífico baile danmaku!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "Bueno, esto también ha servido para medir la",
+                "resistencia de la tecnología."
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's ridiculous to think you can beat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "How frustrating..."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "¿A qué le dices bonito?"
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "Así que esa era la estrategia para resolver esto."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Ese dios Mimé..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Ahora cobra más sentido esa visita."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Oh..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Es quién me dijo Mimé.",
+                "¿Qué estás haciendo?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Ehm... Investigando acerca del incidente."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Qué? Me esperaba otra cosa."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "No creo que eso ayude del todo..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Pero espero que termines cooperando en algo."
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "Cooperando..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Si."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Esto se ha prolongado más de lo que esperaba."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Estoy muy preocupado por eso."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "... Entiendo."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Creo que pensaré mejor la propuesta..."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "No solo recolectar información."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Si, ¡Aquí estoy para ayudar!"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Wow..."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "Esto es frustrante..."
+            ]
+        }
+    }
+}

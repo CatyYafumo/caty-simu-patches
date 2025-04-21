@@ -1,0 +1,759 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's a ridiculous idea to try and defeat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "Ya ha pasado tiempo desde aquello...",
+                "Y sigo... Solo."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "El templo definitivamente es",
+                "mucho peor."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Pero... Ya todo es... Aburrido."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Usted...",
+                "¿Es de este mundo?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Uh... ¿Por qué siento una profunda tristeza",
+                "en el?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Q- ¿Cómo ha llegado hasta aquí?",
+                "¿Quién es usted?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Perdona, soy Crono.",
+                "¿No gusta pelear?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Oh... Pues... Bien."
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Hahah ¡Eso fue grandioso!",
+                "¡Este desastre dimensional está volviendose entretenido!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Hey, me caes bien.",
+                "¿Quisieras acompañarme?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Desastre dimen- ¿Qué?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Uh pero... No puedo irme de aquí..."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "¿Me excedí?",
+                "Perdona, solo quería animarte."
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "A donde fue... ¿A qué se refería?",
+                "¿Qué estará pasando?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Agh... Desde que morí",
+                "mi sentido del mundo desapareció."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Supuse que estarías aquí."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Bien solo era esa duda",
+                "te dejo en paz."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "N-no... ¡Imposible!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¡Tu habías muerto con nosotros!",
+                "Ello- ¡Ellos lo lograron...!"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Será que... No quiero creer que",
+                "Hallownest y Gensokyo habrá vuelto a unirse..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Calmate... Así fue...",
+                "Ahora me retiro a ver ese desastre."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "¿De donde ha salido esa piedad? Y...",
+                "¿¡Salir!? Tu y- ¡Ahora yo solo pertenecemos a este mundo!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "...Me aseguraré de que hayas aprendido la lección.",
+                "Y podré salir yo también ¿No?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "¡¿QUE?!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "Ahora... ¿Será posible?"
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "Oh porfavor imaginé que sintieras aún más",
+                "pero ¿Parecer un niño? Bah..."
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Oh... ¡lo conseguí!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "¿Debería buscar a ese chico?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Esto no es Hallownest...",
+                "¿A esto se referían con desastre?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "¡Ey tú!",
+                "¿Tu derrotaste a Crono?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Cómo? El y sus amigos",
+                "son tan fuertes..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Crono...",
+                "¿T- Te refieres a ese chico blanco y negro?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Quién eres?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¿De qué dimensión has venido?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Uh... eh..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "¡Vamos!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "eh..."
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "Comienzo a entender lo fuerte que eres...",
+                "Caballero sin nombre."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "N- No importa como me llame... O me llamaban..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "P- Pero por favor.",
+                "¿Qué está pasando?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Me recuerdas a los seres de pesadilla..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Por favor, d- dime."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Ciertas dimensiones se han unido por razón",
+                "que desconozco y se ha creado un caos"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Yo provengo de la dimensión de Terraria",
+                "con Crono y una amiga más."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Oh, s- soy de la dimensión de Hallownest.",
+                "Supongo... (¿qué es una dimensión?)"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Bien, caballero de Hallownest."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Si quieres resolver esto, busca al responsable."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Que lastimosamente no tengo ni idea..."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "Hmp, creo que el solo fue de juego."
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "¿Eso era...?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "No se si será peor que el incidente con Gensokyo."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "De todos modos la infección se ha ido."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "¡Pero- Esto se debe arreglar!"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Oh eres esa Vasija"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Así que pudiste escapar de tu nueva celda jajaj"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Quién es?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Soy Mimé, un Dios."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Perdona que haya creado todo",
+                "este revueltijo..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Que ya no puedo arreglarlo siquiera."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Pero podrás ayudarme ¿no?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "¿Resolver todo?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "¡S- solo derrotarte y ya!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "o e- eso creo..."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "¡Hahah, simpático!",
+                "Primero veré que tan fuerte eres."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Mmm probemos con mi 2 por ciento ¿eh?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Luego te diré como podremos resolver todo",
+                "y si lo haces podré hacer algo por tí."
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "¡Listo, l- lo logré!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Heheh~"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Muy bien niño."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Ahora es donde tu misión comienza."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Presta atención."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "hmn... Ok."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Te pido que busques a esa chica oscura."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "¿Uh? ¿Para qué?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Bueno... necesito ayuda de otras personas para",
+                "resolver el incidente."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Y ella no es fácil de convencer tratándose de luz",
+                "así que tu relación con el vacío podría convencerla."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "Oh que pena..."
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "¡AH!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "¿A- a donde he ido ahora?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Que extraño lugar..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Oh ¡oh!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¡Qué extraña criatura!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "No parece humano del todo..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Bueno... Soy una vasija..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¡Una vasija! ¿Una vasija viviente?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "¡Asombroso!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "¿Será otra criatura mágica?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "¿Mágica?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "C- creo que te refieres al poder del alma..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "¿Será esa chica que debo buscar?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "(Pero no parece...)"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "(No parece temerle a la luz...)"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Que extraño, tus ojos no reflejan nada."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "¡Debo saber más! ¡Dejame conocer tu magia!"
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "No me quedaré sin nada en este incidente."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "¡Ven, vasija viviente! ¿Qué cosas puedes contener?"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Awhg..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Qué poderoso."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No me esperaba eso..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "No ¡No!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Para cualquier sello-... Soy inútil..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Bueno, perdona...",
+                "Dejame hacer algo por tí."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Dime. ¿A quién buscas?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Un ser... oscuro..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "¡Oh! Interesante."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Creo que n- no eres..."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "No, soy humana."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Ey ¿Qué te pasa?"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "¡AH!"
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "¡Necesito investigar más!"
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "¡Agh! ¿eh?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Donde estoy..."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Hm... Que extraño."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Reflejas tanto luz como oscuridad."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Una extraña sensación comfortable..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "¿E- Eres tú?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Quien debo buscar?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Soy Catyon."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Nunca vi una luz que no pareciera ni",
+                "haya sentido como una amenaza."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "¿Qué es lo que quieres?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "¿Puedes ayudarnos con el incidente?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Porfavor..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Esa invitación otra vez..."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Que desastroso y molesto incidente.",
+                "¿Pero como es que debo ayudar?"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Porfavor... ¡N- no q- quiero pelear contigo!"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "No eres como los otros...",
+                "Sin embargo nada nos ha sido confiable."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "¡Vamos, Sombra Luminosa!",
+                "¡Muestra la oscuridad de tu interior!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "hm, haz caido."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "lo lamento..."
+            ]
+        }
+    }
+}

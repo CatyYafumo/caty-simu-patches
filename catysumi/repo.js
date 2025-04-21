@@ -14,6 +14,7 @@
         "LoEK_es": "(TH15) Touhou x Hollow Knight en Español Addon",
         "Yagokoro&Hallownest": "(TH15) Touhou x Hollow Knight: Playable Eirin Addon",
         "CD": "(TH11) Touhou Calamity ~ Calamitous Danmaku (Terraria Calamity mod)",
-        "HKPoL": "(TH15) Touhou x Hollow Knight: Pantheon of Legacy Addon. Make extra stage a bossrush like Hollow Knight Pantheons. Needs LoEK!"
+        "HKPoL": "(TH15) Touhou x Hollow Knight: Pantheon of Legacy Addon. Make extra stage a bossrush like Hollow Knight Pantheons. Needs LoEK!",
+        "JoMAD": "(TH19) (BETA) Touhou Universe ~ Journey of Multiple Apocaliptic Dimensions"
     }
 }
