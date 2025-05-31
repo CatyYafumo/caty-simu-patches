@@ -184,14 +184,14 @@
         "Ralentiza algunas balas",
         "Habilidad de Yuuka Kazami para ralentizar balas"
     ],
-    "37": "Land of the Heartless",
+    "37": "Arma del Dios de la Muerte",
     "37_0": [
-        "Additional Oni Bullets",
-        "Zanmu Nippaku's ability to shoot additional oni fire"
+        "Lanzas adicionales",
+        "Habilidad de Catyon para disparar más lanzas."
     ],
-    "38": "Violence is Hell's Flower",
+    "38": "Estandarte de la Sociedad Oscura",
     "38_0": [
-        "Gain Bombs from Using the Gauge",
-        "Zanmu Nippaku's ability to gain bombs from attacks that use the gauge"
+        "Consigue bombas usando el medidor",
+        "Habilidad de Catyon para conseguir más bombas con ataques especiales."
     ]
 }

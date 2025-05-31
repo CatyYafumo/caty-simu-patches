@@ -10,7 +10,7 @@
     "th06_10": "Love Of Magical Chimes",
     "th06_11": "Strawberry Crisis",
     "th06_12": "End of the World ~ World's End",
-    "th06_13": "Legendary Illusion ~ Infinite Beign",
+    "th06_13": "Legendary Illusion ~ Infinite Being",
     "th06_14": "Reincarnation",
     "th06_15": "Complete Darkness",
 }

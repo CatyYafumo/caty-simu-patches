@@ -28,7 +28,7 @@
     "3": {
         "4_0": {
             "lines": [
-                "Calamitas, quiero verte en este momento por favor."
+                "Calamitas, ven en este momento por favor."
             ]
         },
         "108_0": {
@@ -43,7 +43,7 @@
         },
         "144_0": {
             "lines": [
-                "En efecto, ya lo he notado."
+                "De hecho, ya lo he notado."
             ]
         },
         "152_0": {
@@ -61,7 +61,7 @@
     "4": {
         "34_0": {
             "lines": [
-                "Se que puedes hacerlo"
+                "Sé que puedes hacerlo."
             ]
         },
         "42_0": {
@@ -90,7 +90,8 @@
     "6": {
         "4_0": {
             "lines": [
-                "¿Será la intuición de Reimu?"
+                "¿Será la intuición de Reimu?",
+                "No, son mis propias suposiciones."
             ]
         },
         "12_0": {
@@ -105,12 +106,12 @@
         },
         "28_0": {
             "lines": [
-                "De alguna manera."
+                "De... Alguna manera u otra."
             ]
         },
         "36_0": {
             "lines": [
-                "Hm, estoy sintiendo un interesante pasado."
+                "Hm, estoy sintiendo un interesante pasado..."
             ]
         },
         "140_0": {
@@ -135,7 +136,7 @@
         },
         "192_0": {
             "lines": [
-                "Ah te refieres a pelear ¿No?"
+                "Ah, te refieres a pelear ¿No?"
             ]
         }
     },
@@ -143,7 +144,7 @@
         "34_0": {
             "lines": [
                 "Así que Sumiyoshi me estaba buscando.",
-                "Eso me aclara las dudas."
+                "Eso me aclara las dudas y afirma mis teorías."
             ]
         },
         "42_0": {
@@ -165,7 +166,7 @@
     "8": {
         "34_0": {
             "lines": [
-                "Hey... Es agradable."
+                "Oh lo siento, creí que era eso..."
             ]
         }
     },
@@ -302,12 +303,12 @@
     "13": {
         "34_0": {
             "lines": [
-                "Fuiste tú quien envió a Hornet."
+                "Por su puesto, fuiste tú quien envió a Hornet."
             ]
         },
         "42_0": {
             "lines": [
-                "Ahora... ¿Qué sigue?"
+                "¿Y ahora que sigue en tu plan?"
             ]
         },
         "50_0": {
@@ -343,7 +344,7 @@
         },
         "98_0": {
             "lines": [
-                "Entonces iré por mi camino",
+                "Weno, entonces iré por mi camino",
                 "Y cuando termine, te imaginarás que haré..."
             ]
         },
@@ -373,7 +374,7 @@
         },
         "108_0": {
             "lines": [
-                "Aaaw..."
+                "¿Qué tenemos aquí?"
             ]
         },
         "136_0": {
@@ -399,13 +400,13 @@
         },
         "168_0": {
             "lines": [
-                "Hehehe, ¡Sí!"
+                "¿Hay acaso alguna otra razón?"
             ]
         },
         "176_0": {
             "lines": [
-                "¿No te haz cansado de estancar el camino",
-                "de muchos con esa tontería?"
+                "Si la hay... ¿No te haz cansado de",
+                "estancar el camino de muchos así?"
             ]
         },
         "184_0": {
@@ -428,7 +429,7 @@
         },
         "50_0": {
             "lines": [
-                "aaw~"
+                "Owh..."
             ]
         },
         "58_0": {
@@ -438,7 +439,7 @@
         },
         "66_0": {
             "lines": [
-                "¡Esta No-humana es digna!"  
+                "¡Esta No-humana es increíble!"  
             ]
         },
         "74_0": {
@@ -448,7 +449,7 @@
         },
         "82_0": {
             "lines": [
-                "Uh-"
+                "Uh..."
             ]
         },
         "90_0": {
@@ -460,7 +461,7 @@
     "17": {
         "34_0": {
             "lines": [
-                "Uh... ¿Y tu lección?"
+                "Tan tierna como para no cumplir lo prometido."
             ]
         }
     },
@@ -506,7 +507,7 @@
         "176_0": {
             "lines": [
                 "Vienes por mi ayuda ¿No?",
-                "Para ese incidente."
+                "Para ese-... Incidente..."
             ]
         },
         "184_0": {

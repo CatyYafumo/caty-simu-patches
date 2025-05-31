@@ -7,6 +7,6 @@
   "servers": [
     "https://mirrors.thpatch.net/catysumi/catysumi/jomad/"
   ],
-  "title": "(TH19) (BETA)Touhou Macrocosm ~ Journey of Multiple Apocaliptic Dimensions",
+  "title": "(TH19) Touhou Macrocosm ~ Journey of Multiple Apocaliptic Dimensions",
   "update": true
 }

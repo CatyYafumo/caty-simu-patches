@@ -478,7 +478,7 @@
         },
         "192_0": {
             "lines": [
-                "Tus poderes ayudarán a la restauración."
+                "Tus poderes ayudarán con la restauración."
             ]
         },
         "200_0": {
@@ -511,7 +511,7 @@
         },
         "58_0": {
             "lines": [
-                "Ahora... ¿Qué sigue?"
+                "¿Ahora qué sigue en tu plan?"
             ]
         },
         "66_0": {
@@ -521,7 +521,7 @@
         },
         "74_0": {
             "lines": [
-                "Entonces iré por mi camino."
+                "A weno, tons iré por mi camino."
             ]
         },
         "82_0": {
@@ -683,7 +683,7 @@
     "18": {
         "4_0": {
             "lines": [
-                "Oh creo que estoy cerca..."
+                "Oh, este es el lugar..."
             ]
         },
         "12_0": {
@@ -708,7 +708,7 @@
         },
         "160_0": {
             "lines": [
-                "Enrealidad no."
+                "En realidad no."
             ]
         },
         "168_0": {
