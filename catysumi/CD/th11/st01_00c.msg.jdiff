@@ -54,7 +54,7 @@
         },
         "178_0": {
             "lines": [
-                "A devera. Weno Provincia",
+                "Ah ya entendí. Weno Provincia",
                 "¡Hasta aquí llega'te!"
             ]
         },
@@ -92,7 +92,7 @@
     "1": {
         "30_0": {
             "lines": [
-                "Espera ese patrón nunca lo había visto."
+                "Espera, ese patrón nunca lo había visto."
             ]
         },
         "38_0": {
@@ -102,13 +102,13 @@
         },
         "46_0": {
             "lines": [
-                "No se si esto será entretenido o no.",
-                "Pero me da mala espina."
+                "No, esto ya no será entretenido.",
+                "Me da mala espina."
             ]
         },
         "54_0": {
             "lines": [
-                "Almenos tenemos entretención."
+                "Almenos tendremos algo que hacer."
             ]
         }
     }

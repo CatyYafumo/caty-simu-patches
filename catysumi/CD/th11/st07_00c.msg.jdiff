@@ -54,7 +54,7 @@
         },
         "150_0": {
             "lines": [
-                "Estaba esperandolos guardianes."
+                "Estaba esperándolos, guardianes."
             ]
         },
         "158_0": {
@@ -104,7 +104,7 @@
         },
         "230_0": {
             "lines": [
-                "El es el responsable ¿no?"
+                "Él es el responsable ¿no?"
             ]
         },
         "238_0": {
@@ -199,24 +199,24 @@
         },
         "382_0": {
             "lines": [
-                "No hay de que preocuparse, fue solo temporalmente."
+                "No hay de que preocuparse, fue temporal."
             ]
         },
         "390_0": {
             "lines": [
-                "El resultado fue como esperaba, están frente a mí."
+                "El resultado fué como esperaba, están frente a mí."
             ]
         },
         "398_0": {
             "lines": [
-                "¿No se ha dado cuenta del desastre que ha hecho?",
-                "¡INCOMPETENTE!"
+                "¡Pero el método fué de lo más estúpido! ¡INCOMPETENTE!",
+                "¿No se ha dado cuenta del desastre que ha hecho?"
             ]
         },
         "406_0": {
             "lines": [
                 "¿Te atreves a caracterizarme con esa palabra?",
-                "Claro... ¡Pero muestrame ese poder! ¡Pureza Profana!"
+                "Ya veo... ¡Pero muestrame ese poder! ¡Pureza Profana!"
             ]
         }
     },
@@ -293,7 +293,7 @@
         },
         "198_0": {
             "lines": [
-                "Y entonces el es esa deidad..."
+                "Y entonces él es esa deidad..."
             ]
         },
         "206_0": {
@@ -389,7 +389,7 @@
         },
         "350_0": {
             "lines": [
-                "PERO SIN DESASTRES ¿ENTENDIÓ?"
+                "PERO SIN DESASTRES ¿ENTENDI'O?"
             ]
         }
     }
