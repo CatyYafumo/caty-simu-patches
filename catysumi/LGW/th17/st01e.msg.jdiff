@@ -1,0 +1,67 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Flex~ ¿Estás por ahí?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Si, lo estoy."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "¿Quieres hacer otro entrenamiento, Ethany?"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Si, adivinaste"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Bien, porque tu nivel es aún muy bajo."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Entonces ¡Con más razón!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "My bien."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "¡Intenta esquivar esto!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Oh, muy bien."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¿Cómo estoy ahora?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "ALMENOS, me parece que estás lista",
+                "para presentarte con el resto."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Ahora ve y consigue su aceptación."
+            ]
+        }
+    }
+}
