@@ -10,10 +10,10 @@
     "3": [
         "@",
         "　",
-        "False Knight's theme.",
+        "False Knight and Pantheon first theme.",
         " ",
         "Originally, Seiran's theme is here,",
-        "replaced with False Knight's theme from Hollow Knight.",
+        "replaced with a Godmaster's theme from Hollow Knight.",
         "",
         " "
     ],
@@ -40,10 +40,10 @@
     "5": [
         "@",
         "　",
-        "Xero's theme.",
+        "Xero and The Panteon's second theme.",
         "",
         "Originally, Ringo's theme is here (I accidentally write Ring, LoL),",
-        "replaced with Dream Warriors's theme from Hollow Knight.",
+        "replaced with a Godmaster's theme from Hollow Knight.",
         " ",
         " ",
         " "
@@ -61,10 +61,10 @@
     "7": [
         "@",
         "　",
-        "Broken Vessel's theme.",
+        "Broken Vessel and The Pantheon third theme.",
         " ",
         "Originally, Doremy Sweet's theme is here,",
-        "replaced with Broken Vessel's theme from Hollow Knight.",
+        "replaced with a Godmaster's theme from Hollow Knight.",
         " ",
         " ",
         " "
@@ -132,9 +132,9 @@
     "14": [
         "@",
         "　",
-        "The Pantheon theme.",
+        "The final spell theme.",
         " ",
-        "What you expected? Is a pantheon. nothing more."
+        "THIS IS NOT OVER YET, VESSEL."
     ],
     "15": [
         "@",
