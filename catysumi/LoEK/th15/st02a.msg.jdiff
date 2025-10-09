@@ -39,7 +39,7 @@
         },
         "180_0": {
             "lines": [
-                "I've seen you passing by here many times."
+                "I've seen you passing by here many times.",
                 "You don't talk much, right?"
             ]
         },
@@ -96,7 +96,7 @@
         "98_0": {
             "lines": [
                 "Now, continue on your journey, little thing.",
-                "I hope you keep passing by here"
+                "I hope you keep passing by here."
             ]
         }
     }
