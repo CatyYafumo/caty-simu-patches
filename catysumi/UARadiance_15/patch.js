@@ -1,6 +1,6 @@
 {
   "dependencies": [
-    "catysumi/catysumi/loek"
+    "catysumi/catysumi/LoEK"
   ],
   "id": "UARadiance_15",
   "servers": [
