@@ -46,7 +46,7 @@
         "Que ¿creyeron que sería alrevez?",
         "Encontré que el primer tema de Sariel era más similar para",
         "la atmosfera que genera el tema de patchouli, naa má",
-        "Tema original por Derpy_Owo2006"
+        "Tema por Miyu"
     ],
     "10": [
         "@",
@@ -71,7 +71,7 @@
         "El tema de Shinki",
         "El tema no es el original sino un remix al estilo de EoSD",
         "Y es un tanto tranquilo lo que aporta igual que con el de Sariel",
-        "Tema perteneciente a"
+        "Tema por Miyu"
     ],
     "14": [
         "@",
@@ -82,7 +82,7 @@
         "@",
         "Wey ¿creiste que no apareceria mima?",
         "Es el personaje más querido de PC98 porque no la pondriamos!",
-        "Tema perteneciente a LinaMusic"
+        "Tema por Miyu"
     ],
     "16": [
         "@",
