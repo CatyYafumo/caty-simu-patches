@@ -63,15 +63,15 @@
         "*Pulsa el botón OK para ver el final"
     ],
     "9": "Final malo de Kaiser",
-    "9_0": "Completa el juego con Kaiser y con continúes",
+    "9_0": "Completa el juego con Kaiser y con continuar",
     "9_1": [
-        "Completaste el juego con Kaiser y con continúes",
+        "Completaste el juego con Kaiser y con continuar",
         "",
         "*Pulsa el botón OK para ver el final"
     ],
     "10": "Final malo de Ethany",
-    "10_0": "Completa el juego con Ethany y con continúes",
-    "11_0": "Completa el juego con Yarumi y con continúes",
+    "10_0": "Completa el juego con Ethany y con continuar",
+    "11_0": "Completa el juego con Yarumi y con continuar",
     "12_0": "Completa el Nivel Extra con Kaiser (Fuego)",
     "13_0": "Completa el Nivel Extra con Kaiser (Protección)",
     "14_0": "Completa el Nivel Extra con Kaiser (Naturaleza)",
@@ -83,7 +83,7 @@
         "*Pulsa el botón OK para ver el final"
     ],
     "11_1": [
-        "Completaste el juego con Yarumi y con continúes",
+        "Completaste el juego con Yarumi y con continuar",
         "",
         "*Pulsa el botón OK para ver el final"
     ],
@@ -112,7 +112,7 @@
         "",
         "*Pulsa el botón OK para ver el dialogo"
     ],
-    "11": "Final malo de Yarumo",
+    "11": "Final malo de Yarumi",
     "12": "Completa el Nivel Extra con Kaiser (Fuego)",
     "13": "Completa el Nivel Extra con Kaiser (Protección)",
     "14": "Completa el Nivel Extra con Kaiser (Naturaleza)",
@@ -139,41 +139,85 @@
         "",
         "*Pulsa el botón OK para ver el dialogo"
     ],
-    "33": "Me encantan las medusas.",
-    "32": "Coleccionista de Spell Cards",
-    "34": "Hora de beberse la leche de vaca.",
-    "35": "El polluelo recién salido del cascarón.",
     "29_0": "Completa el juego sin fallar (Cualquier Dificultad)",
     "29": "Completa Perfectamente",
-    "35_0": [
-        "Vamos a la búsqueda del raro espíritu animal del tercer nivel.",
-        "Aparece del subjefe si se cumplen ciertas condiciones.",
-        "(Pista: ¿Cuál es el espíritu animal más manso?)"
-    ],
-    "35_1": [
-        "Encontraste al polluelo, el raro espíritu animal del tercer nivel.",
-        "Derrota al subjefe mientras el modo Rugido de la Nutria esté activo.",
-        "Ojo, no lo recojas mientras el modo Rugido esté activo."
-    ],
-    "34_0": [
-        "Vamos a la búsqueda del raro espíritu animal del segundo nivel.",
-        "Aparece del subjefe si se cumplen ciertas condiciones.",
-        "(Pista: ¿Inesperadamente seguro?)"
-    ],
-    "34_1": [
-        "Encontraste a la vaca, el raro espíritu animal del segundo nivel.",
-        "Derrota al subjefe mientras estás bien cerca de ella.",
-        "Es más facil si te acercas desde el comienzo."
-    ],
+    "32": "Coleccionista de Spell Cards",
+    "33": "Jardín del Poder.",
     "33_0": [
-        "Vamos a la búsqueda del raro espíritu animal del primer nivel.",
-        "Aparece del subjefe si se cumplen ciertas condiciones.",
-        "(Pista: no mires a los costados)"
+        "Busca la Piedra Verdadera de la Naturaleza.",
+        "Derriba el primer ataque de Flex siguiendo el desafío.",
+        "(Pista: Todo te hace daño.)"
     ],
     "33_1": [
-        "Encontraste a la medusa, el raro espíritu animal del primer nivel.",
-        "Derrota al subjefe sin destruir los espíritus que genera.",
-        "Su efecto es soltar cinco espíritus al final del modo Rugido."
+        "Encontraste la Piedra Verdadera de la Naturaleza.",
+        "Desafío: No agarres ningún potenciador.",
+        "Su efecto es soltar cinco poderes al final del modo Semidios."
+    ],
+    "34": "El Aire se Siente Frío a su Alrededor.",
+    "34_0": [
+        "Busca la Piedra Verdadera del Hielo.",
+        "Derriba a Lilith como minijefe siguiendo el desafío.",
+        "(Pista: Parece que hay zona de ventisca.)"
+    ],
+    "34_1": [
+        "Encontrase la Piedra Verdadera del Hielo.",
+        "Desafío: Aléjate del Frío.",
+        "Pero que antisocial."
+    ],
+    "35": "Entre Fuego y Llamas.",
+    "35_0": [
+        "Busca la Piedra Verdadera de la Creación.",
+        "Derriba a Santi como minijefe siguiendo el desafío.",
+        "(Pista: ¿Cómo podemos combatir el fuego?)"
+    ],
+    "35_1": [
+        "Encontraste la Piedra Verdadera de la Creación.",
+        "Desafío: Combate fuego con fuego.",
+        "¡Cuidado con recogerlo antes!"
+    ],
+    "36": "Fuerza de Atracción.",
+    "36_0": [
+        "Busca la Piedra Verdadera de la Galaxia.",
+        "Derriba a Luna como minijefe siguiendo el desafío.",
+        "(Pista: Por un pelo de rana calva.)"
+    ],
+    "36_1": [
+        "Encontraste la Piedra Verdadera de la Galaxia.",
+        "Desafío: Haz mucho graze justo antes de derrotar a Luna.",
+        "Hombre, dice justo antes."
+    ],
+    "37": "Trae un Paraguas",
+    "37_0": [
+        "Busca la Piedra Verdadera del Clima.",
+        "Derriba la segunda SpellCard de Shire siguiendo el desafío.",
+        "(Pista: Obedece las recomendaciones de los Meteorólogos.)"
+    ],
+    "37_1": [
+        "Encontraste la Piedra Verdadera del Clima.",
+        "Desafío: Usa el poder de la Protección para cuidarte del tornado.",
+        "Solo ten cuidado con los rayos y mantén el poder."
+    ],
+    "38": "La Luz es Perfección.",
+    "38_0": [
+        "Busca la Piedra Verdadera de la Luz.",
+        "Derriba la primera SpellCard de Sarah siguiendo el desafío.",
+        "(Pista: Ve a la velocidad de la luz.)"
+    ],
+    "38_1": [
+        "Encontraste la Piedra Verdadera de la Luz.",
+        "Desafío: Haz un Nomiss Nobomb contra la primera SpellCard de Sarah.",
+        "La práctica hace al maestro."
+    ],
+    "39": "El Ojo que Todo lo ve.",
+    "39_0": [
+        "Busca la Piedra Verdadera de la Muerte.",
+        "Derriba a Kaithe siguiendo el desafío.",
+        "(Pista: Nos vemos al rebovinar.)"
+    ],
+    "39_1": [
+        "Encontraste la Piedra Verdadera de la Muerte.",
+        "Desafío: Haz un Nomiss Nobomb contra Kaithe.",
+        "¿Practicaste aún más?"
     ],
     "28": "Lunático acabado con un solo crédito",
     "28_0": "Completa la Dificultad Lunática sin continuar",
@@ -194,10 +238,6 @@
     "20": "Completa el Nivel Extra con Yarumi (Naturaleza)",
     "30": "Dios de la Destrucción en el Reino de las Bestias",
     "31": "Destructor de Todas las Bestias",
-    "36": "Caminando con bastante comodidad",
-    "37": "Hola Hanimaru-san",
-    "38": "Caballo de Tierra",
-    "39": "Tres pajaritos",
     "32_1": [
         "Todas las cartas de hechizo conseguidas",
         "¡Perfecto! ",
@@ -206,46 +246,6 @@
     "32_0": "Consigue todas las cartas de hechizo",
     "30_0": "Completa el Modo Lunático sin fallar",
     "31_0": "Completa el Nivel Extra sin fallar",
-    "37_0": [
-        "Vamos a la búsqueda del raro espíritu animal del quinto nivel.",
-        "Aparece del subjefe si se cumplen ciertas condiciones.",
-        "(Pista: De Rodeo con las Bestias...)"
-    ],
-    "36_0": [
-        "Vamos a la búsqueda del raro espíritu animal del cuarto nivel.",
-        "Aparece del subjefe si se cumplen ciertas condiciones.",
-        "(Pista: !Grazea de una vez!)"
-    ],
-    "38_0": [
-        "Vamos a la búsqueda del raro espíritu animal del sexto nivel.",
-        "Aparecen del subjefe si se cumplen ciertas condiciones.",
-        "(Pista: !Release!)"
-    ],
-    "39_0": [
-        "Vamos a la búsqueda del raro espíritu animal del Nivel Extra.",
-        "Aparece del subjefe si se cumplen ciertas condiciones.",
-        "(Pista: Sin nada más, practica su última carta de hechizo)"
-    ],
-    "36_1": [
-        "Encontraste el espíritu de bestia rara en el cuarto nivel, la tortuga.",
-        "Grazea una tonelada de balas justo mientras derrotas al subjefe.",
-        "No se basa en el Grazeo total, ¡Así que salta a un área densa justo antes de vencerla!"
-    ],
-    "37_1": [
-        "Encontró el espíritu de la bestia rara en el quinto nivel, el Haniwa.",
-        "¡Deja en paz a los espíritus y vence al jefe medio con muchos de ellos en pantalla!",
-        "Siempre que sepas qué hacer, será simple."
-    ],
-    "38_1": [
-        "Encontró el espíritu de la bestia rara en el sexto nivel, el Haniwa (caballo).",
-        "¡Derrota al subjefe con un Golpe Espiritual!",
-        "El Golpe de espíritu no dura mucho, así que debes usarlo justo al final."
-    ],
-    "39_1": [
-        "Encontró el espíritu de la bestia rara en la etapa extra, el Trio de Polluelos.",
-        "¡Despeja la última carta de hechizo del subjefe sin morir ni bombardear!",
-        "Solo tienes que seguir practicando."
-    ],
     "20_1": [
         "Completaste el nivel Extra con Yarumi (Naturaleza)",
         "",

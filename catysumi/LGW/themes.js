@@ -15,5 +15,5 @@
     "th17_14": "Heian Alien (F)",
     "th17_15": "Tenebre Rosso Sangue (U)",
     "th17_16": "Lullaby of a Deserted Hell (S)",
-    "th17_17": "Septtete for the Dead Princess (F)"
+    "th17_17": "Eternal Shrine Maiden (S)"
 }

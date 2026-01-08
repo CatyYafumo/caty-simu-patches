@@ -7,6 +7,6 @@
   "servers": [
         "https://srv.thpatch.net/catysumi/catysumi/lgw/",
   ],
-  "title": "(TH17) (DEMO) Touhou Tsuneriuketsu ~ Legendary Gods War (OC)",
+  "title": "(TH17) (BETA) Touhou Tsuneriuketsu ~ Legendary Gods War (OC)",
   "update": true
 }

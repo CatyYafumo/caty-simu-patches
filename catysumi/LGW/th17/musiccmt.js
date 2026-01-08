@@ -102,7 +102,7 @@
         "",
         "Tema de la Stage Final",
         "-Sin X Nad",
-        "Ok, es el la última stage, merecemos algo de tranquilidad, un tema suave si queda bien.",
+        "Ok, es la última stage, merecemos algo de tranquilidad, un tema suave si queda bien.",
         "Luego la calma se va al diablo con el paso del tiempo y cuando llega el jefe.",
         "Te da una sensación mística y elegante, como si predijera el encuentro con un Dios",
         "de alto calibre."
@@ -134,7 +134,7 @@
         "-Keygen Church/Ultrakill",
         "¿KEEEE? El inicio te alerta, el organo y los demás instrumentos revelan frialdad,",
         "misterio, y algo de terror, vacan para una Diosa de la Muerte.",
-        "Me mostraron este tema bastante antes de viciarme con Ultrakill si, pensé:",
+        "Me mostraron este tema bastante antes de viciarme con Ultrakill je, pensé:",
         "Rojo, Negro... ¿Catyon? Y bum, la atmósfera quedó fenomenal."
     ],
     "16": [
@@ -143,14 +143,16 @@
         "Tema de los Finales",
         "-Sin X Nad",
         "Para estas partes están totalmente admitidos los riffs lentos.",
-        "Le da espacio a tu mente para pensar y leer (aunque para mi todos pueden hacer eso)."
+        "Le da espacio a tu mente para pensar y leer (aunque para mi todos pueden hacer eso,",
+        "y por eso mismo puedo hacer pruebas con música a todo volúmen e igual sacarme un 7,0)."
     ],
     "17": [
         "@",
         "",
         "Tema de los Créditos",
-        "-FalKKonE",
-        "No se, no me gusta mucho usar covers de un mismo tema, y justo cuando",
-        "pensé en un tema para los créditos me acordé de este tema."
+        "-Sin X Nad",
+        "Me quedé insatisfecha con el anterior tema que estaba aquí, así que pensé",
+        "en un tema que te diera la vibra de paz, de amanecer, curiosamente fué",
+        "el mismo que está para la pantalla de Puntaje pero eso le da el dato curioso."
     ]
 }
