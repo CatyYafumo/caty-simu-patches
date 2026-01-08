@@ -101,7 +101,8 @@
         },
         "272_0": {
             "lines": [
-                "Estamos cometiendo un error."
+                "Estamos cometiendo un error.",
+                "Necesitamos hacer esto civilizadamente."
             ]
         },
         "280_0": {
@@ -111,73 +112,89 @@
         },
         "288_0": {
             "lines": [
-                "Lo lamento..."
+                "Oh, por favor.",
+                "Esto es una guerra, nada termina siendo civilizado."
             ]
         },
         "296_0": {
             "lines": [
-                "Sé que usted tenía fé en mí."
+                "Que esto sea una forma civilizada es lo que ella nos quiere hacer creer."
             ]
         },
         "304_0": {
             "lines": [
-                "Pero he decidido renunciar."
+                "Pero es su forma de tomar ventaja",
+                "limitando nuestras estrategias."
             ]
         },
         "312_0": {
             "lines": [
-                "..."
+                "Lo lamento... Pero..."
             ]
         },
         "320_0": {
             "lines": [
-                "No entiendo tu repentino cambio de opinión."
+                "Sé que usted tenía fé en mí."
             ]
         },
         "328_0": {
             "lines": [
-                "Sí, es algo complicado."
+                "Pero he decidido renunciar."
             ]
         },
         "336_0": {
             "lines": [
-                "Fuí un tonto y lo reconozco."
+                "No entiendo tu repentino cambio de humor."
             ]
         },
         "344_0": {
             "lines": [
-                "Pero espero que no sea tarde aún."
+                "Sí, es complicado."
             ]
         },
         "352_0": {
             "lines": [
-                "..."
+                "Fuí un tonto, lo reconozco."
             ]
         },
         "360_0": {
             "lines": [
-                "Bien..."
+                "Pero espero que no sea tarde."
             ]
         },
         "368_0": {
             "lines": [
-                "Reconozco que no he tomado la",
-                "mejor decisión..."
+                "..."
             ]
         },
         "376_0": {
             "lines": [
-                "Eres muy digno."
+                "Bien..."
             ]
         },
         "384_0": {
             "lines": [
-                "Vamos, esto no debería terminarse así."
+                "Reconozco que no he tomado la mejor decisión."
             ]
         },
         "392_0": {
             "lines": [
+                "Eres muy digno."
+            ]
+        },
+        "400_0": {
+            "lines": [
+                "Y vamos, esto no debería de terminarse así."
+            ]
+        },
+        "408_0": {
+            "lines": [
                 "Por ser así de valiente..."
+            ]
+        },
+        "416_0": {
+            "lines": [
+                "¡Te daré un premio digno de tí!"
             ]
         }
     }
