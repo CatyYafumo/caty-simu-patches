@@ -186,110 +186,107 @@
         }
     },
     "1": {
-        "130_0": {
+        "34_0": {
             "lines": [
-                "¿Eeh?"
-            ]
-        },
-        "82_0": {
-            "lines": [
-                "Eres muy honesta",
-                "Atrapaste mi atención."
-            ]
-        },
-        "74_0": {
-            "lines": [
-                "Haa... Haa... Gracias.",
-                "Pensé que moriría."
-            ]
-        },
-        "66_0": {
-            "lines": [
-                "No, paremos aquí.",
-                "Si continuamos, cualquiera podría caer."
-            ]
-        },
-        "58_0": {
-            "lines": [
-                "¡Aún puedo pelear!"
-            ]
-        },
-        "50_0": {
-            "lines": [
-                "¡Estoy conmovida!"
+                "Tus habilidades de equiva son buenas."
             ]
         },
         "42_0": {
             "lines": [
-                "¡Tanto fuerza y agilidad, valentía y conocimiento!",
-                "¡Tienes todo en perfecto balance!"
+                "Pero tu fuerza es vergonzosa."
             ]
         },
-        "34_0": {
+        "50_0": {
             "lines": [
-                "...Haa, Haa."
+                "Así no llegaremos a nada,",
+                "me quedaré dormida antes de ser derrotada"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "¿Qué está diciéndome...?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "¿Qué? ¿Que no soy lo suficientemente",
+                "fuerte como para acabar con ella?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "¿Pero que soy lo suficientemente hábil",
+                "como para cansarla?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Me parece que es raro que lo diga..."
             ]
         },
         "90_0": {
             "lines": [
-                "Por cierto, tu...",
-                "No eres una humana de la superficie, ¿Cierto?"
+                "Ya deja de hablar contigo misma."
             ]
         },
         "98_0": {
             "lines": [
-                "Cierto, soy residente del Inframundo."
+                "Escúpelo, hazme saber que no",
+                "hablo con un muerto."
             ]
         },
         "106_0": {
             "lines": [
-                "Ya veo, el Inframundo."
+                "¿Q-qué quiere decir?",
+                "¿Ha llegado a una nueva decisión?"
             ]
         },
         "114_0": {
             "lines": [
-                "Ciertamente, eso explica por qué",
-                "eres tan buena manipulando las almas."
+                "Hm, al menos captas bien."
             ]
         },
         "122_0": {
             "lines": [
-                "¡Bien, lo he decidido!",
-                "Quiero visitar el Inframundo."
+                "Sí, he llegado a una nueva decisión."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Esta vez, y por única vez no te destruiré."
             ]
         },
         "138_0": {
             "lines": [
-                "Si logro ganar seguidores en el Inframundo,",
-                "¡El Clan Keiga será aún más poderoso!"
+                "Imaginé que ese destino no sería convencional",
+                "por y para alguien de otra era."
             ]
         },
         "146_0": {
             "lines": [
-                "Pe-Pero..."
+                "Con la condició de que nunca más",
+                "vuelvas a pisar este tiempo."
             ]
         },
         "154_0": {
             "lines": [
-                "¡Si haces eso,",
-                "me vas a meter en problemas!"
+                "Y si pasa, no me ateneré a",
+                "las consecuencías."
             ]
         },
         "162_0": {
             "lines": [
-                "JaJaJa, ¿Por que otra razón habría de ir?"
+                "¿E n t e n d i d o?"
             ]
         },
         "170_0": {
             "lines": [
-                "Bueno, descansa un poco,",
-                "¡Luego volveremos a pelear!"
+                "..."
             ]
         },
         "178_0": {
             "lines": [
-                "Ha... Que...",
-                "Siento que perdí por completo el control de la conversación."
+                "Bien..."
             ]
         }
     }

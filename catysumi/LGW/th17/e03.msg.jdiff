@@ -2,136 +2,146 @@
     "0": {
         "0_0": {
             "lines": [
-                "<ts$Reimu  $Eagle Spirit  $Ibara Kasen  >El Santuario Hakurei."
+                "<ts$Sarah  $Marcel  >El Reino de Lobrin."
             ]
         },
         "1_0": {
             "lines": [
-                "Un santuario en las afueras de Gensokyo."
+                "Uno de los reinos más poderosos de la Tierra actual.",
+                "Conteniendo un gran linaje de Dioses Reyes."
             ]
         },
         "2_0": {
             "lines": [
-                "Hoy en el santuario, hay muchos espíritus animales reunidos."
+                "Sin embargo, su palacio no es solo el hogar de la realeza."
             ]
         },
         "3_0": {
             "lines": [
-                "<r$Reimu  >\"Lo entiendo, lo entiendo."
+                "Sinó también la base de los Dioses de la generación actual."
             ]
         },
         "4_0": {
             "lines": [
-                "<l$> Esto no fue un gran problema."
+                "<r$Sarah  >\"Ya que han renunciado a nuestras fuerzas..."
             ]
         },
         "5_0": {
             "lines": [
-                "<l$> Entonces no necesitas agradecerme\"."
+                "<l$>Quisiera saber en qué usarán aquel poder.\""
             ]
         },
         "6_0": {
             "lines": [
-                "<r$Eagle Spirit  >\"Conservamos nuestro honor gracias a ti."
+                "<r$Kaiser  >\"¿Eh? La verdad es que no lo había pensado..."
             ]
         },
         "7_0": {
             "lines": [
-                "<l$> Entonces, si hay alguna forma en que podamos agradecértelo..."
+                "<l$>Pensé que después de renunciar nos lo quitarían.\""
             ]
         },
         "8_0": {
             "lines": [
-                "<l$> ¿No hay algo con lo que podamos ayudar?\"."
+                "<r$Sarah  >\"Bueno, si antes no sabíamos como darlo..."
             ]
         },
         "9_0": {
             "lines": [
-                "<r$Reimu  >\"Incluso si tú lo dices..."
+                "<l$>menos sabremos como quitarselos, además esa idea suena algo dolorosa.\""
             ]
         },
         "10_0": {
             "lines": [
-                "<l$> No puedo pensar en nada..."
+                "<r$Kaiser  >\"¿Sabremos? ¿Qué quiere decir?"
             ]
         },
         "11_0": {
             "lines": [
-                "<l$> ¡Oh, ya sé! ¿Qué tal esto?\""
+                "<l$>¿Hay cosas incluso fuera de su alcance?\""
             ]
         },
         "12_0": {
             "lines": [
-                "<r$Ibara Kasen  >\"¿Que está pasando aquí?"
-            ]
-        },
-        "25_0": {
-            "lines": [
-                "<c$¡Felicitaciones!$>",
-                "<c$Terminado sin Continues! ¡Sabia que podías!$>"
+                "<r$Sarah  >\"La verdad sí."
             ]
         },
         "13_0": {
             "lines": [
-                "<l$> ¡El santuario está lleno de espíritus animales!\"."
+                "<l$>Nosotros, después de años seguimos descubriendo más capacidades de nuestros poderes."
             ]
         },
         "14_0": {
             "lines": [
-                "<r$Reimu  >\"Sí, sobre eso...\""
+                "<l$>Es como el conocimiento ordinario, pero es es lo fascinante. Según Flex.\""
             ]
         },
         "15_0": {
             "lines": [
-                "<r$Reimu  >\"Pasaron algunas cosas, y yo ",
-                "<l$> termine trabajando con un espíritu de Águila."
+                "<r$Kaiser  >\"Oh, ya veo.\""
             ]
         },
         "16_0": {
             "lines": [
-                "<l$> Y me decían que solo quieren agradecerme\"."
+                "<r$Sarah  >\"Bueno, entonces haremos esto:"
             ]
         },
         "17_0": {
             "lines": [
-                "<r$Ibara Kasen  >\"¿Entonces ellos te están devolviendo el favor?\""
+                "<l$>¡Entre todos decidiremos que harás con tu nuevo poder!\""
             ]
         },
         "18_0": {
             "lines": [
-                "<r$Reimu  >\"Ellos están haciendo turismo."
+                "<r$Marcel  >\"Dices eso cuando fuiste tú quien hacía ese plan",
+                "<l$> a espaldas de todos nosotros.\""
             ]
         },
         "19_0": {
             "lines": [
-                "<l$> Y pagando. Esto es muy rentable\"."
+                "<r$Sarah  >\"eheheh...\""
             ]
         },
         "20_0": {
             "lines": [
-                "El espíritu águila arrogante era sorprendentemente obediente."
+                "<r$Marcel  >\"Es broma. Me alegra que vuelvas a ser así de cooperativa."
             ]
         },
         "21_0": {
             "lines": [
-                "Debido a su orgullo, debe odiar deberle favores a las personas."
+                "<l$>Lo peor que podemos hacer entre nosotros es pelearnos.\""
             ]
         },
         "22_0": {
             "lines": [
-                "El Mundo Humano se convirtió en un popular destino turístico para",
-                "los espíritus animales, por esto los bolsillos de Reimu se hincharon de dinero."
+                "<r$Sarah  >\"Siempre tan sabio. Y Kaiser...\""
             ]
         },
         "23_0": {
             "lines": [
-                "Entonces, aunque todavía no entendía mucho todo lo que sucedió, ",
-                "Reimu se alegró de haber ido al Reino de las Bestias."
+                "El futuro de esos dos jóvenes era incierto."
             ]
         },
         "24_0": {
             "lines": [
-                "<c$Final No.03 — Bien Está lo que Bien Acaba$>"
+                "Pero era cierto que terminarían ayudando de alguna forma."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Que sin darse cuenta, ya lo habían hecho.",
+                "Habían recobrado la estabilidad y unión en el equipo de los Dioses."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<c$Final Alternativo: — El futuro de la Alianza Desvanecida$>"
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<c$¡Felicitaciones!$>",
+                "<c$Terminado sin Continues! ¡Sabia que podías!$>"
             ]
         }
     }

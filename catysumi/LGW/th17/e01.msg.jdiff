@@ -2,150 +2,140 @@
     "0": {
         "0_0": {
             "lines": [
-                "<ts$Keiki  $Reimu  >El Santuario Hakurei."
+                "<ts$Sarah  $Marcel  >El Reino de Lobrin."
             ]
         },
         "1_0": {
             "lines": [
-                "Un santuario en las afueras de Gensokyo."
+                "Uno de los reinos más poderosos de la Tierra actual.",
+                "Conteniendo un gran linaje de Dioses Reyes."
             ]
         },
         "2_0": {
             "lines": [
-                "Este es el llamado \"Santuario Youkai\",",
-                "donde los youkai vienen más a menudo que los humanos."
+                "Sin embargo, su palacio no es solo el hogar de la realeza."
             ]
         },
         "3_0": {
             "lines": [
-                "La invasión de los espíritus animales se ha calmado, pero Reimu,",
-                "que aún no podía ver todo el panorama, estaba un poco insatisfecha."
+                "Sinó también la base de los Dioses de la generación actual."
             ]
         },
         "4_0": {
             "lines": [
-                "<r$Keiki  >\"El aire en el Mundo Humano es realmente delicioso, ¿No?\""
+                "<r$Sarah  >\"Ya que han renunciado a nuestras fuerzas..."
             ]
         },
         "5_0": {
             "lines": [
-                "<r$Reimu  >\"¿Otra vez tú?"
+                "<l$>Quisiera saber en qué usarán aquel poder.\""
             ]
         },
         "6_0": {
             "lines": [
-                "<l$> Sigues volviendo a visitar, eh \"."
+                "<r$Kaiser  >\"¿Eh? La verdad es que no lo había pensado..."
             ]
         },
         "7_0": {
             "lines": [
-                "<r$Keiki  >\"Estaba pensando en dónde debería establecer mi base",
-                "<l$> si viniera al Mundo Humano \"."
+                "<l$>Pensé que después de renunciar nos lo quitarían.\""
             ]
         },
         "8_0": {
             "lines": [
-                "<r$Reimu  >\"¿Qué, estás planeando venir al Mundo Humano? ",
-                "<l$> No lo hagas\"."
+                "<r$Sarah  >\"Bueno, si antes no sabíamos como darlo..."
             ]
         },
         "9_0": {
             "lines": [
-                "<r$Keiki  >\"No digas eso.",
-                "<l$> Quizás cambies de opinión cuando te cuente sobre los pobres espíritus humanos \"."
+                "<l$>menos sabremos como quitarselos, además esa idea suena algo dolorosa.\""
             ]
         },
         "10_0": {
             "lines": [
-                "<r$Reimu  >\"No quiero escucharlo\"."
+                "<r$Kaiser  >\"¿Sabremos? ¿Qué quiere decir?"
             ]
         },
         "11_0": {
             "lines": [
-                "<r$Keiki  >\"Los espíritus humanos podrían ser más felices en la superficie en lugar de",
-                "<l$> en el Reino de las Bestias ¿No te parece?\""
+                "<l$>¿Hay cosas incluso fuera de su alcance?\""
             ]
         },
         "12_0": {
             "lines": [
-                "<r$Reimu  >\"Son fantasmas, ¿no? Entonces deberían ir al Inframundo\"."
+                "<r$Sarah  >\"La verdad sí."
             ]
         },
         "13_0": {
             "lines": [
-                "<r$Keiki  >\"El Inframundo nos rechazó, como puedes ver. ",
-                "<l$> Dijeron que ya tienen demasiados fantasmas\"."
+                "<l$>Nosotros, después de años seguimos descubriendo más capacidades de nuestros poderes."
             ]
         },
         "14_0": {
             "lines": [
-                "<l$> Y dado que los espíritus humanos del Reino de las Bestias no son holgazanes,",
-                "<l$> podrían no ser adecuados para el Inframundo \"."
+                "<l$>Es como el conocimiento ordinario, pero es es lo fascinante. Según Flex.\""
             ]
         },
         "15_0": {
             "lines": [
-                "<r$Reimu  >\"¿Entonces son problemáticos? La superficie tampoco los quiere\"."
+                "<r$Kaiser  >\"Oh, ya veo.\""
             ]
         },
         "16_0": {
             "lines": [
-                "<r$Keiki  >\"Ellos no son problemáticos."
+                "<r$Sarah  >\"Bueno, entonces haremos esto:"
             ]
         },
         "17_0": {
             "lines": [
-                "<l$> Simplemente no pueden relajarse fácilmente. ",
-                "<l$> Se podría decir que son muy trabajadores \"."
+                "<l$>¡Entre todos decidiremos que harás con tu nuevo poder!\""
             ]
         },
         "18_0": {
             "lines": [
-                "<r$Keiki  >\"Por cierto, cambiando de tema, ",
-                "<l$> ¿Cuál es el goshintai para este santuario?\""
+                "<r$Marcel  >\"Dices eso cuando fuiste tú quien hacía ese plan",
+                "<l$> a espaldas de todos nosotros.\""
             ]
         },
         "19_0": {
             "lines": [
-                "<r$Reimu  >\"¿Eh?\""
+                "<r$Sarah  >\"eheheh...\""
             ]
         },
         "20_0": {
             "lines": [
-                "<r$Keiki  >\"Si quieres, podría crear un excelente ídolo para ti\""
+                "<r$Marcel  >\"Es broma. Me alegra que vuelvas a ser así de cooperativa."
             ]
         },
         "21_0": {
             "lines": [
-                "<r$Reimu  >\"Oh, ¿En serio?"
+                "<l$>Lo peor que podemos hacer entre nosotros es pelearnos.\""
             ]
         },
         "22_0": {
             "lines": [
-                "<l$> Si estás diciendo que harás algo genial, entonces ... \""
+                "<r$Sarah  >\"Siempre tan sabio. Y Kaiser...\""
             ]
         },
         "23_0": {
             "lines": [
-                "Parecía que Keiki se había interesado en el Mundo Humano."
+                "El futuro de esos dos jóvenes era incierto."
             ]
         },
         "24_0": {
             "lines": [
-                "Reimu se enteró después de que había arrojado el Reino de las Bestias al caos.",
-                "difundiendo su idolatría."
+                "Pero era cierto que terminarían ayudando de alguna forma."
             ]
         },
         "25_0": {
             "lines": [
-                "Tenía la sensación de que, podría no ser de humanos contra bestias, ",
-                "ni entes físicos contra espirituales, ",
-                "pero se acercaba una confrontación religiosa."
+                "Que sin darse cuenta, ya lo habían hecho.",
+                "Habían recobrado la estabilidad y unión en el equipo de los Dioses."
             ]
         },
         "26_0": {
             "lines": [
-                "<c$Final No. 01 — El Ídolo de Haniwa$>"
+                "<c$Final Alternativo: — El futuro de la Alianza Desvanecida$>"
             ]
         },
         "27_0": {

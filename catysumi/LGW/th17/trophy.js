@@ -71,77 +71,163 @@
     ],
     "10": "Final malo de Ethany",
     "10_0": "Completa el juego con Ethany y con continuar",
-    "11_0": "Completa el juego con Yarumi y con continuar",
-    "12_0": "Completa el Nivel Extra con Kaiser (Fuego)",
-    "13_0": "Completa el Nivel Extra con Kaiser (Protección)",
-    "14_0": "Completa el Nivel Extra con Kaiser (Naturaleza)",
-    "15_0": "Completa el Nivel Extra con Ethany (Fuego)",
-    "16_0": "Completa el Nivel Extra con Ethany (Protección)",
     "10_1": [
         "Completaste el juego con Ethany y con continúes",
         "",
         "*Pulsa el botón OK para ver el final"
     ],
+    "11": "Final malo de Yarumi",
+    "11_0": "Completa el juego con Yarumi y con continuar",
     "11_1": [
         "Completaste el juego con Yarumi y con continuar",
         "",
         "*Pulsa el botón OK para ver el final"
     ],
+    "12": "Completa el Nivel Extra con Kaiser (Fuego)",
+    "12_0": "Completa el Nivel Extra con Kaiser (Fuego)",
     "12_1": [
         "Completaste el Nivel Extra con Kaiser (Fuego)",
         "",
         "*Pulsa el botón OK para ver el dialogo"
     ],
+    "13": "Completa el Nivel Extra con Kaiser (Protección)",
+    "13_0": "Completa el Nivel Extra con Kaiser (Protección)",
     "13_1": [
         "Completaste el Nivel Extra con Kaiser (Protección)",
         "",
         "*Pulsa el botón OK para ver el dialogo"
     ],
+    "14": "Completa el Nivel Extra con Kaiser (Naturaleza)",
+    "14_0": "Completa el Nivel Extra con Kaiser (Naturaleza)",
     "14_1": [
         "Completaste el Nivel Extra con Kaiser (Naturaleza)",
         "",
         "*Pulsa el botón OK para ver el dialogo"
     ],
+    "15": "Completa el Nivel Extra con Ethany (Fuego)",
+    "15_0": "Completa el Nivel Extra con Ethany (Fuego)",
     "15_1": [
         "Completaste el Nivel Extra con Ethany (Fuego)",
         "",
         "*Pulsa el botón OK para ver el dialogo"
     ],
+    "16": "Completa el Nivel Extra con Ethany (Protección)",
+    "16_0": "Completa el Nivel Extra con Ethany (Protección)",
     "16_1": [
         "Completaste el Nivel Extra con Ethany (Protección)",
         "",
         "*Pulsa el botón OK para ver el dialogo"
     ],
-    "11": "Final malo de Yarumi",
-    "12": "Completa el Nivel Extra con Kaiser (Fuego)",
-    "13": "Completa el Nivel Extra con Kaiser (Protección)",
-    "14": "Completa el Nivel Extra con Kaiser (Naturaleza)",
-    "15": "Completa el Nivel Extra con Ethany (Fuego)",
-    "16": "Completa el Nivel Extra con Ethany (Protección)",
     "17": "Completa el Nivel Extra con Ethany (Naturaleza)",
-    "18": "Completa el Nivel Extra con Yarumi (Fuego)",
-    "19": "Completa el Nivel Extra con Yarumi (Protección)",
     "17_0": "Completa el Nivel Extra con Ethany (Naturaleza)",
-    "18_0": "Completa el Nivel Extra con Yarumi (Fuego)",
-    "19_0": "Completa el Nivel Extra con Yarumi (Protección)",
     "17_1": [
         "Completaste el Nivel Extra con Ethany (Naturaleza)",
         "",
         "*Pulsa el botón OK para ver el dialogo"
     ],
+    "18": "Completa el Nivel Extra con Yarumi (Fuego)",
+    "18_0": "Completa el Nivel Extra con Yarumi (Fuego)",
     "18_1": [
         "Completaste el Nivel Extra con Yarumi (Fuego)",
         "",
         "*Pulsa el botón OK para ver el dialogo"
     ],
+    "19": "Completa el Nivel Extra con Yarumi (Protección)",
+    "19_0": "Completa el Nivel Extra con Yarumi (Protección)",
     "19_1": [
         "Completaste el Nivel Extra con Yarumi (Protección)",
         "",
         "*Pulsa el botón OK para ver el dialogo"
     ],
-    "29_0": "Completa el juego sin fallar (Cualquier Dificultad)",
+    "20": "Completa el Nivel Extra con Yarumi (Naturaleza)",
+    "20_0": "Completa el Nivel Extra con Yarumi (Naturaleza)",
+    "20_1": [
+        "Completaste el nivel Extra con Yarumi (Naturaleza)",
+        "",
+        "*Pulsa el botón OK para ver el dialogo"
+    ],
+    "21": "Facil Completado",
+    "21_0": "Completa la Dificultad Fácil",
+    "21_1": [
+        "Completaste el Modo Fácil.",
+        "Si no estás acostumbrado, aún puede ser difícil a pesar de ser fácil."
+    ],
+    "22": "Normal Completado",
+    "22_0": "Completa la Dificultad Normal",
+    "22_1": [
+        "Completaste el Modo Normal.",
+        "¡Felicitaciones! ¿No fue ya demasiado?"
+    ],
+    "23": "Difícil Completado",
+    "23_0": "Completa la Dificultad Difícil",
+    "23_1": [
+        "Completaste el Modo Difícil.",
+        "¡Felicidades!",
+        "Es difícil, pero... dudo que su existencia sea algo tan significativo."
+    ],
+    "24": "Lunático Completado",
+    "24_0": "Completa la Dificultad Lunática",
+    "24_1": [
+        "Completaste Modo Lunático.",
+        "¡Maravilloso!",
+        "¡Eres un tirador espléndido!"
+    ],
+    "25": "Fácil completado con un solo crédito",
+    "25_0": "Completa la Dificultad Fácil sin continuar",
+    "25_1": [
+        "Completaste el Modo Fácil sin continuar.",
+        "¡Bien hecho!",
+        "La próxima vez, desafiemos el Modo Normal."
+    ],
+    "26": "Normal completado con un solo crédito",
+    "26_0": "Completa la Dificultad Normal sin continuar",
+    "26_1": [
+        "Completaste Modo Normal sin contiuar.",
+        "¡Felicidades!",
+        "Creo que te has ganado suficientes derechos para fanfarronear."
+    ],
+    "27": "Difícil acabado con un solo credito",
+    "27_0": "Completa la Dificultad Difícil sin continuar",
+    "27_1": [
+        "Completaste Modo Difícil sin continuar.",
+        "¡Maravilloso!",
+        "No eres una persona normal, ¿verdad?"
+    ],
+    "28": "Lunático acabado con un solo crédito",
+    "28_0": "Completa la Dificultad Lunática sin continuar",
+    "28_1": [
+        "Completaste Modo Lunático sin continuar.",
+        "¡Nació una persona terrible!",
+        "¡Eres la bestia más fuerte!"
+    ],
     "29": "Completa Perfectamente",
+    "29_0": "Completa el juego sin fallar (Cualquier Dificultad)",
+    "29_1": [
+        "Completaste sin fallas (cualquier dificultad)",
+        "¡Increíble concentración y precisión!",
+        "¡Bien hecho!"
+    ],
+    "30": "Dios de la Destrucción en el Reino de las Bestias",
+    "30_0": "Completa el Modo Lunático sin fallar",
+    "30_1": [
+        "Completaste el Modo Lunático sin fallas.",
+        "¡¿En serio?!",
+        "Por casualidad no eres una IA, ¿verdad?"
+    ],
+    "31": "Destructor de Todas las Bestias",
+    "31_0": "Completa el Nivel Extra sin fallar",
+    "31_1": [
+        "Completaste Modo Extra sin fallas.",
+        "¡Increíble!",
+        "Podrías ser fácilmente un superior del Reino de las Bestias."
+    ],
     "32": "Coleccionista de Spell Cards",
+    "32_0": "Consigue todas las cartas de hechizo",
+    "32_1": [
+        "Todas las cartas de hechizo conseguidas",
+        "¡Perfecto! ",
+        "¿Qué carta de hechizo fue la más complicada?"
+    ],
     "33": "Jardín del Poder.",
     "33_0": [
         "Busca la Piedra Verdadera de la Naturaleza.",
@@ -218,91 +304,5 @@
         "Encontraste la Piedra Verdadera de la Muerte.",
         "Desafío: Haz un Nomiss Nobomb contra Kaithe.",
         "¿Practicaste aún más?"
-    ],
-    "28": "Lunático acabado con un solo crédito",
-    "28_0": "Completa la Dificultad Lunática sin continuar",
-    "27": "Difícil acabado con un solo credito",
-    "27_0": "Completa la Dificultad Difícil sin continuar",
-    "26": "Normal completado con un solo crédito",
-    "26_0": "Completa la Dificultad Normal sin continuar",
-    "25": "Fácil completado con un solo crédito",
-    "25_0": "Completa la Dificultad Fácil sin continuar",
-    "21": "Facil Completado",
-    "21_0": "Completa la Dificultad Fácil",
-    "22": "Normal Completado",
-    "22_0": "Completa la Dificultad Normal",
-    "23": "Difícil Completado",
-    "23_0": "Completa la Dificultad Difícil",
-    "24": "Lunático Completado",
-    "24_0": "Completa la Dificultad Lunática",
-    "20": "Completa el Nivel Extra con Yarumi (Naturaleza)",
-    "30": "Dios de la Destrucción en el Reino de las Bestias",
-    "31": "Destructor de Todas las Bestias",
-    "32_1": [
-        "Todas las cartas de hechizo conseguidas",
-        "¡Perfecto! ",
-        "¿Qué carta de hechizo fue la más complicada?"
-    ],
-    "32_0": "Consigue todas las cartas de hechizo",
-    "30_0": "Completa el Modo Lunático sin fallar",
-    "31_0": "Completa el Nivel Extra sin fallar",
-    "20_1": [
-        "Completaste el nivel Extra con Yarumi (Naturaleza)",
-        "",
-        "*Pulsa el botón OK para ver el dialogo"
-    ],
-    "20_0": "Completa el Nivel Extra con Yarumi (Naturaleza)",
-    "21_1": [
-        "Completaste el Modo Fácil.",
-        "Si no estás acostumbrado, aún puede ser difícil a pesar de ser fácil."
-    ],
-    "22_1": [
-        "Completaste el Modo Normal.",
-        "¡Felicitaciones! ¿No fue ya demasiado?"
-    ],
-    "23_1": [
-        "Completaste el Modo Difícil.",
-        "¡Felicidades!",
-        "Es difícil, pero... dudo que su existencia sea algo tan significativo."
-    ],
-    "24_1": [
-        "Completaste Modo Lunático.",
-        "¡Maravilloso!",
-        "¡Eres un tirador espléndido!"
-    ],
-    "25_1": [
-        "Completaste el Modo Fácil sin continuar.",
-        "¡Bien hecho!",
-        "La próxima vez, desafiemos el Modo Normal."
-    ],
-    "26_1": [
-        "Completaste Modo Normal sin contiuar.",
-        "¡Felicidades!",
-        "Creo que te has ganado suficientes derechos para fanfarronear."
-    ],
-    "27_1": [
-        "Completaste Modo Difícil sin continuar.",
-        "¡Maravilloso!",
-        "No eres una persona normal, ¿verdad?"
-    ],
-    "28_1": [
-        "Completaste Modo Lunático sin continuar.",
-        "¡Nació una persona terrible!",
-        "¡Eres la bestia más fuerte!"
-    ],
-    "29_1": [
-        "Completaste sin fallas (cualquier dificultad)",
-        "¡Increíble concentración y precisión!",
-        "¡Bien hecho!"
-    ],
-    "30_1": [
-        "Completaste el Modo Lunático sin fallas.",
-        "¡¿En serio?!",
-        "Por casualidad no eres una IA, ¿verdad?"
-    ],
-    "31_1": [
-        "Completaste Modo Extra sin fallas.",
-        "¡Increíble!",
-        "Podrías ser fácilmente un superior del Reino de las Bestias."
     ]
 }
