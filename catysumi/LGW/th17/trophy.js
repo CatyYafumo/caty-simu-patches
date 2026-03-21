@@ -146,83 +146,84 @@
         "",
         "*Pulsa el botón OK para ver el dialogo"
     ],
-    "21": "Facil Completado",
-    "21_0": "Completa la Dificultad Fácil",
+    "21": "Modo Corte Completado",
+    "21_0": "Completa el Modo Corte",
     "21_1": [
-        "Completaste el Modo Fácil.",
+        "Completaste el Modo Corte.",
         "Si no estás acostumbrado, aún puede ser difícil a pesar de ser fácil."
     ],
-    "22": "Normal Completado",
-    "22_0": "Completa la Dificultad Normal",
+    "22": "Modo Derrame Completado",
+    "22_0": "Completa el Modo Derrame",
     "22_1": [
-        "Completaste el Modo Normal.",
+        "Completaste el Modo Derrame.",
         "¡Felicitaciones! ¿No fue ya demasiado?"
     ],
-    "23": "Difícil Completado",
-    "23_0": "Completa la Dificultad Difícil",
+    "23": "Modo Hemorragia Completado",
+    "23_0": "Completa el Modo Hemorragia",
     "23_1": [
-        "Completaste el Modo Difícil.",
+        "Completaste el Modo Hemorragia.",
         "¡Felicidades!",
         "Es difícil, pero... dudo que su existencia sea algo tan significativo."
     ],
-    "24": "Lunático Completado",
-    "24_0": "Completa la Dificultad Lunática",
+    "24": "Modo Coma Completado",
+    "24_0": "Completa el Modo Coma",
     "24_1": [
-        "Completaste Modo Lunático.",
+        "Completaste el Modo Coma.",
         "¡Maravilloso!",
         "¡Eres un tirador espléndido!"
     ],
-    "25": "Fácil completado con un solo crédito",
-    "25_0": "Completa la Dificultad Fácil sin continuar",
+    "25": "Fácil Corte 1cc",
+    "25_0": "Completa el Modo Corte sin continuar",
     "25_1": [
-        "Completaste el Modo Fácil sin continuar.",
+        "Completaste el Modo Corte sin continuar.",
         "¡Bien hecho!",
         "La próxima vez, desafiemos el Modo Normal."
     ],
-    "26": "Normal completado con un solo crédito",
-    "26_0": "Completa la Dificultad Normal sin continuar",
+    "26": "Normal Derrame 1cc",
+    "26_0": "Completa el Modo Derrame sin continuar",
     "26_1": [
-        "Completaste Modo Normal sin contiuar.",
-        "¡Felicidades!",
-        "Creo que te has ganado suficientes derechos para fanfarronear."
+        "Completaste el Modo Derrame sin contiuar.",
+        "¿No tienes chamba que hacer?"
     ],
-    "27": "Difícil acabado con un solo credito",
+    "27": "Difícil Hemorragia 1cc",
     "27_0": "Completa la Dificultad Difícil sin continuar",
     "27_1": [
-        "Completaste Modo Difícil sin continuar.",
+        "Completaste el Modo Hemorragia sin continuar",
         "¡Maravilloso!",
         "No eres una persona normal, ¿verdad?"
     ],
-    "28": "Lunático acabado con un solo crédito",
-    "28_0": "Completa la Dificultad Lunática sin continuar",
+    "28": "Lunático Coma 1cc",
+    "28_0": "Completa el Modo Coma sin continuar",
     "28_1": [
-        "Completaste Modo Lunático sin continuar.",
-        "¡Nació una persona terrible!",
-        "¡Eres la bestia más fuerte!"
+        "Completaste Modo Coma sin continuar.",
+        "¡Asumare!"
     ],
-    "29": "Completa Perfectamente",
+    "29": "Poder Perfecto",
     "29_0": "Completa el juego sin fallar (Cualquier Dificultad)",
     "29_1": [
         "Completaste sin fallas (cualquier dificultad)",
-        "¡Increíble concentración y precisión!",
+        "Orale, mejor que yo.",
         "¡Bien hecho!"
     ],
-    "30": "Dios de la Destrucción en el Reino de las Bestias",
+    "30": "Dios de la Destrucción",
     "30_0": "Completa el Modo Lunático sin fallar",
     "30_1": [
-        "Completaste el Modo Lunático sin fallas.",
-        "¡¿En serio?!",
-        "Por casualidad no eres una IA, ¿verdad?"
+        "Eeee...",
+        "EEEEE...",
+        "¿Quién entrenó al Chat GPT?"
     ],
-    "31": "Destructor de Todas las Bestias",
+    "31": "Dios de la Realidad",
     "31_0": "Completa el Nivel Extra sin fallar",
     "31_1": [
-        "Completaste Modo Extra sin fallas.",
-        "¡Increíble!",
-        "Podrías ser fácilmente un superior del Reino de las Bestias."
+        "Completaste el Modo Extra sin fallas.",
+        "...",
+        "Shuuu ¿y eso que fue?"
     ],
-    "32": "Coleccionista de Spell Cards",
-    "32_0": "Consigue todas las cartas de hechizo",
+    "32": "Deidad de las Spell Cards",
+    "32_0": [
+        "Consigue todas las Spell Cards",
+        "Atrévete prro."
+    ],
     "32_1": [
         "Todas las cartas de hechizo conseguidas",
         "¡Perfecto! ",
