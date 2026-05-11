@@ -1,0 +1,207 @@
+{
+    "0": {
+        "12_0": {
+            "lines": [
+                "A vampire’s mansion standing closely by the lakeside."
+            ]
+        },
+        "0_0": {
+            "lines": [
+                "<ts$Ariya  $Reimu  $Sakuya  $Remilia  >The bottom of the Asama Impurity-Cleansing Mountain."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After a painful battle, Reimu Hakurei",
+                "defeated Ariya Iwanaga, the goddess of unchanging."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Ariya  >I'm glad I placed my bets on you after all."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "Now I can take some time off work without feeling guilty. I couldn't care less about the Lunar Capital anymore."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Reimu  >Hey-wait, is Gensokyo going back to normal?"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Ariya  >If I release my power, Gensokyo will return to its usual state."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "However..."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Ariya  >...a massive flood of impurity from the Outside World will flow in."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "How that affects things—that depends on you."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Reimu  >\"Depends on me\"? What’s that supposed to mean...?"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Ariya  >Why don't you witness Gensokyo's changes with your own eyes?"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "The Scarlet Devil Mansion."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Sakuya  >An incident? Did something truly happen?"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reimu  >You didn't notice?"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "It was like time itself had stopped."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "Right, milady?"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Sakuya  >It can't be, stopping time? There's no way something like that's even remotely possible."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Remilia  >Oh, Reimu. That stone you're holding..."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Reimu  >You made this thing, didn't you?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "I managed to solve the incident thanks to it."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Remilia  >Hm... I've never see that stone before."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Reimu  >Don't lie to me, it has the same aura as the Scarlet Mist Incident!"
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Remilia  >Speaking of, you were spouting some nonsense about an incident before... What was it?"
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Reimu  >Wha—you also didn't notice?"
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "It was like time completely stopped all over Gensokyo!"
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Remilia  >Time stopped? Ah, the culprit must've been Sakuya then."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Reimu  >If only it could've been that simple..."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<r$Sakuya  >\"Simple\", you say? Shall I demonstrate how \"simple\" I truly am?"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Reimu  >That's not what I mean, it wasn't just the enemy's strength.",
+                "<l$> This incident was just truly incomprehensible..."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<r$Remilia  >My interest is piqued... What kind of incident was it?"
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "Reimu told Remilia and the others of what had transpired."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "She was relieved in the face of familiarity."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "Just as Ariya said, there weren't any noticeable changes."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "It seems that the residents of the Scarlet Devil Mansion aren't involved this time after all."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "However, this Incident Stone obviously held the youkai aura of the Scarlet Devil Mansion."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "It is undeniable that it was thanks to this Incident Stone that the influence of the goddess of unchanging was staved off."
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "She felt that there was still something she didn't know about yet lurking in the shadows."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<c$Ending No. 01 — The Everyday Scarlet Devil Mansion$>"
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$Congratulations on your No Continue Clear!$>"
+            ]
+        }
+    }
+}

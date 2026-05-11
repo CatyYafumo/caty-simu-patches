@@ -15,5 +15,5 @@
     "th14 Dialog Always ask": "Preguntar Siempre",
     "th17 JP": "Touhou Tsuneriuketsu",
     "th17": "Touhou Endless Bloodshed ~ Legendary Gods War",
-    "th17 Trophy Get": "Logro desbloqueado."
+    "th17 Trophy Get": "Logro desbloqueado!"
 }

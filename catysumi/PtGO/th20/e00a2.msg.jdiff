@@ -1,0 +1,207 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Ariya  $Reimu  $Yuyuko  >The bottom of the Asama Impurity-Cleansing Mountain."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After a painful battle, Reimu Hakurei",
+                "defeated Ariya Iwanaga, the goddess of unchanging."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Ariya  >I'm glad I placed my bets on you after all."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "Now I can take some time off work without feeling guilty. I couldn't care less about the Lunar Capital anymore."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Reimu  >Hey-wait, is Gensokyo going back to normal?"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Ariya  >If I release my power, Gensokyo will return to its usual state."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "However..."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Ariya  >...a massive flood of impurity from the Outside World will flow in."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "How that affects things—that depends on you."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Reimu  >\"Depends on me\"? What’s that supposed to mean...?"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Ariya  >Why don't you witness Gensokyo's changes with your own eyes?"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "Hakugyokurou."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "The mansion where the princess of the Netherworld resided."
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$Congratulations on your No Continue Clear!$>"
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Yuyuko  >Hmmm, Gensokyo stopped you say?"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reimu  >It's not that it stopped, more like it wasn't moving."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Yuyuko  >I get it, I understand that feeling."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "It's pretty much like the Netherworld."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Reimu  >Huh?"
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Yuyuko  >You see, to die is to stop changing."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "To be unchanging, you could say is to last in a perpetual time."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Reimu  >Perpetual...oh"
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Yuyuko  >In other words, time is stopped."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "That's why time stands still in the the Netherworld."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Reimu  >That reminds me, she also said something about the power of perpetuity."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Yuyuko  >She? You mean that Ariya girl you were talking about?"
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Reimu  >Yeah, she caused the incident, but her motive was all over the place. I didn't really get it."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Yuyuko  >Her motive for bringing Gensokyo to a standstill?"
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "Well that's obvious, wouldn't it be more comfortable that way?",
+                "I bet that girl is a cynical one."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<r$Reimu  >Cynical?"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Yuyuko  >It means that she wants to die."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<r$Reimu  >I think that's probably wrong, but maybe, her goal with this incident was to turn all of Gensokyo into a world after death."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "<r$Reimu  >You're already dead!"
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<r$Yuyuko  >Ah, if that were to happen my work as an administrator would pile up so much I'd die. That's way too black."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "Judging from Ariya's demeanor, it doesn't feel like Gensokyo's death was her goal with the incident."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "But, if Yuyuko is correct, then to refuse change is to die."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Would the goddess of unchanging remain a god of death, no matter what she does?"
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "If so, then there is some sense in sealing her in the depths of the pyramid."
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "For some reason, a little sadness came over Reimu, and she decided to visit Ariya again sometime."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<c$Ending　No.03 Already Dead$>"
+            ]
+        }
+    }
+}

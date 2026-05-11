@@ -1,0 +1,212 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Ariya  $Reimu  $Zanmu  >The bottom of the Asama Impurity-Cleansing Mountain."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After a painful battle, Reimu Hakurei",
+                "defeated Ariya Iwanaga, the goddess of unchanging."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Ariya  >I'm glad I placed my bets on you after all."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "Now I can take some time off work without feeling guilty. I couldn't care less about the Lunar Capital anymore."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Reimu  >Hey-wait, is Gensokyo going back to normal?"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Ariya  >If I release my power, Gensokyo will return to its usual state."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "However..."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Ariya  >...a massive flood of impurity from the Outside World will flow in."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "How that affects things—that depends on you."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Reimu  >\"Depends on me\"? What’s that supposed to mean...?"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Ariya  >Why don't you witness Gensokyo's changes with your own eyes?"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "The pyramid of the Sanctuaries."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "It seems to be a facility of the Lunar Capital called the Asama Impurity-Cleansing Mountain."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "In reality, it was a shrine dedicated to the goddess of unchanging."
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$Congratulations on your No Continue Clear!$>"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Zanmu  >Ah, you're here as well.",
+                "<l$> This pyramid is a magnificent sight don't you think?"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Reimu  >Huh!? Zanmu? What are you doing here?"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Zanmu  >I got worried, so I came."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "I feared that my Gensokyo might cease had it been left alone."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Reimu  >Seriously? My Gensokyo?"
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Zanmu  >Well, you’ve certainly came up with something remarkable…"
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Reimu  >Oh, this Incident Stone...."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "I don't know how it got here, but it was very useful."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Zanmu  >No need to be so humble. You made that didn't you?"
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Reimu  >Not really, I have no idea on it's creator."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Zanmu  >I see....In any case, there is no doubt you were the one who overcame the incident."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Pulling a stunt like crystalizing my power over nothingness."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Zanmu  >This pyramid, you see, has stood long before I was born."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "There were even murmurs of it being a spaceship."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<r$Reimu  >Not exactly a spaceship....but they're similar, in a sense."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Zanmu  >However, I had learned the story of the tragic princess sealed within here."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "Observing Gensokyo's incident reminded me of that."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<r$Reimu  >I see, and that brought you here..."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "Zanmu's words were comforting, there was charm to them."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "It seems the princess of the pyramid was treated horribly for her appearance."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "While her power to create a perpetual world allowed her live, she did not have freedom."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "They say this stalwart pyramid is where she had buried her heart."
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "Though in reality, she was neither ugly nor was had she closed her heart. Perhaps this was just another one of Zanmu's tales."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Then, by the time an incident only her powers could stop occurred, she had already closed her heart."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Reimu thought the next time she entered the pyramid, she should take the princess out to meet everyone."
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "<c$ Beware Of Clever Speakers $>"
+            ]
+        }
+    }
+}
