@@ -55,7 +55,8 @@
         },
         "20_0": {
             "lines": [
-                "¡A donde he ido! ¡Ella me va a regañar!"
+                "¡A donde he ido! ugh.",
+                "¡Esto no les gustará nada!"
             ]
         },
         "124_0": {
@@ -75,7 +76,7 @@
         },
         "168_0": {
             "lines": [
-                "Espera que..."
+                "Espera... Que..."
             ]
         }
     },
@@ -132,7 +133,7 @@
         },
         "28_0": {
             "lines": [
-                "ya no importa... Tengo que cumplir mi deber."
+                "Ya no importa... Tengo que cumplir mi deber."
             ]
         },
         "132_0": {
@@ -204,12 +205,12 @@
         },
         "4_0": {
             "lines": [
-                "¡Ah! ¡No estaba soñando!"
+                "¡Ah! ¡Con que no estaba soñando!"
             ]
         },
         "12_0": {
             "lines": [
-                "¿Esa chica tiene algo que ver en esto?"
+                "¿Esa chica tiene algo que ver con esto?"
             ]
         },
         "20_0": {
@@ -244,7 +245,8 @@
         },
         "184_0": {
             "lines": [
-                "Soy la Diosa del Clima de... De..."
+                "Soy la Diosa del Clima de... De...",
+                "(Agh, mejor no mencionar eso...)"
             ]
         },
         "192_0": {
@@ -280,7 +282,7 @@
         },
         "240_0": {
             "lines": [
-                "¡No! ¡Yo no-!"
+                "¿Qué? ¡Yo no-!"
             ]
         },
         "248_0": {
@@ -328,7 +330,7 @@
         },
         "90_0": {
             "lines": [
-                "Estoy en otro lugar, alguien me pregunta si es mi mundo",
+                "Estoy en otro lugar, alguien me pregunta si es mi mundo.",
                 "vuelvo... ¡Ey!"
             ]
         },
@@ -443,7 +445,7 @@
         },
         "140_0": {
             "lines": [
-                "Y donde estoy ahora..."
+                "Y este lugar es..."
             ]
         },
         "148_0": {
@@ -463,7 +465,7 @@
         },
         "172_0": {
             "lines": [
-                "¡Ahora es oportunidad para dominar!"
+                "¡Te has condenado desde el primer segundo de este encuentro!"
             ]
         },
         "180_0": {
@@ -500,7 +502,7 @@
         },
         "50_0": {
             "lines": [
-                "¿¡No estoy siendo tan fuerte!?"
+                "Hay algo que no me cuadra. ¿No estoy siendo tan fuerte?"
             ]
         },
         "58_0": {
@@ -515,7 +517,7 @@
         },
         "74_0": {
             "lines": [
-                "¿Qué? Juraba que..."
+                "¿Eh? Estás engañandome, sé que..."
             ]
         },
         "82_0": {
@@ -565,7 +567,7 @@
         },
         "12_0": {
             "lines": [
-                "Este lugar es tan sereno..."
+                "Este lugar es tan sereno, tanto que me da mala espina..."
             ]
         },
         "116_0": {
@@ -585,7 +587,7 @@
         },
         "160_0": {
             "lines": [
-                "¡No te lo diré hasta que mostrás quién eres!"
+                "¡No te lo diré hasta que muestres quién eres!"
             ]
         },
         "168_0": {
@@ -595,7 +597,7 @@
         },
         "176_0": {
             "lines": [
-                "¡¿Quién sos?!"
+                "¡¿Quién eres?!"
             ]
         },
         "184_0": {
@@ -632,7 +634,7 @@
         },
         "58_0": {
             "lines": [
-                "No soy como tus amigas."
+                "No soy como tus amigos."
             ]
         },
         "66_0": {
@@ -642,12 +644,12 @@
         },
         "74_0": {
             "lines": [
-                "... ¿Tenes que ver con este desastre?"
+                "... ¿Qué tenés que ver con este desastre?"
             ]
         },
         "82_0": {
             "lines": [
-                "¿uh? No."
+                "¿Eh? No."
             ]
         },
         "90_0": {
@@ -662,7 +664,8 @@
         },
         "106_0": {
             "lines": [
-                "¡¿Cómo vuelvo?!"
+                "¡¿Cómo vuelvo?!",
+                "Seré vulnerable a cualquier amenaza."
             ]
         },
         "114_0": {
@@ -686,7 +689,7 @@
         },
         "12_0": {
             "lines": [
-                "L-legué al mundo oscuro?"
+                "L-llegué al mundo oscuro?"
             ]
         },
         "116_0": {
@@ -716,7 +719,7 @@
         },
         "176_0": {
             "lines": [
-                "Aún no se que es lo que sucede."
+                "Aún no se que es lo que sucede..."
             ]
         },
         "184_0": {
@@ -776,7 +779,7 @@
         },
         "272_0": {
             "lines": [
-                "No."
+                "¡No!"
             ]
         },
         "280_0": {
@@ -791,7 +794,8 @@
         },
         "296_0": {
             "lines": [
-                "Pero..."
+                "¿Desde cuándo no me hacés caso?",
+                "¡Está claro que no es seguro-...!"
             ]
         },
         "304_0": {
@@ -801,22 +805,23 @@
         },
         "312_0": {
             "lines": [
-                "Bien... Dejame ver que tienes..."
+                "O acaso te crees capaz..."
             ]
         },
         "320_0": {
             "lines": [
-                "No creo que sea tan seguro..."
+                "..."
             ]
         },
         "328_0": {
             "lines": [
-                "Pero... esta bien..."
+                "Bien, si es la única forma de hacerte cambiar de opinión...",
+                "Está bien, acepto..."
             ]
         },
         "336_0": {
             "lines": [
-                "Si tienes un avance prometedor..."
+                "Okay. Si tienes un avance prometedor..."
             ]
         },
         "344_0": {

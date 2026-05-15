@@ -112,7 +112,7 @@
         },
         "108_0": {
             "lines": [
-                "¿QUE? ¿¡TU!?"
+                "¿QUÉ? ¿¡TÚ!?"
             ]
         },
         "136_0": {
@@ -122,7 +122,7 @@
         },
         "144_0": {
             "lines": [
-                "¡Ahora si veras!"
+                "¡Ahora si verás!"
             ]
         },
         "152_0": {
@@ -184,7 +184,7 @@
     "9": {
         "4_0": {
             "lines": [
-                "Mi ojos comienzan a lastimarme..."
+                "Mis ojos comienzan a lastimarme..."
             ]
         },
         "108_0": {
@@ -236,12 +236,12 @@
         },
         "58_0": {
             "lines": [
-                "No se que tienes que ver con ese dios Mime."
+                "No sé que tienes que ver con ese dios Mime."
             ]
         },
         "66_0": {
             "lines": [
-                "Pero supongo que si."
+                "Pero supongo que sí."
             ]
         },
         "74_0": {
@@ -286,7 +286,7 @@
         },
         "152_0": {
             "lines": [
-                "hm... Si, lo admito."
+                "hm... Sí, lo admito."
             ]
         },
         "160_0": {
@@ -318,7 +318,7 @@
         },
         "50_0": {
             "lines": [
-                "¿Y que esperas?"
+                "¿Y qué esperas?"
             ]
         },
         "58_0": {
@@ -402,7 +402,7 @@
         },
         "192_0": {
             "lines": [
-                "Si, el incidente está por terminar."
+                "Sí, el incidente está por terminar."
             ]
         },
         "200_0": {
@@ -445,7 +445,7 @@
         "82_0": {
             "lines": [
                 "Si nos podemos ver denuevo.",
-                "Hablemos de nuestras sospechas sobre Mime."
+                "Hablemos de nuestras sospechas sobre Mimé."
             ]
         },
         "90_0": {
@@ -495,6 +495,11 @@
         "168_0": {
             "lines": [
                 "Que lento."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¡El incidente debe terminar!"
             ]
         },
         "184_0": {
@@ -547,11 +552,6 @@
                 "Sé que lees mi mente. Debíste hacerlo con él."
             ]
         },
-        "176_0": {
-            "lines": [
-                "¡El incidente debe terminar!"
-            ]
-        },
         "264_0": {
             "lines": [
                 "Pero basta de charla."
@@ -592,14 +592,14 @@
                 "Ahora si parece que estés leyendo mi mente."
             ]
         },
-        "336_0": {
-            "lines": [
-                "Pero ya basta de aflicciones. Quiero esto como estaba."
-            ]
-        },
         "328_0": {
             "lines": [
                 "Quizás esto siempre fue un juego."
+            ]
+        },
+        "336_0": {
+            "lines": [
+                "Pero ya basta de aflicciones. Quiero esto como estaba."
             ]
         },
         "344_0": {
@@ -612,7 +612,7 @@
         "34_0": {
             "lines": [
                 "Después de todo solo querías lo mismo que yo",
-                "¿No? Solo fue el miedo y falta de amor."
+                "¿No? Solo fue el miedo."
             ]
         }
     }

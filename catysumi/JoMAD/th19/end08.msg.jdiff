@@ -17,7 +17,8 @@
         },
         "3_0": {
             "lines": [
-                "<r$Yafumo  >\"Y aún así volviste por él...\""
+                "<r$Yafumo  >\"Y aún así volviste por él...",
+                "Creo que esto funcionó muy bien como prueba, aunque no se me ocurrió antes\""
             ]
         },
         "4_0": {
@@ -32,7 +33,7 @@
         },
         "6_0": {
             "lines": [
-                "<r$Yafumo  >Mira, podemos estar con él siempre y cuando nadie más nos vea."
+                "Mira, podemos estar con él siempre y cuando nadie más nos vea."
             ]
         },
         "7_0": {
@@ -47,7 +48,7 @@
         },
         "9_0": {
             "lines": [
-                "<r$Yafumo  >\"Le hice una promesa, jejej."
+                "<r$Yafumo  >\"Las promesas se deben cumplir."
             ]
         },
         "10_0": {
@@ -62,13 +63,13 @@
         },
         "12_0": {
             "lines": [
-                "<r$Yafumo  >\"Yup. Como te dije, nos volveríamos a ver, también estaré contigo."
+                "<r$Yafumo  >\"Yep. Como te dije, nos volveríamos a ver, yo tampoco te dejaré."
             ]
         },
         "13_0": {
             "lines": [
-                "En esta aventura he notado como entre confines del universo también",
-                "<l$> hay un sinfín de personas puras que sufren.\""
+                "En esta aventura he notado como entre confines del universo",
+                "hay un sinfín de personas puras que sufren.\""
             ]
         },
         "14_0": {
@@ -88,8 +89,8 @@
         },
         "17_0": {
             "lines": [
-                "Y puedes sentirte tranquilo, seguro, de que nosotros estaremos contigo.",
-                "<l$>A desvanecer la desgracia y comprender lo que enfrentas ahora.\""
+                "Y puedes sentirte tranquilo, seguro, de que nosotros estaremos contigo",
+                "para desvanecer la desgracia y comprender lo que enfrentas ahora.\""
             ]
         },
         "18_0": {
@@ -112,6 +113,11 @@
                 "Crono esperaba impacientemente de que Caty participara."
             ]
         },
+        "22_0": {
+            "lines": [
+                "Solo que tuvo que esperar, de que ella eligiera entre lo bueno y lo necesario."
+            ]
+        },
         "23_0": {
             "lines": [
                 "Aún con esa problemática, finalmente se dieron las espectativas."
@@ -122,19 +128,19 @@
                 "Y no se daría el peligro de causar otro incidente."
             ]
         },
-        "27_0": {
+        "25_0": {
             "lines": [
-                "Y nadie más sabría ni sabe de ello..."
-            ]
-        },
-        "22_0": {
-            "lines": [
-                "Solo que tuvo que esperar, de que ella eligiera entre lo bueno y lo necesario."
+                "Porfín, Crono podría efectivamente ayudar su nuevo amigo."
             ]
         },
         "26_0": {
             "lines": [
                 "Él confiaba en la experiencia de Caty para lograrlo."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "Y nadie más sabría ni sabe de ello..."
             ]
         },
         "28_0": {
@@ -156,11 +162,6 @@
             "lines": [
                 "CONGRATULATIONS!",
                 "Estas a poco de comprender todo..."
-            ]
-        },
-        "25_0": {
-            "lines": [
-                "Porfín, Crono podría efectivamente ayudar su nuevo amigo."
             ]
         }
     }

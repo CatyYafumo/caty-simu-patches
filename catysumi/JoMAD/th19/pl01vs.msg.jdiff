@@ -46,7 +46,7 @@
         "34_0": {
             "lines": [
                 "No entiendo... ¿Entonces vengo de un futuro lejano?",
-                "Estuve en Pharloom antes de que todo esto pasara"
+                "Estuve en Pharloom antes de que todo esto pasara."
             ]
         }
     },
@@ -196,7 +196,8 @@
     "24": {
         "34_0": {
             "lines": [
-                "Hace tiempo no veía flores la verdad."
+                "La última vez que vi una flor,",
+                "se destruyó mientras viajaba por el vacío."
             ]
         }
     },

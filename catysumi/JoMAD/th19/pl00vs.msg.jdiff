@@ -73,7 +73,8 @@
     "10": {
         "34_0": {
             "lines": [
-                "¿Cómo te ha ido en tu \"temporal vida nueva\"?"
+                "Siento envídia por la habilidad de Caty.",
+                "Puede saber hasta la historia de una piedra, de tu especie también."
             ]
         }
     },
@@ -106,7 +107,8 @@
     "14": {
         "34_0": {
             "lines": [
-                "No pasa nada. Gracias a Caty me siento más tranquilo."
+                "No pasa nada. Gracias a Caty y los demás",
+                "me siento más tranquilo."
             ]
         }
     },
@@ -165,7 +167,7 @@
         },
         "42_0": {
             "lines": [
-                "Me refiero al nivel de poder claro..."
+                "Me refiero al nivel de poder, claro..."
             ]
         }
     },

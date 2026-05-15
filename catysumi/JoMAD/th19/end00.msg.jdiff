@@ -25,9 +25,9 @@
                 "De diferentes maneras cada uno..."
             ]
         },
-        "28_0": {
+        "5_0": {
             "lines": [
-                "Final de Sumiyoshi:  Aquello que persiste"
+                "<r$Sumiyoshi  >\"Ahg... Esto traspasó mis límites..."
             ]
         },
         "6_0": {
@@ -35,25 +35,14 @@
                 "todo fue tan complicado y estresante."
             ]
         },
-        "29_0": {
-            "lines": [
-                "CONGRATULATIONS!",
-                "Completa más historias para comprender esta."
-            ]
-        },
-        "5_0": {
-            "lines": [
-                "<r$Sumiyoshi  >\"Esto ya fue suficiente para mí..."
-            ]
-        },
         "7_0": {
             "lines": [
-                "empiezo a notar... Que en el fondo termine muy confundido.\""
+                "Empiezo a notar... Que en el fondo termine muy confundido.\""
             ]
         },
         "8_0": {
             "lines": [
-                "<r$Yafumo  >\"Por supuesto que no fue una experiencia grata para muchos."
+                "<r$Yafumo  >\"Por supuesto que para muchos no fue una experiencia grata."
             ]
         },
         "9_0": {
@@ -63,7 +52,7 @@
         },
         "10_0": {
             "lines": [
-                "Y desde ahora lo que queda por resolver es la sombra de aquellos momentos de tensión\""
+                "Y desde ahora lo que queda por resolver es la sombra de aquellos momentos de tensión.\""
             ]
         },
         "11_0": {
@@ -78,7 +67,7 @@
         },
         "13_0": {
             "lines": [
-                "Ahora comienzo a preguntarme que puede pasar en un futuro"
+                "Si esto fue increíble, ¿Qué podría pasar en el futuro?"
             ]
         },
         "14_0": {
@@ -98,7 +87,12 @@
         },
         "17_0": {
             "lines": [
-                "Lo más fuerte es afrontar el dilema que crea nuestra propia mente."
+                "Lo más tedioso es afrontar el dilema que crea nuestra propia mente."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "Y si algo más pasa, nos reuniremos otra vez."
             ]
         },
         "19_0": {
@@ -108,22 +102,7 @@
         },
         "20_0": {
             "lines": [
-                "<$Sumiyoshi  >\"Con esto, espero que nada más por un largo tiempo."
-            ]
-        },
-        "22_0": {
-            "lines": [
-                "Sumiyoshi contenía la carga emocional que le trajo el incidente."
-            ]
-        },
-        "24_0": {
-            "lines": [
-                "Sintió como el desastre era un golpe tras otro."
-            ]
-        },
-        "18_0": {
-            "lines": [
-                "Y si algo más pasa, nos reuniremos otra vez."
+                "<$Sumiyoshi  >\"Con esto, espero que nada más, por un largo tiempo."
             ]
         },
         "21_0": {
@@ -131,9 +110,19 @@
                 "Definitivamente ya tuve mucho con esto.\""
             ]
         },
+        "22_0": {
+            "lines": [
+                "Sumiyoshi contenía la carga emocional que le trajo el incidente."
+            ]
+        },
         "23_0": {
             "lines": [
                 "Uno de los cuantos rastros de este."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "Sintió como el desastre era un golpe tras otro."
             ]
         },
         "25_0": {
@@ -149,6 +138,17 @@
         "27_0": {
             "lines": [
                 "Simplemente, un desastre digno de conmemorar en el futuro..."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Final de Sumiyoshi:  Aquello que persiste"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "CONGRATULATIONS!",
+                "Completa más historias para comprender esta."
             ]
         }
     }

@@ -1,0 +1,132 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Yarumi  $???  >En un lugar... O bien, en un tiempo diferente..."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "El cual nadie conoce, pero que vendrá..."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "La princesa de fuego retorna."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Yarumi  >\"Mamá... Perdoname..."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Sé que no debí de entrometerme en sus asuntos como lo acabo de hacer.",
+                "<l$> ¡Estoy consciente de ello!"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> No pude resistirme en hacer lo tuyo con mis propias manos...",
+                "<l$> Pero aceptaré las consecuencias..."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> Al fin y al cabo es para mejor...\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$???  >\"Mi querida...\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> Lo has hecho bien todo este tiempo."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$> Los salvaste de un destino que ellos no podían ver."
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> Lograste restaurar el orden habitual de las cosas después de todo."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> No olvides que también es eso por lo que estás allá."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> Y aunque te prohibiera volver... Todavía tienes una misión.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Yarumi  >\"O- ¿otra misión...?"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<l$> ¿de veras?\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$???  >\"Exactamente."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> Aun te sigue siendo útil para aprender."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<l$> Y me parece que esos jovencitos sí necesitan algo de ayuda.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Yarumi  >\"¡Bien! ¡No te fallaré!\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "Yarumi aceptaba las consecuencias de su intromisión."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Ella esperaba recibir los regaños."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "Pero el resultado fue totalmente diferente."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "Y eso fue, porque quedaba una tarea más para ella..."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<c$Final de Yarumi: Solo un Interludio$>"
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<c$¡Felicitaciones!$>",
+                "<c$Terminado sin Continues! ¡Sabia que podías!$>"
+            ]
+        }
+    }
+}

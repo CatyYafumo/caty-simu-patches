@@ -1,0 +1,161 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Flex  $Kaiser  $Ethany  >El valle de la aldea."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Un lugar tan sereno y vivo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Este era el punto de encuentro para el Dios de la naturaleza y sus amigos."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Kaiser  >\"Aahg."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Aunque ya todo está mejor, sigo con esos deseos..."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> ¡De pelear enormes batallas y ayudar al resto!"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> Pero claro, es mejor así."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> Ahora no quiero ni pensar en lo que podría haber pasado.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Ethany  >\"Oye, pero creo si podríamos hacer algo."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$> Cosas pequeñas... Pero es algo. ¿No?"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> A lo que me refiero es que he visto situaciones en que",
+                "<l$> los habitantes se ven afectados por las batallas."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> Y podríamos ayudar así, sin necesidad de este poder."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> Un poco de trabajo caritativo, en resumen.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Kaiser  >\"Ey, es una buena idea.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Flex  >\"Escuchen."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<l$> Ya no quiero que se metan más en esto."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> Y de ninguna forma posible."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<l$> Esto fue demasiado para ellos.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Kaiser  >\"Ey, eso dolió.\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Ethany  >\"¿Un poco de autocríca tal vez?\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Flex  >\"Okay okay...-"
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<l$> Sé que yo los conduje a esto..."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$> Pero me están malinterpretando."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<l$>Además ustedes me insistieron."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$> ...Ay olvídenlo, solo quiero descansar.\""
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Flex se sintió agobiado."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "Aunque culpaba a otros, sabía que él tenía la responsabilidad."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "En este tipo de casos, cada parte tiene cierto grado de responsabilidad."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Pero este Dios por ahora solo desea perdonar y olvidar..."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<c$Final de Kaiser: Perdonar y Olvidar$>"
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<c$¡Felicitaciones!$>",
+                "<c$Terminado sin Continues! ¡Sabia que podías!$>"
+            ]
+        }
+    }
+}

@@ -17,57 +17,59 @@
         },
         "3_0": {
             "lines": [
-                "<r$Sarah  >\"¡Uuuuhghgh!"
+                "<r$Sarah  >\"¡Uuuuhghgh! ¿Por qué nada funciona?"
             ]
         },
         "4_0": {
             "lines": [
-                "¿Por qué nada funciona?"
+                "¡Siempre hay algo que destruye mis planes!"
             ]
         },
         "5_0": {
             "lines": [
-                "¡Siempre hay algo que destruye mis planes!"
+                "¿¡Qué está mal!? ¿A qué me debo anticipar?\""
             ]
         },
         "6_0": {
             "lines": [
-                "¿¡Qué está mal!?"
+                "<r$Shire  >\"...\""
             ]
         },
         "7_0": {
             "lines": [
-                "¿A qué me debo anticipar?\""
+                "<r$Sarah  >\"No entiendo..."
             ]
         },
         "8_0": {
             "lines": [
-                "<r$Shire  >\"...\""
+                "Nunca creí que esa desgraciada tuviera aliados."
             ]
         },
         "9_0": {
             "lines": [
-                "<r$Sarah  >\"No entiendo..."
+                "pero con esto resuelto ya no estarán ¿o sí?",
+                "¿Qué hago...?\""
             ]
         },
         "10_0": {
             "lines": [
-                "\"Nunca creí que esa desgraciada tuviera aliados."
+                "<r$Shire  >\"...Caty. Sé que esto es crítico para todos."
             ]
         },
         "11_0": {
             "lines": [
-                "pero con esto resuelto ya no estarán ¿o sí?"
+                "Pero no intentes cargar con todo tú sola.",
+                "Recuerda: Somos un equipo."
             ]
         },
         "12_0": {
             "lines": [
-                "¿Qué hago...?\""
+                "Estamos en esto juntos. Todos.\""
             ]
         },
         "13_0": {
             "lines": [
-                "Ella estaba desesperada."
+                "Sarah estaba desesperada."
             ]
         },
         "14_0": {
@@ -77,17 +79,17 @@
         },
         "15_0": {
             "lines": [
-                "Shire temía alguna reacción al interrumpirla."
+                "Shire se armó de valor para hablarle."
             ]
         },
         "16_0": {
             "lines": [
-                "Por ende, solo le prestaba atención."
+                "A pesar de que la evitaba, sabía que debía de reconstruir el grupo."
             ]
         },
         "17_0": {
             "lines": [
-                "Su enemiga, que siempre trabajaba sola..."
+                "Mietras tanto: Su enemiga, que siempre trabajaba sola..."
             ]
         },
         "18_0": {
@@ -102,7 +104,7 @@
         },
         "20_0": {
             "lines": [
-                "Final de Caty y Shire (part 2):  Para un Final Definitivo"
+                "Final de Sarah y Shire (part 2):  Para un Final Definitivo"
             ]
         },
         "21_0": {

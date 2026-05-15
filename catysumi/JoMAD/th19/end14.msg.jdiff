@@ -1,35 +1,5 @@
 {
     "0": {
-        "21_0": {
-            "lines": [
-                "Yumemi perdió sus ganas de obtener magia."
-            ]
-        },
-        "22_0": {
-            "lines": [
-                "Aún cuando las oportunidades estuvieron presentes."
-            ]
-        },
-        "23_0": {
-            "lines": [
-                "Algo entre el desastre la hizo reflexionar."
-            ]
-        },
-        "24_0": {
-            "lines": [
-                "En el camino..."
-            ]
-        },
-        "25_0": {
-            "lines": [
-                "Quizás dedujo un impacto, una consecuencia."
-            ]
-        },
-        "26_0": {
-            "lines": [
-                "Y con ello su satisfacción fue la actualidad."
-            ]
-        },
         "0_0": {
             "lines": [
                 "<ts$Chiyuri  $Yumemi  >Todo habría acabado..."
@@ -67,7 +37,7 @@
         },
         "7_0": {
             "lines": [
-                "Y por cierto...\""
+                "Y por cierto..."
             ]
         },
         "8_0": {
@@ -77,7 +47,7 @@
         },
         "9_0": {
             "lines": [
-                "<r$Chiyuri  >\"¿Qué? ¿Qué cosas dices?\""
+                "<r$Chiyuri  >\"¿Qué? ¿Qué cosas dice?\""
             ]
         },
         "10_0": {
@@ -133,6 +103,36 @@
         "20_0": {
             "lines": [
                 "Después del incidente..."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "Yumemi perdió sus ganas de obtener magia."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "Aún cuando las oportunidades estuvieron presentes."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "Algo entre el desastre la hizo reflexionar."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "En el camino..."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Quizás dedujo un impacto, una consecuencia."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "Y con ello su satisfacción fue la actualidad."
             ]
         },
         "28_0": {

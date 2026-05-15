@@ -1,0 +1,117 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Ethany  $Luna  >En un lugar del Valle de Lobrin..."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Después de un gran viaje cancelado."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Una reflexión había que tener:"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Ethany  >\"Dijeron que no serían capaces de quitarme este poder."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Aun así... No sé que hacer con él."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> Ya pensaba que todo sería absolutamente igual que antes."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> Hubiera sido mejor así..."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> Pues... Solo me queda aceptarlo...\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$???  >\"Ey... Con que al final renunciaste.",
+                "<l$> Qué lástima, esperaba tanto de ustedes.~\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Ethany  >\"¡Ah! Tu eres... ¡Tu eras esa Diosa de la Creación!",
+                "<l$> Pero... Estas transformada...\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$???  >\"Ya lo sé, me veo cool así ¿no?"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Luna  > Soy Luna, por cierto.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Ethany:  >\"Bueno y... ¿Qué es lo que quiere?\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Luna  >\"Creí que serías una buena forma de matar el aburrimiento.",
+                "<l$> Qué potencial tan desperdiciado.~"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<l$> Ni siquiera los seres oscuros lo hacen como tú.",
+                "<l$> Pero podría hacer algo al respecto...\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Ethany  >\"A- ¿A qué se refiere?\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Luna  >\"Si sigues queriendo ser alguien de alto calibre...",
+                "<l$> Acuérdate de mí... ¿Sí?\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "Las intensiones de la Diosa Luna eran tan misteriosas",
+                "como su actitud juguetona y despreocupada."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "Parece que ella intentaba conseguir un nuevo juguete...",
+                "Como crear a alguien formidable."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<c$Final de Ethany: — Creación del Destino$>"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<c$¡Felicitaciones!$>",
+                "<c$Terminado sin Continues! ¡Sabia que podías!$>"
+            ]
+        }
+    }
+}

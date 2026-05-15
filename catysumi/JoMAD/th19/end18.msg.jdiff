@@ -152,13 +152,13 @@
         },
         "30_0": {
             "lines": [
-                "Final de Catyon:  El Misterioso Faro del Cambio"
+                "<c$Final de Catyon:  El Misterioso Faro del Cambio$>"
             ]
         },
         "31_0": {
             "lines": [
-                "CONGRATULATIONS!",
-                "Y colorín colorado, desinstala el juego (OK NO)"
+                "<c$THE END$>",
+                "<c$Y colorín colorado, desinstala el juego (OK NO)$>"
             ]
         }
     }

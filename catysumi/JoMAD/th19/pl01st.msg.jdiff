@@ -117,7 +117,7 @@
         },
         "4_0": {
             "lines": [
-                "¿Uh? ¿ah?"
+                "¿Uhg..?"
             ]
         },
         "12_0": {
@@ -222,7 +222,7 @@
         },
         "20_0": {
             "lines": [
-                "¿A quién le pido alguna respuesta sin que me ataque?"
+                "¿Cómo podré pedir una respuesta?"
             ]
         },
         "124_0": {
@@ -238,12 +238,12 @@
         },
         "160_0": {
             "lines": [
-                "No, se equivoca."
+                "No, se equivoca madam."
             ]
         },
         "168_0": {
             "lines": [
-                "Uh... No soy la única entonces..."
+                "Hm... No soy la única entonces..."
             ]
         },
         "176_0": {
@@ -268,8 +268,8 @@
     "7": {
         "34_0": {
             "lines": [
-                "Hahah gracias por ese entrenamiento",
-                "pero como no tienes idea iré por mi lado."
+                "Bueno gracias por ese entrenamiento",
+                "pero como no tiene idea iré por mi lado."
             ]
         },
         "42_0": {
@@ -333,7 +333,7 @@
         },
         "168_0": {
             "lines": [
-                "Ey tú."
+                "Ey usted."
             ]
         },
         "176_0": {
@@ -360,17 +360,17 @@
         },
         "208_0": {
             "lines": [
-                "¿Uh? ¿Tu maestro?"
+                "¿Eh? ¿Su maestro?"
             ]
         },
         "216_0": {
             "lines": [
-                "Uh... Terrible. Es por eso todo esto..."
+                "Que terrible. Es por eso todo esto..."
             ]
         },
         "224_0": {
             "lines": [
-                "¿Y como espera usted resolverlo ?"
+                "¿Y como espera usted resolverlo señor?"
             ]
         },
         "232_0": {
@@ -380,12 +380,12 @@
         },
         "240_0": {
             "lines": [
-                "Ahg ¡De todos modos hay que resolver esto!"
+                "Olvídelo. ¡De todos modos hay que resolver esto!"
             ]
         },
         "248_0": {
             "lines": [
-                "¡Es más caótico de lo que pensé!"
+                "Es más caótico de lo que pensé..."
             ]
         },
         "256_0": {
@@ -419,7 +419,7 @@
     "10": {
         "34_0": {
             "lines": [
-                "Oh valla eres fuerte."
+                "Vaya, usted es muy fuerte."
             ]
         },
         "42_0": {
@@ -434,7 +434,7 @@
         },
         "58_0": {
             "lines": [
-                "Haré mi parte."
+                "Confíe en que haré mi parte."
             ]
         },
         "66_0": {
@@ -444,14 +444,14 @@
         },
         "74_0": {
             "lines": [
-                "Solo dime a quién buscar."
+                "Solo digame a quién buscar."
             ]
         }
     },
     "11": {
         "34_0": {
             "lines": [
-                "Uh... No me había dado cuenta lo fuerte que eres..."
+                "Uh... No me había dado cuenta lo fuerte que es..."
             ]
         }
     },
@@ -480,13 +480,13 @@
         },
         "4_0": {
             "lines": [
-                "Ciertamente..."
+                "Debo admitirlo..."
             ]
         },
         "12_0": {
             "lines": [
-                "Desde que aprendi danmaku con Eirin ha sido muy",
-                "estimulante pelear..."
+                "Ese día con Eirin, cambió mi manera de pelear.",
+                "Ha sido muy estimulante..."
             ]
         },
         "20_0": {
@@ -507,7 +507,7 @@
         },
         "160_0": {
             "lines": [
-                "He, por el incidente de las dimensiones."
+                "Es por nada más que incidente de las dimensiones."
             ]
         },
         "168_0": {
@@ -522,13 +522,13 @@
         },
         "184_0": {
             "lines": [
-                "No soy un enemigo."
+                "Si fuera un enemigo, ya habría comenzado a disparar."
             ]
         },
         "192_0": {
             "lines": [
                 "Vengo a resolver esto",
-                "y me parece que tu eres uno de los indicados."
+                "y me parece que usted es uno de los indicados."
             ]
         },
         "200_0": {
@@ -538,23 +538,23 @@
         },
         "208_0": {
             "lines": [
-                "Eso es demasiado extraño."
+                "Eso es DEMASIADO extraño."
             ]
         },
         "216_0": {
             "lines": [
-                "¡Pero no me moveré de este reino de luz!"
+                "¡No me moveré de este reino de luz!"
             ]
         },
         "224_0": {
             "lines": [
-                "Espera ¿eres una Diosa de luz?"
+                "Espera ¿es una Diosa de luz?"
             ]
         },
         "232_0": {
             "lines": [
                 "Uh que recuerdos...",
-                "¡Pero tendrá que ser así!"
+                "Pero lamentablemente ¡Tendrá que ser así!"
             ]
         },
         "240_0": {
@@ -574,7 +574,7 @@
     "13": {
         "34_0": {
             "lines": [
-                "Como vez, si soy hábil."
+                "Como ve usted, si soy hábil."
             ]
         },
         "42_0": {
@@ -589,7 +589,7 @@
         },
         "58_0": {
             "lines": [
-                "Así que ¿ayudarás?"
+                "Así que ¿ayudará?"
             ]
         },
         "66_0": {
@@ -611,12 +611,12 @@
     "15": {
         "4_0": {
             "lines": [
-                "¿Ser oscuro?"
+                "Ser oscuro..."
             ]
         },
         "12_0": {
             "lines": [
-                "Creo que se refería a la otra..."
+                "Se refería a esa otra persona..."
             ]
         },
         "20_0": {
@@ -631,7 +631,7 @@
         },
         "36_0": {
             "lines": [
-                "hay que seguir."
+                "Mi misión sigue en pie."
             ]
         },
         "140_0": {
@@ -651,7 +651,7 @@
         },
         "184_0": {
             "lines": [
-                "¿Quién eres?"
+                "¿Quién es usted?"
             ]
         },
         "192_0": {
@@ -666,8 +666,8 @@
         },
         "208_0": {
             "lines": [
-                "Hm... ¿Es donde proviene la otra que dijo Sumiyoshi?",
-                "¡Guíame hacia ella, deidad!"
+                "Hm... ¿Es donde proviene esa hada que dijo Sumiyoshi?",
+                "Si no es mucha molestia, guíeme hacia ella, deidad."
             ]
         },
         "216_0": {
@@ -689,7 +689,7 @@
         },
         "50_0": {
             "lines": [
-                "Uh ¿qué?"
+                "Discuple, pero no logro entender."
             ]
         },
         "58_0": {
@@ -704,7 +704,7 @@
         },
         "74_0": {
             "lines": [
-                "¿Me vaz a guiar con ella?"
+                "¿Me va a guiar con ella?"
             ]
         },
         "82_0": {
@@ -769,7 +769,7 @@
         },
         "160_0": {
             "lines": [
-                "¿Eres otra de esas chicas?"
+                "¿Usted es otra de esas chicas?"
             ]
         },
         "168_0": {
@@ -794,7 +794,7 @@
         },
         "200_0": {
             "lines": [
-                "No lo se. Solo vengo por su ayuda."
+                "Mi lado no ha sido definido. Solo vengo por su ayuda."
             ]
         },
         "208_0": {

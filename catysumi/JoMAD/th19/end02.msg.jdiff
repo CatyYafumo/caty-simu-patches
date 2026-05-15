@@ -25,6 +25,11 @@
                 "<r$Vessel  >\"C-Crono... ¿Cómo tú...?\""
             ]
         },
+        "5_0": {
+            "lines": [
+                "<r$Crono  >\"No importa cómo llegué aquí. Quería hablar contigo.\""
+            ]
+        },
         "6_0": {
             "lines": [
                 "<r$Vessel  >\"P- ¿por que?\""
@@ -33,11 +38,6 @@
         "7_0": {
             "lines": [
                 "<r$Crono  >\"Porque quiero verte mejor."
-            ]
-        },
-        "5_0": {
-            "lines": [
-                "<r$Crono  >\"No importa cómo llegué aquí. Quería hablar contigo.\""
             ]
         },
         "8_0": {
@@ -57,12 +57,12 @@
         },
         "11_0": {
             "lines": [
-                "Pero este hizo que destruyera el reino. Cuando tuve una amiga..."
+                "A este claro, no le gustó y destruí el reino. Tuve una amiga..."
             ]
         },
         "12_0": {
             "lines": [
-                "Ella también murió gracias a él. Estuve solo, vagando..."
+                "Pero ella se sacrificó, por mí, por culpa de él. Estuve solo, vagando..."
             ]
         },
         "13_0": {
@@ -72,7 +72,7 @@
         },
         "14_0": {
             "lines": [
-                "Eso llevó muchos pero muchos años en pasar..."
+                "Y eso llevó muchos pero muchos años, por no decir cien, en pasar..."
             ]
         },
         "15_0": {
@@ -82,7 +82,7 @@
         },
         "16_0": {
             "lines": [
-                "Y quiero ayudarte... Porque en este momento siento que debo hacer algo así.\""
+                "Y quiero ayudarte a superar lo tuyo... Porque desde el principio me importaste.\""
             ]
         },
         "17_0": {
