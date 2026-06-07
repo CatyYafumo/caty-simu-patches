@@ -1,115 +1,115 @@
 {
     "0": {
-        "20_0": {
-            "lines": [
-                "<c$¡Felicitaciones!$>",
-                "<c$Terminado sin Continues! ¡Sabia que podías!$>"
-            ]
-        },
         "0_0": {
             "lines": [
-                "<ts$Marisa  $Mayumi  >El Reino de las Bestias, Reichouen."
+                "<ts$Lilith  $Ethany  >El Reino de Lobrin."
             ]
         },
         "1_0": {
             "lines": [
-                "Un bosque en forma de ojo de cerradura."
+                "Uno de los reinos más poderosos de la Tierra actual.",
+                "Conteniendo un gran linaje de Dioses Reyes."
             ]
         },
         "2_0": {
             "lines": [
-                "El interior está lleno de tecnología extraña."
+                "Sin embargo, su palacio no es solo el hogar de la realeza."
             ]
         },
         "3_0": {
             "lines": [
-                "<r$Marisa  >\"¡Increíble!"
+                "Sinó también la base de los Dioses de la generación actual."
             ]
         },
         "4_0": {
             "lines": [
-                "<l$> ¡Aquí hay un montón de cosas que nunca antes había visto!"
+                "<r$Lilith  >\"¡Ah, eres tú de nuevo!\""
             ]
         },
         "5_0": {
             "lines": [
-                "<l$> Déjame investigar un poco, ¿De acuerdo?\""
+                "<r$Ethany  >\"Oh, tu eres esa Semidiosa híbrida ¿no?\""
             ]
         },
         "6_0": {
             "lines": [
-                "<r$Mayumi  >\"Sí, Lady Keiki ha dado su permiso."
+                "<r$Lilith  >\"¡Te acuerdas de mí! Y así que al final no seguiste con lo que me decías...~"
             ]
         },
         "7_0": {
             "lines": [
-                "<l$> Desde que ella ha entendido que usted no está relacionado con la",
-                "<l$> disputa entre los espíritus humanos y los espíritus de las bestias\"."
+                "<l$> bueno, debí de haberlo esperado. Con razón me era curioso,",
+                "<l$> lógicamente nunca debió de haberse hecho.\""
             ]
         },
         "8_0": {
             "lines": [
-                "<r$Mayumi  >\"Ella juzgó que, si no estás poseído por un espíritu de bestia, ",
-                "<l$> entonces como humana, probablemente estarías de nuestro lado\"."
+                "<r$Ethany  >\"¿Eh? ¿A qué te refieres con nunca DEBIÓ de haberse hecho?\""
             ]
         },
         "9_0": {
             "lines": [
-                "<r$Marisa  >\"Tu jefa es bastante comprensiva, eh\"."
+                "<r$Shire  >\"Si vaz a usar esas indirectas, será mejor que yo lo explique. Lily.\""
             ]
         },
         "10_0": {
             "lines": [
-                "<r$Marisa  >\"Todos estos artículos antiguos tienen un brillo tan misterioso."
+                "<r$Ethany  >\"¡Señorita Shire!\""
             ]
         },
         "11_0": {
             "lines": [
-                "<l$> Me pregunto cómo puedes usar estas herramientas...\""
+                "<r$Shire  >\"Lily es algo especial, verás..."
             ]
         },
         "12_0": {
             "lines": [
-                "<r$Mayumi  >\"Lady Keiki tiene manos diestras, ya ves\"."
+                "<l$>\"Te lo diré sin figuras: Ella es del futuro, pero está aquí como una vigilante"
             ]
         },
         "13_0": {
             "lines": [
-                "<r$Mayumi  >\"No importa lo que haga, un espíritu vendrá a residir en ellos."
+                "<l$> Más que alterar la historia, su labor es cuidar que el espacio-tiempo se respete y se mantenga,",
+                "<l$> que a mi sospecha es prohibirnos hacer algo incorrecto.\""
             ]
         },
         "14_0": {
             "lines": [
-                "<l$> Incluso yo no soy más que una figura de arcilla creada por Lady Keiki\"."
+                "<l$> Y quien lo planificó de esta manera también cree que sirve como forma de",
+                "<l$> aprendizaje para todos, pero lo que hace Lily es decir puras patrañas.\""
             ]
         },
         "15_0": {
             "lines": [
-                "<r$Marisa  >\"¿Qué dices? Ella realmente es diestra, eh\"."
+                "<r$Lilith  >\"¡Oye!\""
             ]
         },
         "16_0": {
             "lines": [
-                "Lozas de barro y bronce, espejos y espadas. ",
-                "Aunque todos parecían gastados, ",
-                "albergaban un tremendo poder mágico."
+                "Shire trataba de ser directa con sus palabras, pero aún así era confuso."
             ]
         },
         "17_0": {
             "lines": [
-                "Parecía que incluso uno de estos elementos",
-                "podría reunir Fe como un goshintai."
+                "La pequeña niña que estaba frente a Ethany no era una niña mágica cualquiera.",
+                "Era una guardiana del tiempo y la puerta a una esperanza."
             ]
         },
         "18_0": {
             "lines": [
-                "Marisa pensó, \"¿No esto es lo mismo que ser capaz de crear dioses?\" ",
-                "y se estremeció un poquito."
+                "Quien el daba las ordenes era alguien astuto que quería dejar una advertencia:",
+                "Cuidado con lo que decides hacer..."
             ]
         },
         "19_0": {
             "lines": [
-                "<c$Final No. 04 — La Maestra que Moldea Dioses$>"
+                "<c$Final Alternativo de Ethany: Cuidado con tus Acciones$>"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<c$¡Felicitaciones!$>",
+                "<c$Terminado sin Continues! ¡Sabia que podías!$>"
             ]
         }
     }

@@ -1,0 +1,140 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Santi  $Yarumi  >El Reino de Lobrin."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Uno de los reinos más poderosos de la Tierra actual.",
+                "Conteniendo un gran linaje de Dioses Reyes."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Sin embargo, su palacio no es solo el hogar de la realeza."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "Sinó también la base de los Dioses de la generación actual."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Santi  >\"Oh Yarumi, con que estabas aquí."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> Escucha, quería disculparme por lo de antes..."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> Creo que debí de ser un poco menos impulsivo",
+                "<l$> y tratar de entender mejor lo que me decías."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> Bueno, tu sabes por qué ¿no?"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> ¡Tú sabes que espero ser el mejor tío del mundo!\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Yarumi  >\"Ehm... Okay, bueno yo..."
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> ¡Pues qué pena! ¡no lo estás haciendo tan bien!\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Santi  >\"¿Eeh...??? ¡Pero en qué estoy mal!\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Yarumi  >\"Déjame ver... ¡Eres muy joven aún!",
+                "<l$> ¡Sigues siendo un muchachito!\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Santi  >\"P- Pero... ¡Soy mayor de edad! Y hace poco fué mi cumpleaños!\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Yarumi  >\"¡Te falta aún más tiempo!"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<l$> ¡Ojalá eso te dé un mejor razonamiento!",
+                "<l$> ¡sigues estando muy atrás de Marcel en tu objetivo!\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Santi  >\"¡Gahh! ¡Marcel! ¡Tú siempre comparándome con él!"
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<l$> A veces eres tan cruel como para ser una niña...\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Yarumi  >\"Uuhh y lo que dices no es muy amigable~.\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Santi  >\"Estoy haciendo mi mejor esfuerzo...\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Yarumi  >\"Heheheheh\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "La manía oculta del Dios del Fuego era ser",
+                "una figura confiable y amable para Yarumi."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "A pesar de sus intentos, ella parecía molestarlo por ello."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "Pero esas peleas amistosas son una señal de que la paz reina..."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<c$Final Alternativo de Yarumi: — Tengamos un poco de amistad$>"
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<c$¡Felicitaciones!$>",
+                "<c$Terminado sin Continues! ¡Sabia que podías!$>"
+            ]
+        }
+    }
+}

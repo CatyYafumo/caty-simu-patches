@@ -30,18 +30,18 @@
                 "Es muy espeluznante..."
             ]
         },
-        "50_0": {
+        "110_0": {
             "lines": [
                 "Los tontos permanecen",
                 "tontos hasta el fin de sus días..."
             ]
         },
-        "58_0": {
+        "148_0": {
             "lines": [
                 "Incluso hace un momento no pudiste determinar tu fallo."
             ]
         },
-        "126_0": {
+        "156_0": {
             "lines": [
                 "¿Qué? Usted no es..."
             ]
@@ -76,12 +76,12 @@
                 "Muy bien. Tu consciencia parece haber vuelto."
             ]
         },
-        "220_0": {
+        "212_0": {
             "lines": [
                 "Exactamente como lo has planteado."
             ]
         },
-        "212_0": {
+        "220_0": {
             "lines": [
                 "Intenté darles a esos mediocres una propuesta civilizada."
             ]
@@ -134,7 +134,7 @@
         },
         "300_0": {
             "lines": [
-                "¡Y ahora como me salvo de esta!"
+                "¡Y ahora cómo me salvo de esta!"
             ]
         },
         "308_0": {
@@ -180,114 +180,108 @@
     "1": {
         "34_0": {
             "lines": [
-                "...Haa, Haa."
+                "¿Es todo lo que tiene?"
             ]
         },
         "42_0": {
             "lines": [
-                "¡Tanto fuerza y agilidad, valentía y conocimiento!",
-                "¡Tienes todo en perfecto balance!"
+                "¿Es todo lo que puedes lograr con eso?"
             ]
         },
         "50_0": {
             "lines": [
-                "¡Estoy conmovida!"
+                "¿Eh...? ¿Qué no-...?"
             ]
         },
         "58_0": {
             "lines": [
-                "¿De verdad?",
-                "Bueno, yo estoy agotada."
+                "Pudiste esquivarme, pero sigues siendo patético."
             ]
         },
         "66_0": {
             "lines": [
-                "Dime, ¿Porque no",
-                "te unes al Clan Keiga?"
+                "Ese poder te permite resistir, sin embargo,",
+                "no puedes romper ni siquiera una hoja."
             ]
         },
         "74_0": {
             "lines": [
-                "¿Mmm?"
+                "Tengo mejores cosas en las que gastar mi tiempo que esto.",
+                "No me esforzaré en una causa perdida."
             ]
         },
         "82_0": {
             "lines": [
-                "Mira, tengo mis manos ocupadas",
-                "planeando gobernar el Reino de las Bestias."
+                "Justo cuando creí poder salvarme por mí mismo..."
             ]
         },
         "90_0": {
             "lines": [
-                "Así que te dejaré gobernar el Mundo Humano,",
-                "el Mundo Humano será una subdivisión",
-                "propiedad del Clan Keiga."
+                "Luego resulta que no soy fuerte..."
             ]
         },
         "98_0": {
             "lines": [
-                "¿Estas loca? No seas ridícula ......",
-                "No hay forma de que eso suceda, ¿De acuerdo?"
+                "Pero aunque pudiera, ya estaría muerto. Que extraño..."
             ]
         },
         "106_0": {
             "lines": [
-                "¿Eh? Qué cruel de tu parte en rechazar la oferta ...",
-                "Tan fuerte y sin embargo, no gobiernas sobre el Mundo Humano."
+                "Bueno, ya que estas guardando silencio, cosas que muy pocos hacen."
             ]
         },
         "114_0": {
             "lines": [
-                "Entonces, ¿Para qué me muestras tu fuerza?"
+                "Bien, creo que te dejaré ir esta vez.",
+                "Pero solo por esta mínima vez."
             ]
         },
         "122_0": {
             "lines": [
-                "¿Qué acaso este \"Clan Keiga\"",
-                "está llena de puros idiotas?"
+                "¿L- Lo dice en serio?"
             ]
         },
         "130_0": {
             "lines": [
-                "Mis disculpas."
+                "¿En serio piensan que soy una maniaca?"
             ]
         },
         "138_0": {
             "lines": [
-                "Es tal como lo adivinaste. Somos físicamente fuertes",
-                "pero nuestro intelecto es un poco ..."
+                "Deberías de verlos, crean sin límite, invaden e infestan sin límite."
             ]
         },
         "146_0": {
             "lines": [
-                "Bueno como sea.",
-                "Supongo que tendré que abrirme camino yo misma"
+                "Yo solo cumplo con el balance que mi poder propone."
             ]
         },
         "154_0": {
             "lines": [
-                "Cuento contigo para cuando visite el Mundo Humano la próxima vez, ¿De acuerdo?"
+                "Y eso también me da la autoridad",
+                "para imponerle condiciones a tu libertad."
             ]
         },
         "162_0": {
             "lines": [
-                "¿Y para qué?"
+                "Sea lo que sea, obedeceré..."
             ]
         },
         "170_0": {
             "lines": [
-                "Un duelo, por supuesto.",
-                "Quiero que me muestres tu fuerza sin el espíritu del lobo la próxima vez."
+                "La Diosa Shire dijo que no debo de ponerme contra su palabra",
+                "o ahí <b$sí> estaré muerto."
             ]
         },
         "178_0": {
             "lines": [
-                "Y si gano, tienes que considerar mi oferta de antes."
+                "Bueno, solo mantente alejado de este conflicto."
             ]
         },
         "186_0": {
             "lines": [
-                "Ugh... Basta, ya he tenido suficiente de todo esto..."
+                "Y de alejado me refiero a no entrometerte en lo más mínimo",
+                "¿ M E   C O M P R E N D E S ?"
             ]
         }
     }

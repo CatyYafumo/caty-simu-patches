@@ -1,0 +1,80 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Shire  $Yarumi  ><r$Shire  >\"Lo lamento mucho, Yarumi."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "<l$> Pero como te lo había dicho:"
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<l$> No puedes intervenir en esto."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Por lo mismo que ya te había dicho antes."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Sin embargo, no tienes por qué preocuparte."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> Sé que quieres evitar una catástrofe..."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> Te creo completamente."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> Y por eso, no te dejaré hacerlo, pero te ayudaré a lograrlo.",
+                "<l$> Lo haré por tí."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> Solo confía en mí... ¿Puedes?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Yarumi  > \"Sé que puedo confiar en tí."
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> ¡Pero siento que esto es algo que solo yo podré hacerlo!"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Shire  > \"Te entiendo...\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Y así, la esperanza pasó a la Diosa."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "¿Intentarás de nuevo después de todo?"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<c$Final Malo de Yarumi: — De una mano a otra$>"
+            ]
+        }
+    }
+}

@@ -16,6 +16,7 @@
         "CD": "(TH11) Touhou Calamity ~ Calamitous Danmaku (Terraria Calamity mod)",
         "HKPoL": "(TH15) Touhou x Hollow Knight: Pantheon of Legacy Addon. Make extra stage a bossrush like Hollow Knight Pantheons. Needs LoEK!",
         "JoMAD": "(TH19) Touhou Universe ~ Journey of Multiple Apocaliptic Dimensions",
-        "LGW": "(TH17) (DEMO) Touhou Tsuneriuketsu ~ Legendary God War"
+        "LGW": "(TH17) Touhou Tsuneriuketsu ~ Legendary God War",
+        "PtGO": "(TH20) (DEMO) Touhou Makakushin ~ Peace to Gensokyo's Order"
     }
 }

@@ -1,111 +1,115 @@
 {
     "0": {
-        "18_0": {
-            "lines": [
-                "<c$¡Felicitaciones!$>",
-                "<c$Terminado sin Continues! ¡Sabia que podías!$>"
-            ]
-        },
         "0_0": {
             "lines": [
-                "<ts$Yachie  $Marisa  >La casa de Marisa."
+                "<ts$Lilith  $Ethany  >El Reino de Lobrin."
             ]
         },
         "1_0": {
             "lines": [
-                "Una casa cómoda en el Bosque de la Magia."
+                "Uno de los reinos más poderosos de la Tierra actual.",
+                "Conteniendo un gran linaje de Dioses Reyes."
             ]
         },
         "2_0": {
             "lines": [
-                "<r$Yachie  >\"Soy Yachie jefa de la Familia Kiketsu."
+                "Sin embargo, su palacio no es solo el hogar de la realeza."
             ]
         },
         "3_0": {
             "lines": [
-                "<l$> Tienes esta vez mi extrema gratitud por haber",
-                "<l$> cooperando con nuestra Nutria\"."
+                "Sinó también la base de los Dioses de la generación actual."
             ]
         },
         "4_0": {
             "lines": [
-                "<r$Marisa  >\"¡WAAH! Me asustaste. ¿Que quieres?",
-                "<l$> No aparezcas como si nada.\""
+                "<r$Lilith  >\"¡Ah, eres tú de nuevo!\""
             ]
         },
         "5_0": {
             "lines": [
-                "<r$Yachie  >\"Gracias a su cooperación, hemos ",
-                "<l$> logrado asestar un golpe a esa diosa malvada\"."
+                "<r$Ethany  >\"Oh, tu eres esa Semidiosa híbrida ¿no?\""
             ]
         },
         "6_0": {
             "lines": [
-                "<r$Marisa  >\"Es cierto, al final todavía no estoy segura",
-                "<l$> de parte de quien estaba peleando, y en que me metí...\""
+                "<r$Lilith  >\"¡Te acuerdas de mí! Y así que al final no seguiste con lo que me decías...~"
             ]
         },
         "7_0": {
             "lines": [
-                "<r$Yachie  >\"Nosotros, los espíritus de las bestias, fuimos",
-                "<l$> acosados por el grupo de ídolos dirigidos por Keiki."
+                "<l$> bueno, debí de haberlo esperado. Con razón me era curioso,",
+                "<l$> lógicamente nunca debió de haberse hecho.\""
             ]
         },
         "8_0": {
             "lines": [
-                "<l$> El grupo de ídolos intentaban poner por completo",
-                "<l$> al Reino de las Bestias bajo su control.\""
+                "<r$Ethany  >\"¿Eh? ¿A qué te refieres con nunca DEBIÓ de haberse hecho?\""
             ]
         },
         "9_0": {
             "lines": [
-                "<r$Yachie  >\"Solo un humano de la superficie, con una forma física",
-                "<l$> y una fe distinta, podía destruir a los ídolos."
+                "<r$Shire  >\"Si vaz a usar esas indirectas, será mejor que yo lo explique. Lily.\""
             ]
         },
         "10_0": {
             "lines": [
-                "<l$> Por ello tu cooperación fue necesaria.\""
+                "<r$Ethany  >\"¡Señorita Shire!\""
             ]
         },
         "11_0": {
             "lines": [
-                "<r$Marisa  >\"Entonces hubiera estado bien que me lo",
-                "<l$> hubieran dicho desde el comienzo.\""
+                "<r$Shire  >\"Lily es algo especial, verás..."
             ]
         },
         "12_0": {
             "lines": [
-                "<r$Yachie  >\"Tienes mis más sinceras disculpas."
+                "<l$>\"Te lo diré sin figuras: Ella es del futuro, pero está aquí como una vigilante"
             ]
         },
         "13_0": {
             "lines": [
-                "<l$> Pero no queríamos tener la más mínima",
-                "<l$> posibilidad de fallar.\""
+                "<l$> Más que alterar la historia, su labor es cuidar que el espacio-tiempo se respete y se mantenga,",
+                "<l$> que a mi sospecha es prohibirnos hacer algo incorrecto.\""
             ]
         },
         "14_0": {
             "lines": [
-                "De acuerdo con ella, si le revelaba su plan a los humanos,",
-                "cabía la posibilidad de que Keiki lo escuchara,",
-                "por eso necesitó engañarlas."
+                "<l$> Y quien lo planificó de esta manera también cree que sirve como forma de",
+                "<l$> aprendizaje para todos, pero lo que hace Lily es decir puras patrañas.\""
             ]
         },
         "15_0": {
             "lines": [
-                "Marisa no podía leer las verdaderas ",
-                "intenciones de Yachie en sus palabras."
+                "<r$Lilith  >\"¡Oye!\""
             ]
         },
         "16_0": {
             "lines": [
-                "O mejor dicho, quizás no veía a Keiki como una diosa malvada."
+                "Shire trataba de ser directa con sus palabras, pero aún así era confuso."
             ]
         },
         "17_0": {
             "lines": [
-                "<c$Final No. 5 — El Poder dá la Razón$>"
+                "La pequeña niña que estaba frente a Ethany no era una niña mágica cualquiera.",
+                "Era una guardiana del tiempo y la puerta a una esperanza."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "Quien el daba las ordenes era alguien astuto que quería dejar una advertencia:",
+                "Cuidado con lo que decides hacer..."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<c$Final Alternativo de Ethany: Cuidado con tus Acciones$>"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<c$¡Felicitaciones!$>",
+                "<c$Terminado sin Continues! ¡Sabia que podías!$>"
             ]
         }
     }

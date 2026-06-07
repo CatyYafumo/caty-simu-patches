@@ -1,0 +1,69 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marcel  $Kaiser  ><r$Marcel  >\"¿Vez ahora de lo que hablo?"
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "<l$> tu travesía es absolutamente inconveniente."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<l$> agradezco tus intenciones, pero será mejor que te retires..."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> No arriezgues tu vida inútilmente."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Quizás me odies por esto."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> Pero puedes odiarme tanto como quieras"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> Aún así, me sentiré orgulloso de haberte salvado del eclipse de tu vida.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Kaiser  > ... Entiendo."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> ... Lo siento mucho, de veras.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marcel  >\"Ahora vuelve a casa y disfrutala como nosotros ya no podemos hacerlo...\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "La decisión se ha tomado."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "¿Pero aún así, intentarás otra vez de todas formas?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<c$Final Malo de Kaiser: — A veces es mejor renunciar$>"
+            ]
+        }
+    }
+}
