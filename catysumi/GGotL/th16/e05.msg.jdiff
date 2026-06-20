@@ -47,12 +47,12 @@
         },
         "9_0": {
             "lines": [
-                "<l$>Eso no hace el anfitrión."
+                "<l$>Eso lo hace el anfitrión."
             ]
         },
         "10_0": {
             "lines": [
-                "<l$>\Pero tienes razón en lo que dijiste.\""
+                "<l$>Pero tienes razón en lo que dijiste.\""
             ]
         },
         "11_0": {
@@ -62,7 +62,7 @@
         },
         "12_0": {
             "lines": [
-                "<l$>Puedes dejarmelo a mí."
+                "<l$>Puedes dejármelo a mí."
             ]
         },
         "13_0": {
@@ -72,7 +72,7 @@
         },
         "14_0": {
             "lines": [
-                "<l$>Me agrada como funcionan las cosas aquí\""
+                "<l$>Me agrada como funcionan las cosas aquí.\""
             ]
         },
         "15_0": {
@@ -92,7 +92,7 @@
         },
         "18_0": {
             "lines": [
-                "<r$Sakuya  >No hay por donde.\""
+                "<r$Sakuya  >\"No hay por donde."
             ]
         },
         "19_0": {
@@ -122,7 +122,7 @@
         },
         "24_0": {
             "lines": [
-                "<l$>Diselo.\""
+                "<l$>Díselo.\""
             ]
         },
         "25_0": {
