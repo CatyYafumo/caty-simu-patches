@@ -1,7 +1,7 @@
 {
     "th17_01": "Pure Furies ~ Wereabouts of the Heart (S)",
     "th17_02": "The Positive and Negative (S)",
-    "th17_03": "Bloom Nobly, Ink Black Cherry Blossoms ~ Border of Life (F)",
+    "th17_03": "Bloom Nobly, Ink-Black Cherry Blossoms ~ Border of Life (F)",
     "th17_04": "Hearthfelth Fancy (S)",
     "th17_05": "Battle Theme (F)",
     "th17_06": "Memento of All Organism ~ Memory of Fossil Energy (S)",
