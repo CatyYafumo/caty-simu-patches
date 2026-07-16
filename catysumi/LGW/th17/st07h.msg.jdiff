@@ -110,8 +110,8 @@
         },
         "260_0": {
             "lines": [
-                "Ni siquiera Marcel o Shire son así",
-                "de escalofriantes..."
+                "Marcel y Shire son escalofriantes para cualquiera",
+                "pero ella-..."
             ]
         },
         "268_0": {
@@ -121,7 +121,8 @@
         },
         "276_0": {
             "lines": [
-                "Oh bien, de todos modos hará falta una reflexión."
+                "Oh bien, de todos modos hará falta una reflexión.",
+                "¿No?"
             ]
         },
         "284_0": {
@@ -132,7 +133,7 @@
         },
         "292_0": {
             "lines": [
-                "Ellos mismos aceptaron, pero ahora vienen con que no les parece."
+                "Ellos mismos aceptaron, pero <b$ahora> vienen con que no les parece."
             ]
         },
         "300_0": {
@@ -143,13 +144,13 @@
         },
         "308_0": {
             "lines": [
-                "Y si mal no me equivoco. Todos, fueron advertidos",
+                "Y si mal no me equivoco. Todos- fueron advertidos",
                 "de lo que implicaba."
             ]
         },
         "316_0": {
             "lines": [
-                "Sí... Es cierto."
+                "Sí... No voy a negarselo."
             ]
         },
         "324_0": {
@@ -171,7 +172,7 @@
         },
         "348_0": {
             "lines": [
-                "Así que tu juicio pasa a mi criterio."
+                "Por derecho, tu juicio pasa a mi criterio."
             ]
         },
         "356_0": {
@@ -181,7 +182,7 @@
         },
         "364_0": {
             "lines": [
-                "¿Alguna excusa?"
+                "¿Alguna excusa antes de despedirse por siempre?"
             ]
         }
     },
@@ -199,7 +200,7 @@
         "50_0": {
             "lines": [
                 "Así no llegaremos a nada,",
-                "me quedaré dormida antes de ser derrotada"
+                "me quedaré dormida antes de ser derrotada."
             ]
         },
         "58_0": {
@@ -286,7 +287,8 @@
         },
         "178_0": {
             "lines": [
-                "Bien..."
+                "Bien...",
+                "Como usted desee..."
             ]
         }
     }
