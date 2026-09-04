@@ -1,96 +1,109 @@
 {
-    "0": {
-        "34_0": {
-            "lines": [
-                "Let's go!"
-            ]
-        },
-        "42_0": {
-            "lines": [
-                "Let's go!"
-            ]
-        }
-    },
-    "1": {
-        "34_0": {
-            "lines": [
-                "You're a fool if you think you can defeat me!"
-            ]
-        }
-    },
-    "2": {
-        "34_0": {
-            "lines": [
-                "How frustrating..."
-            ]
-        }
-    },
     "3": {
         "4_0": {
             "lines": [
-                "... Estoy comenzando a extrañar mi mansión.",
-                "Quizás si comienzo a ayudar..."
+                "Ah, esto ya ha llevado tanto tiempo..."
             ]
         },
-        "108_0": {
+        "12_0": {
             "lines": [
-                "¿Tú otra vez?"
+                "¿Dónde está ese chico que prometió arreglar todo esto?",
+                "Parece no haber hecho nada..."
             ]
         },
-        "136_0": {
+        "20_0": {
             "lines": [
-                "Si estabas esperando pelear.",
-                "Te daré algo más fuerte para que aprendas."
+                "... Y ya es tiempo de volver."
             ]
         },
-        "144_0": {
+        "124_0": {
             "lines": [
-                "No, espera. Quiero ayudar."
+                "Agh. ¿Tú otra vez?"
             ]
         },
-        "152_0": {
+        "156_0": {
             "lines": [
-                "¿Eh? ¿Estás bromeando?"
+                "¿Qué es lo que quieres? ¡Ya peleaste conmigo!"
             ]
         },
-        "160_0": {
+        "164_0": {
             "lines": [
-                "¡Debe haber algo que pueda hacer!"
+                "Pues claro, no haces nada más que eso..."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "¡Así que esta vez te daré más fuerte!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Qué rudo~..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "A lo que no debes de esperar es al incidente."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "He venido para prestarte ayuda, quizás así esto se arregle más rápido."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "¡Lo único que quieres lograr es hacerme perder el tiempo!"
             ]
         }
     },
     "4": {
         "34_0": {
             "lines": [
-                "Solamente quieres matar el tiempo..."
+                "Sé que aún te queda algo que hacer."
             ]
         },
         "42_0": {
             "lines": [
-                "¿Vaz a rechazar una ayuda?"
+                "¿Qué tipo de tonto rechaza esta ayuda?"
             ]
         },
         "50_0": {
             "lines": [
-                "No creo que quede algo más que hacer..."
+                "Bah, solo estás haciéndome perder el tiempo."
             ]
         },
         "58_0": {
             "lines": [
-                "¡Claro que sí!",
-                "¿Entonces por qué aún no está resuelto?"
+                "¿De verdad vaz a ignorar mi colaboración?"
             ]
         },
         "66_0": {
             "lines": [
-                "hmmmmmm..."
+                "No, es que ya está todo hecho."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Entonces dime: Si es que ya está todo hecho...",
+                "¿Por qué nada ha vuelto a la normalidad?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "hhmmm..."
             ]
         }
     },
     "5": {
         "34_0": {
             "lines": [
-                "Ow, si que lo hiciste."
+                "Sé que aún te queda algo que hacer."
             ]
         }
     },

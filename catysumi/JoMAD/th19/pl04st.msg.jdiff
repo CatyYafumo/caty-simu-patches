@@ -265,101 +265,98 @@
         }
     },
     "9": {
-        "34_0": {
-            "lines": [
-                "Kyah, a rat!"
-            ]
-        },
-        "42_0": {
-            "lines": [
-                "The temple's rat even!"
-            ]
-        },
-        "50_0": {
-            "lines": [
-                "Isn't that great? Even as a mouse"
-            ]
-        },
-        "58_0": {
-            "lines": [
-                "I prefer cats, and",
-                "I'm not scared of dogs."
-            ]
-        },
-        "66_0": {
-            "lines": [
-                "I don't like going to the temple!",
-                "That incense is strong."
-            ]
-        },
-        "74_0": {
-            "lines": [
-                "Hm, I see."
-            ]
-        },
         "4_0": {
             "lines": [
-                "Pero entonces..."
+                "Pero entonces, si alguien ya ha llegado a ella..."
             ]
         },
-        "116_0": {
+        "16_0": {
+            "lines": [
+                "¿Cuándo terminará esto?",
+                "No tiene sentido..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "El incidente ya debería",
+                "de estar cerca de solucionarse."
+            ]
+        },
+        "124_0": {
             "lines": [
                 "¿Feny?"
             ]
         },
-        "144_0": {
-            "lines": [
-                "Ah, otra vez eres tú..."
-            ]
-        },
         "152_0": {
             "lines": [
-                "¿Sumiyoshi? ¡¿Sigues aquí?!"
+                "Ah. Eres tú otra vez..."
             ]
         },
         "160_0": {
             "lines": [
-                "¿Qué sigo en donde?"
-            ]
-        },
-        "12_0": {
-            "lines": [
-                "¿Cuándo terminará esto?"
+                "No esperaba verte denuevo."
             ]
         },
         "168_0": {
             "lines": [
-                "¿Qué? ¿Qué dices?"
+                "¿Sumiyoshi?"
             ]
         },
         "176_0": {
             "lines": [
-                "Oh ya entiendo..."
+                "Espera... ¡¿Sigues aquí?!"
             ]
         },
         "184_0": {
             "lines": [
-                "¡Feny, no estás viendo lo mismo que yo!"
+                "¿Eh? ¿Que sigo en dónde?"
             ]
         },
         "192_0": {
             "lines": [
-                "¡El incidente se está agravando más!"
+                "¿Pero qué dices?",
+                "¡Estamos en el mísmo lugar que la última vez!"
             ]
         },
         "200_0": {
             "lines": [
-                "¡Maldita sea!"
+                "..."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Espera... Ya entiendo."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "¡Feny, no estás viendo lo mismo que yo!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "¡El incidente se está agravando más y más!"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "¡...Maldita sea!"
             ]
         }
     },
     "10": {
         "34_0": {
             "lines": [
-                "¡¿Es en serio lo que dices?!"
+                "¡Se están creando ilusiones!",
+                "¿Por qué no me había dado cuenta antes?"
             ]
         },
         "42_0": {
+            "lines": [
+                "¿Qué? ¿Es en serio lo que dices?!"
+            ]
+        },
+        "50_0": {
             "lines": [
                 "Feny... Deberías de ayudarnos..."
             ]

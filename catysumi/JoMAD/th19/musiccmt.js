@@ -16,14 +16,23 @@
         "Solo le pregunté a Sumi que entre Reimu, Sakuya y Youmu qué tema le gustaba más.",
         "Además, te da una sensación de prisa, por supuesto que Sumi está así."
     ],
-    "6": [
+    "3": [
         "@",
         "　",
-        "Tema de Nameless Deity",
+        "Tema de Hornet y Modo historia medio",
         "-FalKKonE",
-        "En este mod, la mayoría de los personajes tienen uncover del tema de ",
-        "quien reemplazan originalmente. Locura y desentendimiento, es a lo que me hace",
-        "pensar, tal y como el Nameless en su historia."
+        "Esta vez quería variar, así que pensé... Hornet jugable = Silksong",
+        "Determinación combinado con belleza...",
+        "Como la música de hollow knight y el danmaku de touhou."
+    ],
+    "4": [
+        "@",
+        "　",
+        "Tema de Caty Yafumo y Modo historia tardío",
+        "-Duv",
+        "Como lo haz adivinado, su tema ha cambido recientemente",
+        "No hayaba cuando usar este increíble tema, así que como me sentía insatisfecha lo usé aquí",
+        "Este tema evoca tensión, poder, belleza pero también duda, eso es Yafumo en este mod."
     ],
     "5": [
         "@",
@@ -33,23 +42,65 @@
         "Su tema original original (el doble es a propósito) pero metalero :)",
         "Suena a que estas peleando con algo indecifrable, como Yumemi descubriendo todo el universo."
     ],
-    "4": [
+    "6": [
         "@",
         "　",
-        "Tema de Caty Yafumo y Modo historia tardío",
-        "-SOUNDHOLIC",
-        "Me fue difícil cambiar el tema de Ensiferum. Algo que igual evocara",
-        "poder, impureza, coraje. Si, está editado por mí. Pero el tema",
-        "es tremendo, que suerte que lo encontré."
-    ],
-    "3": [
-        "@",
-        "　",
-        "Tema de Hornet y Modo historia medio",
+        "Tema de Nameless Deity",
         "-FalKKonE",
-        "Esta vez quería variar, así que pensé... Hornet jugable = Silksong",
-        "Determinación combinado con belleza...",
-        "Como la música de hollow knight y el danmaku de touhou."
+        "En este mod, la mayoría de los personajes tienen uncover del tema de ",
+        "quien reemplazan originalmente. Locura y desentendimiento, es a lo que me hace",
+        "pensar, tal y como el Nameless en su historia."
+    ],
+    "7": [
+        "@",
+        "　",
+        "Tema de Mima",
+        "-FalKKonE",
+        "MIMA HA LLEGADO PARA UDOALG!!!",
+        "Juego con seriedad, eso es."
+    ],
+    "8": [
+        "@",
+        "　",
+        "Tema de Yuuka Kazami",
+        "-FalKKonE",
+        "Adoro este cover man. Muestra la belleza misteriosa y luego",
+        "un ritmo con el que dan ganas de jugar."
+    ],
+    "9": [
+        "@",
+        "　",
+        "Tema de Catyon",
+        "-ssbbmaster",
+        "Costó cambiar de idea, estaba pensando en el de Nue.",
+        "Por la sensación de terror pero este te hace sentír finalidad,",
+        "un caos que terminará en lo más épico pero crudo posible."
+    ],
+    "10": [
+        "@",
+        "　",
+        "Tema de Pure Vessel",
+        "-FalKKonE",
+        "Estuve pensando mucho tiempo en poner uno de MGR porque la letra era perfecta",
+        "con el lore. Pero este tema me hizo sentir rebeldía, libertad,",
+        "algo que igual le atina al lore. Además... PANDEMONIC VESSEL!!"
+    ],
+    "11": [
+        "@",
+        "　",
+        "Tema de Radiance",
+        "-FalKKonE",
+        "ABSOLUTE FURIES?? Debo confesar que una vez mezclé sus temas...",
+        "Si te sabes el lore de Junko y ahora el de Radiance en JoMAD, esta canción te dará",
+        "poder como melancolía, ¿Empiezas a sentir pena por esta maldadosa?"
+    ],
+    "12": [
+        "@",
+        "　",
+        "Tema de Feny",
+        "-FalKKonE",
+        "El que también usó en Infinite Eclipse.",
+        "¿Que puedo decir? Feny es el personaje de broma, pero que igual puede aportar su grano de arena."
     ],
     "13": [
         "@",
@@ -69,39 +120,13 @@
         "Pues este no será el único... (Ya no fue si jugaste GGotL xd)",
         "La letra es algo que junta con Shire... Un poco."
     ],
-    "12": [
-        "@",
-        "　",
-        "Tema de Feny",
-        "-FalKKonE",
-        "El que también usó en Infinite Eclipse.",
-        "¿Que puedo decir? Feny es el personaje de broma, pero que igual puede aportar su grano de arena."
-    ],
-    "11": [
-        "@",
-        "　",
-        "Tema de Radiance",
-        "-FalKKonE",
-        "ABSOLUTE FURIES?? Debo confesar que una vez mezclé sus temas...",
-        "Si te sabes el lore de Junko y ahora el de Radiance en JoMAD, esta canción te dará",
-        "poder como melancolía, ¿Empiezas a sentir pena por esta maldadosa?"
-    ],
-    "10": [
-        "@",
-        "　",
-        "Tema de Pure Vessel",
-        "-FalKKonE",
-        "Estuve pensando mucho tiempo en poner uno de MGR porque la letra era perfecta",
-        "con el lore. Pero este tema me hizo sentir rebeldía, libertad,",
-        "algo que igual le atina al lore. Además... PANDEMONIC VESSEL!!"
-    ],
     "15": [
         "@",
         "　",
         "Tema de El Caballero",
-        "-RichaadEB",
-        "Intenté buscar algo del reemplazo y este tema quedó espectacular.",
-        "La sensación de desolación que queda tan bien con la temática del vacío."
+        "-Duv",
+        "No sé que me dió de cambiarlo.",
+        "Pero se me hacía que seguiría con la sensación de vacío y melancolía."
     ],
     "16": [
         "@",
@@ -144,15 +169,6 @@
         "Y tremendo, muy épico para una batalla final que trae la paz, comprensión junto con",
         "el contraste de la personalidad elegante y la frenética batalla que ella brinda."
     ],
-    "9": [
-        "@",
-        "　",
-        "Tema de Catyon",
-        "-ssbbmaster",
-        "Costó cambiar de idea, estaba pensando en el de Nue.",
-        "Por la sensación de terror pero este te hace sentír finalidad,",
-        "un caos que terminará en lo más épico pero crudo posible."
-    ],
     "21": [
         "@",
         "　",
@@ -169,36 +185,5 @@
         "El mismo tema de la stage 1 de Ro98 pero Metalero.",
         "Este cover me gusta mucho, y sumandole ese detalle. FINALIDAD.",
         "Y el estilo no deja de dar poder."
-    ],
-    "7": [
-        "@",
-        "　",
-        "Tema de Mima",
-        "-FalKKonE",
-        "MIMA HA LLEGADO PARA UDOALG!!!",
-        "Juego con seriedad, eso es."
-    ],
-    "8": [
-        "@",
-        "　",
-        "Tema de Yuuka Kazami",
-        "-FalKKonE",
-        "Adoro este cover man. Muestra la belleza misteriosa y luego",
-        "un ritmo con el que dan ganas de jugar."
-    ],
-    "23": [
-        "@",
-        "　",
-        "Tema de los diálogos 1",
-        "-Memories of phantasm",
-        "Nada más ni nada menos que el OST de un ánime,",
-        "pero se logra la atmosfera."
-    ],
-    "24": [
-        "@",
-        "　",
-        "Tema de los diálogos 2",
-        "-Memories of phantasm",
-        "La batalla final, la batalla decisiva se acerca..."
     ]
 }

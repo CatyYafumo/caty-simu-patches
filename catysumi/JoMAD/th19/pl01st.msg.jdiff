@@ -1,30 +1,4 @@
 {
-    "0": {
-        "34_0": {
-            "lines": [
-                "Let's go!"
-            ]
-        },
-        "42_0": {
-            "lines": [
-                "Let's go!"
-            ]
-        }
-    },
-    "1": {
-        "34_0": {
-            "lines": [
-                "It's ridiculous to think you can win against me!"
-            ]
-        }
-    },
-    "2": {
-        "34_0": {
-            "lines": [
-                "How frustrating..."
-            ]
-        }
-    },
     "3": {
         "34_0": {
             "lines": [
@@ -280,204 +254,189 @@
         }
     },
     "9": {
-        "34_0": {
-            "lines": [
-                "No, se equivoca."
-            ]
-        },
-        "42_0": {
-            "lines": [
-                "Uh... No soy la única entonces..."
-            ]
-        },
-        "50_0": {
-            "lines": [
-                "Hmn, ¿tu tambien haz sido despojada de tu mundo?",
-                "Ey ¡Te pareces al pequeño que había visto!"
-            ]
-        },
-        "58_0": {
-            "lines": [
-                "Bueno, ¡Veamos lo que tienes!"
-            ]
-        },
         "4_0": {
             "lines": [
-                "Uh... ¿Estoy devuelta?"
+                "Eh... ¿Estoy devuelta?"
             ]
         },
         "12_0": {
             "lines": [
-                "... Hay algo diferente."
+                "No. Hay algo que no me cuadra en esto."
             ]
         },
         "20_0": {
             "lines": [
-                "No creo que esto termine así."
+                "No creo que esto termine así de repentino."
             ]
         },
         "28_0": {
             "lines": [
-                "Quizás encuentre una respuesta."
+                "Tengo que obtener respuestas-..."
             ]
         },
-        "132_0": {
+        "36_0": {
             "lines": [
-                "Oh no..."
+                "Usted, señor."
             ]
         },
-        "160_0": {
-            "lines": [
-                "¿De qué dimensión eres...?"
-            ]
-        },
-        "168_0": {
-            "lines": [
-                "Ey usted."
-            ]
-        },
-        "176_0": {
+        "44_0": {
             "lines": [
                 "¿Alguna explicación de este choque de mundos?"
             ]
         },
+        "148_0": {
+            "lines": [
+                "Oh no. ¿De qué dimensión eres?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¿...Dimensión?"
+            ]
+        },
         "184_0": {
             "lines": [
-                "¡¿Hallownest también?!"
+                "¿¡Hallownest también!?"
             ]
         },
         "192_0": {
             "lines": [
-                "Hmp... Bien, señorita Hornet.",
-                "No es solo de mundos, sinó de dimensiones."
+                "Hmp... Bien, lady Hornet."
             ]
         },
         "200_0": {
             "lines": [
-                "Mi maestro hizo todo este desastre y estoy",
-                "en la misión de repararlo... Ella ya no puede..."
+                "No se trata de solo mundos, sinó de Dimensiones."
             ]
         },
         "208_0": {
             "lines": [
-                "¿Eh? ¿Su maestro?"
+                "Mi maestro ha hecho todo esto,",
+                "y ahora estoy en la misión de resolverlo."
             ]
         },
         "216_0": {
             "lines": [
-                "Que terrible. Es por eso todo esto..."
+                "Desgraciadamente... Ella ya no puede..."
             ]
         },
         "224_0": {
             "lines": [
-                "¿Y como espera usted resolverlo señor?"
+                "¡Tu maestro!"
             ]
         },
         "232_0": {
             "lines": [
-                "Espera... ¿Cómo conoces mi nombre?"
+                "Qué terrible...",
+                "Pero eso explica muchas cosas."
             ]
         },
         "240_0": {
             "lines": [
-                "Olvídelo. ¡De todos modos hay que resolver esto!"
+                "¿Pero tiene una idea de cómo resolverlo?"
             ]
         },
         "248_0": {
             "lines": [
-                "Es más caótico de lo que pensé..."
+                "Un momento... ¿Cómo sabe mi nombre?"
             ]
         },
         "256_0": {
             "lines": [
-                "Leí tu mente para eso."
+                "Olvídelo, de todos modos habrá que resolver esto."
             ]
         },
         "264_0": {
             "lines": [
-                "No esperaba tanta comprensión..."
+                "¡Incluso es mas caótico de lo que pensé al principio!"
             ]
         },
         "272_0": {
             "lines": [
-                "Necesitamos buscar gran poder para volver",
-                "todo a la normalidad."
+                "Oh, perdona. Leí tu mente para eso."
             ]
         },
         "280_0": {
             "lines": [
-                "Buscar seres fuertes para que controlen todo."
+                "No esperaba tanta comprensión, la verdad..."
             ]
         },
         "288_0": {
             "lines": [
+                "Necesitamos buscar gran poder para",
+                "volver todo a la normalidad."
+            ]
+        },
+        "296_0": {
+            "lines": [
+                "Reclutar a los más poderosos para restaurar el orden."
+            ]
+        },
+        "304_0": {
+            "lines": [
                 "Pero primero...",
-                "¡Acepta esta prueba de agallas!"
+                "¡Acepte esta prueba de agallas!"
             ]
         }
     },
     "10": {
         "34_0": {
             "lines": [
-                "Vaya, usted es muy fuerte."
+                "¿Eso fue suficiente?"
             ]
         },
         "42_0": {
             "lines": [
-                "Bueno, como hayas esperado el resultado ayudaré."
+                "Sea cual sea el resultado que haya esperado,",
+                "buscaré por mi propia cuenta por el bien del Universo."
             ]
         },
         "50_0": {
             "lines": [
-                "Servirá de toda formas."
+                "Pero antes que nada, quisiera saber su nombre."
             ]
         },
         "58_0": {
             "lines": [
-                "Confíe en que haré mi parte."
+                "Mi nombre es Sumiyoshi Tsukuyomi."
             ]
         },
         "66_0": {
             "lines": [
-                "Es mejor si hacemos cosas distintas."
+                "Sí, una disculpa. Será mejor así."
             ]
         },
         "74_0": {
             "lines": [
-                "Solo digame a quién buscar."
+                "Confíe en que haré mi parte.",
+                "Es mejor si progresamos separados."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Solo dígame a quién buscar."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Ahora. ¡A reparar todo!"
             ]
         }
     },
     "11": {
         "34_0": {
             "lines": [
-                "Uh... No me había dado cuenta lo fuerte que es..."
-            ]
-        }
-    },
-    "12": {
-        "34_0": {
-            "lines": [
-                "Oh, Marisa!"
+                "Posee una gran fuerza."
             ]
         },
         "42_0": {
             "lines": [
-                "Didn't expect to run into you here."
+                "Sea cual sea el resultado que haya esperado,",
+                "buscaré por mi propia cuenta por el bien del Universo."
             ]
-        },
-        "50_0": {
-            "lines": [
-                "Moon rabbit...",
-                "You really didn't expect to meet me?"
-            ]
-        },
-        "58_0": {
-            "lines": [
-                "It's okay, seems you've got",
-                "something to do with this mess anyway."
-            ]
-        },
+        }
+    },
+    "12": {
         "4_0": {
             "lines": [
                 "Debo admitirlo..."

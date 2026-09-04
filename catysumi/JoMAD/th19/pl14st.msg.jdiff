@@ -249,6 +249,141 @@
             ]
         }
     },
+    "12": {
+        "4_0": {
+            "lines": [
+                "Ah, por fín tengo claras y sólidas explicaciones."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Entonces, su estrategia era reunir a ciertos",
+                "seres con poder apto para restaurar el Universo."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "La visita de es Dios Mimé era con motivos de reclutamiento",
+                "necesitan ayuda para encontrar a esas personas."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Ahora todo cobra más sentido..."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Oh..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Ah, tú eres Yumemi. Mimé me dijo sobre tí."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Eh? Entonces tú conoces a ese Dios."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Bueno, en eso tienes razón."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Y tú, ¿qué has estado haciendo en este tiempo?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Tiempos como estos no deberían ser desperdiciados..."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Bueno eh... ¿Investigando...?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "... ¿Estás bromeando?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Esperaba otra cosa. ¡Eso no ayudará para nada al incidente!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "¿Qué quieres decir con eso?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¿De verdad mi cooperación es tan necesaria...?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "La de cualquiera, en realidad."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Ya llevamos tiempo tratando de resolverlo.",
+                "El flujo de gente es tanto que lo hace imposible..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Ahg, estoy muy preocupado..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Creo que... Lo pensaré mejor..."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Así que he sido un estorbo..."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Si los ayudo en no solo recolectar información",
+                "eso podría reparar el Universo más rápido..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Bien, me has convencido. ¡Estoy aquí para ayudar!"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "..De- ¿De verdad...?"
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "Qué frustrante..."
+            ]
+        }
+     },
     "15": {
         "144_0": {
             "lines": [
@@ -488,113 +623,6 @@
         "34_0": {
             "lines": [
                 "¿A qué le dices bonito?"
-            ]
-        }
-    },
-    "12": {
-        "4_0": {
-            "lines": [
-                "Así que esa era la estrategia para resolver esto."
-            ]
-        },
-        "12_0": {
-            "lines": [
-                "Ese dios Mimé..."
-            ]
-        },
-        "20_0": {
-            "lines": [
-                "Ahora cobra más sentido esa visita."
-            ]
-        },
-        "124_0": {
-            "lines": [
-                "Oh..."
-            ]
-        },
-        "152_0": {
-            "lines": [
-                "Es quién me dijo Mimé.",
-                "¿Qué estás haciendo?"
-            ]
-        },
-        "160_0": {
-            "lines": [
-                "Ehm... Investigando acerca del incidente."
-            ]
-        },
-        "168_0": {
-            "lines": [
-                "¿Qué? Me esperaba otra cosa."
-            ]
-        },
-        "176_0": {
-            "lines": [
-                "No creo que eso ayude del todo..."
-            ]
-        },
-        "184_0": {
-            "lines": [
-                "Pero espero que termines cooperando en algo."
-            ]
-        }
-    },
-    "13": {
-        "34_0": {
-            "lines": [
-                "Cooperando..."
-            ]
-        },
-        "42_0": {
-            "lines": [
-                "Si."
-            ]
-        },
-        "50_0": {
-            "lines": [
-                "Esto se ha prolongado más de lo que esperaba."
-            ]
-        },
-        "58_0": {
-            "lines": [
-                "Estoy muy preocupado por eso."
-            ]
-        },
-        "66_0": {
-            "lines": [
-                "... Entiendo."
-            ]
-        },
-        "74_0": {
-            "lines": [
-                "..."
-            ]
-        },
-        "82_0": {
-            "lines": [
-                "Creo que pensaré mejor la propuesta..."
-            ]
-        },
-        "90_0": {
-            "lines": [
-                "No solo recolectar información."
-            ]
-        },
-        "98_0": {
-            "lines": [
-                "Sí, ¡Aquí estoy para ayudar!"
-            ]
-        },
-        "106_0": {
-            "lines": [
-                "Wow..."
-            ]
-        }
-    },
-    "14": {
-        "34_0": {
-            "lines": [
-                "Esto es frustrante..."
             ]
         }
     }

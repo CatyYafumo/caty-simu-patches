@@ -1,225 +1,105 @@
 {
-    "0": {
-        "34_0": {
-            "lines": [
-                "Let's go!"
-            ]
-        },
-        "42_0": {
-            "lines": [
-                "Me too."
-            ]
-        }
-    },
-    "1": {
-        "34_0": {
-            "lines": [
-                "I won!"
-            ]
-        }
-    },
-    "2": {
-        "34_0": {
-            "lines": [
-                "So frustrating."
-            ]
-        }
-    },
     "3": {
-        "34_0": {
-            "lines": [
-                "Hey, Reimu!"
-            ]
-        },
-        "42_0": {
-            "lines": [
-                "I heard there's something strange going on!"
-            ]
-        },
-        "50_0": {
-            "lines": [
-                "You'll know it when you see it!"
-            ]
-        },
-        "58_0": {
-            "lines": [
-                "Animal spirits are seriously going on the offensive.",
-                "I expected that, but..."
-            ]
-        },
-        "66_0": {
-            "lines": [
-                "It must be the work of the",
-                "beast world's outlaws!"
-            ]
-        },
-        "74_0": {
-            "lines": [
-                "Animal spirits?",
-                "Offensive?"
-            ]
-        },
-        "82_0": {
-            "lines": [
-                "Did you get enough sleep?",
-                "This isn't the time to joke around!"
-            ]
-        },
-        "90_0": {
-            "lines": [
-                "The problem is who owns this land!"
-            ]
-        },
-        "98_0": {
-            "lines": [
-                "When those wealthy spirits just",
-                "gave up the ownership of the land"
-            ]
-        },
-        "106_0": {
-            "lines": [
-                "it was suddenly abandoned.",
-                "It's a good chance, not a crisis!"
-            ]
-        },
-        "114_0": {
-            "lines": [
-                "I gotta get whatever I can before",
-                "any greedy spirits show up and take over!"
-            ]
-        },
-        "122_0": {
-            "lines": [
-                "......I see."
-            ]
-        },
-        "130_0": {
-            "lines": [
-                "You're on that side huh."
-            ]
-        },
-        "138_0": {
-            "lines": [
-                "Marisa, you wake up!"
-            ]
-        },
-        "146_0": {
-            "lines": [
-                "All the humans are losing their minds and sense of reason!",
-                "They've given in to their primal instincts!"
-            ]
-        },
-        "154_0": {
-            "lines": [
-                "You're already a beast.",
-                "I'll exorcise you!"
-            ]
-        },
         "4_0": {
             "lines": [
-                "Ugh, no puede ser."
+                "Ahg, no puede ser.",
+                "¡Todo yo! ¡Todo yo!"
             ]
         },
         "12_0": {
             "lines": [
-                "¡A Mime se le salió de las manos",
-                "y tengo que yo ir a barrer todo..!"
+                "Tenía que salirsele de las manos.",
+                "¡Y tener que yo ir a barrer todo...!"
             ]
         },
         "20_0": {
             "lines": [
-                "Ahg, bien. Comencemos."
+                "Está bien, no lograré nada así."
             ]
         },
-        "152_0": {
+        "28_0": {
             "lines": [
-                "Oh ¡Ey Sumiyoshi!",
-                "¿Qué pasa?"
+                "Comencemos..."
             ]
         },
         "160_0": {
             "lines": [
-                "Feny ¡Mi maestro ha creado un caos dimensional",
-                "que tengo que arreglar yo mismo ahora!"
+                "¡Ey Sumiyoshi!",
+                "Hace tiempo que no te veía."
             ]
         },
         "168_0": {
             "lines": [
-                "Oh ¿estás enojado por eso?",
-                "con razón estamos en este bonito y extraño lugar."
+                "¿Qué sucede? Te noto molesto."
             ]
         },
         "176_0": {
             "lines": [
-                "Bueno, si de algo te sirve. Podríamos pelear.",
-                "De todos modos estaba buscando algo de diversión."
+                "Feny. ¡Mimé ha causado un desastre dimensional",
+                "y tengo que arreglarlo yo mísmo ahora!"
             ]
-        }
+        },
+        "184_0": {
+            "lines": [
+                "Ella ya no puede hacerlo por sí mísma..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Ah. Así que estás enojado por eso.~"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Bueno, eso explica por qué estamos",
+                "en este bonito y extraño lugar."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Pero si te sirve... ¿Qué te parece",
+                "una pequeña pelea?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "¡Justo estaba buscando algo de diversión!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "..."
+            ]
+        },
     },
     "4": {
         "34_0": {
             "lines": [
-                "Heheh, gracias por la terapia."
+                "Bueno, eso estuvo genial... Heh..."
             ]
         },
         "42_0": {
             "lines": [
-                "Pero es tiempo de actuar."
+                "Heheh. Gracias por la terapia, Feny."
             ]
         },
         "50_0": {
             "lines": [
-                "I can't think of anything but that."
-            ]
-        },
-        "58_0": {
-            "lines": [
-                "Those beast world guys are always",
-                "trying to rule the world."
-            ]
-        },
-        "66_0": {
-            "lines": [
-                "Is that so? Well, best of luck to you."
-            ]
-        },
-        "74_0": {
-            "lines": [
-                "I just have different thoughts, y'know."
+                "Pero es tiempo de actuar."
             ]
         }
     },
     "5": {
         "34_0": {
             "lines": [
-                "Yeeei estuvo bueno."
-            ]
-        },
-        "42_0": {
-            "lines": [
-                "Heheh ¡Algo fácil!"
+                "Bueno, eso estuvo genial... Heh..."
             ]
         }
     },
     "6": {
-        "34_0": {
-            "lines": [
-                "How did you get here, komainu?"
-            ]
-        },
-        "42_0": {
-            "lines": [
-                "The spirits have been quite busy."
-            ]
-        },
-        "50_0": {
-            "lines": [
-                "It's the beasts' excitement!"
-            ]
-        },
         "4_0": {
             "lines": [
-                "Ciertamente ya me siento mas tranquilo."
+                "Bien. Ya me siento mas tranquilo."
             ]
         },
         "12_0": {
@@ -229,34 +109,53 @@
         },
         "144_0": {
             "lines": [
-                "¡Oho! ¿A quién tenemos por aquí?"
+                "Vaya. ¿A quién tenemos por aquí?"
             ]
         },
         "152_0": {
             "lines": [
-                "¡¿Tú me haz arrebatado de mi mundo?!"
+                "¡¿Acaso tú me haz arrebatado de mi mundo?!"
             ]
         },
         "160_0": {
             "lines": [
-                "Ah ¿La diosa del Makai fuera de su creación?"
+                "¿Qué? ¡¿La Diosa del Makai fuera de su creación?!"
             ]
         },
         "168_0": {
             "lines": [
-                "¿El incidente afectó también al",
-                "viejo Gensokyo?"
+                "Esto no puede ser..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¿El incidente afectó también",
+                "al <b$Viejo Gensokyo>?"
             ]
         }
     },
     "7": {
         "34_0": {
             "lines": [
-                "Ugh ¿Qué otras dimensiones se han unido?",
-                "*sigh* Disculpe señorita Shinki."
+                "¡Exijo explicaciones! ¡Y volver a Makai!"
             ]
         },
         "42_0": {
+            "lines": [
+                "¿Qué otras dimensiones se han unido...?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "uhg..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Disculpe, señorita Shinki."
+            ]
+        },
+        "66_0": {
             "lines": [
                 "Pero el culpable de esto es otro..."
             ]
@@ -265,35 +164,14 @@
     "8": {
         "34_0": {
             "lines": [
-                "Exijo explicaciones; y volver a Makai."
+                "¡Exijo explicaciones! ¡Y volver a Makai!"
             ]
         }
     },
     "9": {
-        "34_0": {
-            "lines": [
-                "Th-the shrine maiden!?",
-                "I ran into someone dangerous!"
-            ]
-        },
-        "42_0": {
-            "lines": [
-                "Gotta run!"
-            ]
-        },
-        "50_0": {
-            "lines": [
-                "Why are you running away?"
-            ]
-        },
-        "58_0": {
-            "lines": [
-                "Up to no good, aren't you!?"
-            ]
-        },
         "100_0": {
             "lines": [
-                "Ey tú"
+                "Usted, señor."
             ]
         },
         "128_0": {
@@ -303,324 +181,394 @@
         },
         "136_0": {
             "lines": [
-                "¡¿Hallownest también?!"
+                "Oh no. ¿De qué dimensión eres?"
             ]
         },
         "144_0": {
             "lines": [
-                "Hmp... Bien, Lady Hornet.",
-                "No es solo de mundos, sinó de dimensiones."
+                "¿...Dimensión?"
             ]
         },
         "152_0": {
             "lines": [
-                "Mi maestro hizo todo este desastre y estoy",
-                "en la misión de repararlo... Ella ya no puede..."
+                "¿¡Hallownest también!?"
             ]
         },
         "160_0": {
             "lines": [
-                "¿Uh? ¿Tu maestro?"
+                "Hmp... Bien, lady Hornet."
             ]
         },
         "168_0": {
             "lines": [
-                "Uh... Terrible. Es por eso todo esto..."
+                "No se trata de solo mundos, sinó de Dimensiones."
             ]
         },
         "176_0": {
             "lines": [
-                "¿Y como espera usted resolverlo?"
+                "Mi maestro ha hecho todo esto,",
+                "y ahora estoy en la misión de resolverlo."
             ]
         },
         "184_0": {
             "lines": [
-                "Espera ¿Cómo conoces mi nombre?"
+                "Desgraciadamente... Ella ya no puede..."
             ]
         },
         "192_0": {
             "lines": [
-                "Ahg todos modos... ¡Hay que resolver esto!"
+                "¡Tu maestro!"
             ]
         },
         "200_0": {
             "lines": [
-                "¡Es más caótico de lo que pensé!"
+                "Qué terrible...",
+                "Pero eso explica muchas cosas."
             ]
         },
         "208_0": {
             "lines": [
-                "Leí tu mente para eso."
+                "¿Pero tiene una idea de cómo resolverlo?"
             ]
         },
         "216_0": {
             "lines": [
-                "No esperaba tanta comprensión..."
+                "Un momento... ¿Cómo sabe mi nombre?"
             ]
         },
         "224_0": {
             "lines": [
-                "Necesitamos buscar gran poder para volver",
-                "todo a la normalidad."
+                "Olvídelo, de todos modos habrá que resolver esto."
             ]
         },
         "232_0": {
             "lines": [
-                "Buscar seres fuertes para que controlen todo."
+                "¡Incluso es mas caótico de lo que pensé al principio!"
             ]
         },
         "240_0": {
             "lines": [
+                "Oh, perdona. Leí tu mente para eso."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "No esperaba tanta comprensión, la verdad..."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Necesitamos buscar gran poder para",
+                "volver todo a la normalidad."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Reclutar a los más poderosos para restaurar el orden."
+            ]
+        },
+        "272_0": {
+            "lines": [
                 "Pero primero...",
-                "¡Acepta esta prueba de agallas!"
+                "¡Acepte esta prueba de agallas!"
             ]
         }
     },
     "10": {
         "34_0": {
             "lines": [
-                "Uh... No me había dado cuenta lo fuerte que eres."
+                "Posee una gran fuerza."
             ]
         },
         "42_0": {
             "lines": [
-                "Sea cual sea el resultado que hayas esperado",
-                "buscaré por mi propia cuenta por el bien de todo."
+                "Sea cual sea el resultado que haya esperado,",
+                "buscaré por mi propia cuenta por el bien del Universo."
             ]
         },
         "50_0": {
             "lines": [
-                "Mi nombre es Sumiyoshi."
+                "Pero antes que nada, quisiera saber su nombre."
             ]
         },
         "58_0": {
             "lines": [
-                "Si, es mejor. Disculpa."
+                "Mi nombre es Sumiyoshi Tsukuyomi."
             ]
         },
         "66_0": {
             "lines": [
-                "Servirá de todas formas."
+                "Sí, una disculpa. Será mejor así."
             ]
         },
         "74_0": {
             "lines": [
-                "¡Ahora a reparar todo!"
-            ]
-        }
-    },
-    "12": {
-        "34_0": {
-            "lines": [
-                "What is a moon rabbit doing here?"
-            ]
-        },
-        "42_0": {
-            "lines": [
-                "Ah, well, come on."
-            ]
-        },
-        "50_0": {
-            "lines": [
-                "I decided to take over the Earth?",
-                "Now's the best chance."
-            ]
-        },
-        "58_0": {
-            "lines": [
-                "That's an impressive thing to try."
-            ]
-        },
-        "66_0": {
-            "lines": [
-                "But dying is better!"
-            ]
-        },
-        "4_0": {
-            "lines": [
-                "Bueno, Es hora de ir al punto."
-            ]
-        },
-        "136_0": {
-            "lines": [
-                "¿Punto? ¿Qué punto en e'pecífico?"
-            ]
-        },
-        "144_0": {
-            "lines": [
-                "¡Caty!"
-            ]
-        },
-        "152_0": {
-            "lines": [
-                "Ya me enteré de to'o."
-            ]
-        },
-        "160_0": {
-            "lines": [
-                "Debo reconocer mi odio hacia Mimé"
-            ]
-        },
-        "168_0": {
-            "lines": [
-                "Esa loca, como se le revalso el vaso..."
-            ]
-        },
-        "176_0": {
-            "lines": [
-                "¡Pero bien! ¿Por 'onde empezamo'?"
-            ]
-        },
-        "184_0": {
-            "lines": [
-                "Pues... Tú primero."
-            ]
-        },
-        "192_0": {
-            "lines": [
-                "Tus poderes ayudarán con la restauración."
-            ]
-        },
-        "200_0": {
-            "lines": [
-                "Opa ¿En serio?"
-            ]
-        },
-        "208_0": {
-            "lines": [
-                "¡Buena oportunida pa mostrar lo que aprendí",
-                "con Lady Yukari!"
-            ]
-        }
-    },
-    "13": {
-        "34_0": {
-            "lines": [
-                "¿..Caty..?"
-            ]
-        },
-        "42_0": {
-            "lines": [
-                "nah no me gusta pelear con amigos."
-            ]
-        },
-        "50_0": {
-            "lines": [
-                "sea de chill o no."
-            ]
-        },
-        "58_0": {
-            "lines": [
-                "¿Ahora qué sigue en tu plan?"
-            ]
-        },
-        "66_0": {
-            "lines": [
-                "Uh... No se como continuar..."
-            ]
-        },
-        "74_0": {
-            "lines": [
-                "A weno, tons iré por mi camino."
+                "Confíe en que haré mi parte.",
+                "Es mejor si progresamos separados."
             ]
         },
         "82_0": {
             "lines": [
-                "Y cuando termine, te imaginarás que haré..."
+                "Solo dígame a quién buscar."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Ahora. ¡A reparar todo!"
             ]
         }
     },
     "11": {
         "34_0": {
             "lines": [
-                "Bueno... Eres fuerte."
+                "¿Eso fue suficiente?"
             ]
         },
         "42_0": {
             "lines": [
-                "Sea el resultado que hayas esperado, ayudaré."
+                "Sea cual sea el resultado que haya esperado,",
+                "buscaré por mi propia cuenta por el bien del Universo."
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "Espero que Hornet esté teniendo suerte."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Okay. Es hora de ir al punto."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "¿Punto? ¿Qué coordena'a en e'pecífico?"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "¡Caty!"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Apuesto a que ya lo sabes.",
+                "¡Mimé lo ha hecho y tengo que yo ir a barrer todo!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Exactamente, ya me enteré de to'o."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Debo admitir mi odio hacia Mimé..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Esa lunática, cómo se le revalsó el vaso..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "¿Pero bien, por 'onde empezamo'?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Pues... Tú primero..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Tus poderes ayudarán a la restauración."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Oh. ¿En serio?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "¡Buen algoritmo para mostrar",
+                "lo que aprendí con Lady Yukari!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "¡Ah! ¡Sigues fuerte como siempre!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Bueno, pero tu sabí que no me gusta pelear tanto..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Pero. Por supuesto, fuíste tú",
+                "mísmo quien envió a Hornet. ¿O me equivoco?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Y ahora. ¿Qué sigue en tu plan?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Ah. Hornet lo hizo de maravilla."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Creí no haber hecho ningún progreso..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Pero gracias a ustedes dos y Feny,",
+                "he avanzado."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Aunque ya no sé cómo continuar..."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Weno. ¡tons iré por mi camino!"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Y cuando termine, imaginarás que haré..."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "No intentarás..."
             ]
         }
     },
     "14": {
         "34_0": {
             "lines": [
-                "(Dioses... ¿Para qué están?)"
+                "Dioses... ¿Para qué están...?"
             ]
         }
     },
     "15": {
         "4_0": {
             "lines": [
-                "Creí no poder progresar."
+                "Bien, estoy progresando cada vez más."
             ]
         },
         "12_0": {
             "lines": [
-                "Pero ahora me siento más animado."
+                "Ahora me siento más animado."
             ]
         },
-        "116_0": {
+        "20_0": {
             "lines": [
-                "Bueno bueno."
+                "Pero ahora viene la parte más difícil..."
             ]
         },
-        "144_0": {
+        "124_0": {
             "lines": [
-                "¿Quién eres?"
+                "Bueno, bueno.~"
             ]
         },
         "152_0": {
             "lines": [
-                "Oh no..."
+                "Parece ser un simple humano.~"
             ]
         },
         "160_0": {
             "lines": [
-                "Soy Yuuka Kazami."
+                "Pero... Este parece fuerte."
             ]
         },
         "168_0": {
             "lines": [
-                "¿Eres tu alguien fuerte?"
+                "¿Quién es usted?"
             ]
         },
         "176_0": {
             "lines": [
-                "¡Serás divertido!"
+                "Oh no..."
             ]
         },
         "184_0": {
             "lines": [
-                "No no."
+                "Ya veo, quieres que inicie yo."
             ]
         },
         "192_0": {
             "lines": [
-                "No voy a pelear por diversión."
+                "Me llamo Yuuka Kazami."
             ]
         },
         "200_0": {
             "lines": [
-                "Aunque... Quizás pueda..."
+                "¿Serás tú alguien fuerte, o un debilucho?"
             ]
         },
         "208_0": {
             "lines": [
-                "¡Ohoho!"
+                "Tengamos un poco de diversión. ¿Sí?"
             ]
         },
         "216_0": {
             "lines": [
-                "¿Así que le darás a un Danmaku?"
+                "No no no."
             ]
         },
         "224_0": {
             "lines": [
-                "Pues bien."
+                "Ah. Todo apunta a que de",
+                "esta no me voy a salvar..."
             ]
         },
         "232_0": {
+            "lines": [
+                "No voy a pelear por mera diversión."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Aunque... Quizás..."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Oh. ¿Pero qué les parece?"
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Así que le daremos a un Danmaku."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "¡Muy bien!"
+            ]
+        },
+        "272_0": {
             "lines": [
                 "¿Estás listo?"
             ]
@@ -629,177 +577,234 @@
     "16": {
         "34_0": {
             "lines": [
-                "¡Ah perfecto!"
+                "¡Ah! ¡Extravagante!"
             ]
         },
         "42_0": {
             "lines": [
-                "Oh, ¿Estabas apurado?"
+                "Hm..."
             ]
         },
         "50_0": {
             "lines": [
-                "¿Tienes que ver con este problema de realidades?"
+                "Luces apurado."
             ]
         },
-        "58_0": {
+        "54_0": {
             "lines": [
-                "Bueno... Si."
+                "¿Acaso tendrás que ver con este problema de realidades?"
             ]
         },
-        "66_0": {
+        "62_0": {
             "lines": [
-                "Oh ¿así que tu eres el responsable?"
+                "Bueno, algo parecido."
             ]
         },
-        "74_0": {
+        "70_0": {
             "lines": [
-                "¿O tu eres quien va a resolverlo?"
+                "Así que tú eres el causante."
             ]
         },
-        "82_0": {
+        "78_0": {
             "lines": [
-                "Pues lo segundo..."
+                "O quizás, tú eres quien va a resolverlo."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Soy quien va a tratar de resolverlo."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Por eso, si quiere que todo vuelva a la normalidad.",
+                "No me obstaculice, por favor."
             ]
         }
     },
     "17": {
         "34_0": {
             "lines": [
-                "Aaaw ¿Ya terminamos?"
+                "Aaaw. ¿Ya terminamos?"
             ]
         },
         "42_0": {
             "lines": [
-                "Aburrido..."
-            ]
-        },
-        "46_0": {
-            "lines": [
-                "..."
+                "Pero qué aburrido..."
             ]
         }
     },
     "18": {
         "4_0": {
             "lines": [
-                "Oh, este es el lugar..."
+                "Es este lugar, no tengo duda..."
             ]
         },
         "12_0": {
             "lines": [
-                "¡Muestrate Reina y Diosa de la Oscuridad!"
+                "Llegué a mi objetivo principal."
             ]
         },
-        "116_0": {
+        "20_0": {
             "lines": [
-                "¿¿Hmp??"
+                "¡Muestrate, Reina y Diosa de la Oscuridad!"
             ]
         },
-        "144_0": {
+        "124_0": {
             "lines": [
-                "¿Por qué un humano desea verme?"
+                "¿...?"
             ]
         },
         "152_0": {
             "lines": [
-                "¿Es un aliado de los Dioses para acabar esta civilización?"
+                "Quién lo imaginaría, un ser así desea verme."
             ]
         },
         "160_0": {
             "lines": [
-                "En realidad no."
+                "Que tonto."
             ]
         },
         "168_0": {
             "lines": [
-                "Mi nombre es Sumiyoshi Tsukuyomi",
-                "y vengo por su ayuda."
+                "¿Es un aliado de los Dioses para acabar esta civilización?"
             ]
         },
         "176_0": {
             "lines": [
-                "¿Ayudar? ¿yo?"
+                "No, no es así. Su majestad."
             ]
         },
         "184_0": {
             "lines": [
-                "¿Qué clase de broma es?"
+                "Déjeme explicarle:"
             ]
         },
         "192_0": {
             "lines": [
-                "¿Es acaso una trampa de los enemigos?"
+                "Mi nombre es Sumiyoshi Tsukuyomi,",
+                "y vengo por su ayuda."
             ]
         },
         "200_0": {
             "lines": [
-                "Esos malditos..."
+                "Este incidente multidimensional",
+                "necesita el poder de alguien como usted."
             ]
         },
-        "208_0": {
+        "204_0": {
             "lines": [
-                "¡A que lado perteneces!"
+                "¿Ayudar...? ¿A un humano? ¿Yo?"
             ]
         },
         "216_0": {
             "lines": [
-                "Solo quiero resolver el incidente de las dimensiones."
+                "¿Qué clase de broma es esa?"
             ]
         },
         "224_0": {
             "lines": [
-                "Y no soy del bando de tus enemigos pero de todas",
-                "formas necesitaré ayuda de uno de ellos así que no hay elección..."
+                "La ridiculez de esa idea me causa vergüenza."
             ]
         },
         "232_0": {
             "lines": [
-                "Oh ¿¡No será esa desgraciada diosa de la luz!?"
+                "¿Será acaso una trampa de los enemigos?"
             ]
         },
         "240_0": {
             "lines": [
-                "No... me rehuso."
+                "Esos malditos... No paran de inventar ni en sus cabezas."
             ]
         },
         "248_0": {
             "lines": [
-                "Cualquier union con esos seres..."
+                "¡A qué lado pertenece, quien oza penetrar este mundo!"
             ]
         },
         "256_0": {
             "lines": [
-                "¡No será aceptada por nada del universo!"
+                "No, solo quiero resolver este incidente."
             ]
         },
         "264_0": {
             "lines": [
-                "¿Qué tan valiente eres para intentar romper",
-                "aquel conflicto de milenios?"
+                "Y no soy del bando de sus enemigos, de ningúno."
             ]
         },
         "272_0": {
             "lines": [
-                "Cualquier luz que vea este paraíso lo <b$quemará por completo>.",
-                "¡No me atreveré a acercarme a ellos!"
+                "Pero me temo que también necesitaré",
+                "ayuda de alguno de ellos..."
             ]
         },
         "280_0": {
             "lines": [
-                "¡Ahora vete de este mundo atormentado!"
+                "No hay elección. Sinó,",
+                "este incidente se mantendrá así por siempre."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "Lo que sospechaba..."
+            ]
+        },
+        "296_0": {
+            "lines": [
+                "¡¿...De ellos no será esa desgraciada Diosa de la Luz?!"
+            ]
+        },
+        "304_0": {
+            "lines": [
+                "No. Me rehuso completamente..."
+            ]
+        },
+        "312_0": {
+            "lines": [
+                "Ninguna reunión con esos seres",
+                "será aceptada...!"
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "¡Ni por nada en el Macrocosmos!"
+            ]
+        },
+        "328_0": {
+            "lines": [
+                "¿Qué tan valiente eres como para intentar",
+                "romper aquel conflicto de milenios..."
+            ]
+        },
+        "336_0": {
+            "lines": [
+                "...Alguien que no tiene la <b$más mínima> idea",
+                "de lo que es eso?"
+            ]
+        },
+        "344_0": {
+            "lines": [
+                "Cualquier luz que vea este paraíso lo <b$quemará por completo>.",
+                "¡No me atreveré ni a acercarme a ellos!"
+            ]
+        },
+        "352_0": {
+            "lines": [
+                "¡Ahora vete!",
+                "¡Exiliate de este mundo atormentado!"
             ]
         }
     },
     "20": {
         "34_0": {
             "lines": [
-                "uhh... No... de ninguna manera..."
+                "Imbécil el que imaginó eso...",
+                "De ninguna manera..."
             ]
         },
         "42_0": {
             "lines": [
-                "Pero... ¿cómo resolver el caos?"
+                "¿Por qué pensó que era lógico resolverlo así?"
             ]
         }
     }

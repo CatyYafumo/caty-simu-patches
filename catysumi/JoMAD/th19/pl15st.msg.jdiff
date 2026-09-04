@@ -268,50 +268,152 @@
     "12": {
         "4_0": {
             "lines": [
-                "Así que esto pasó y está sucediendo sin enterarme de nada."
+                "¡Ah! No lo hubiera visto venir-."
             ]
         },
         "12_0": {
             "lines": [
-                "Parece que Caty no es la responsable.",
-                "Pero está en algo que quiero saber bien..."
+                "Ese desastre estaba pasando en mis",
+                "narices y recientemente me entero de ello."
             ]
         },
-        "116_0": {
+        "20_0": {
+            "lines": [
+                "Caty no podría hacer eso, ella no es la responsable..."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Pero..."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Ella está en algo...",
+                "Y lo debo saber con exactitud..."
+            ]
+        },
+        "140_0": {
             "lines": [
                 "Ah, eres tú."
             ]
         },
-        "144_0": {
-            "lines": [
-                "Supongo que ya recibiste el aviso de Mimé."
-            ]
-        },
-        "152_0": {
-            "lines": [
-                "Ah, entonces eres muy afiliado a este incidente."
-            ]
-        },
-        "160_0": {
-            "lines": [
-                "Por supuesto, tu eres su amigo y cercano de un dios.",
-                "Sumiyoshi Tsukuyomi."
-            ]
-        },
         "168_0": {
             "lines": [
-                "¡Sé que vaz a molestar a Caty!",
-                "¡Estoy viendo tus intenciones!"
+                "Bueno, veo que ya has recibido el aviso de Mimé."
             ]
         },
         "176_0": {
             "lines": [
-                "El incidente no necesita de tí."
+                "Ah, entonces eres muy afiliado a este incidente~."
             ]
         },
         "184_0": {
             "lines": [
-                "¡Olvidate de la razón y cancela todo tu viaje!"
+                "Pero por supuesto.",
+                "Cercano a un dios, y también su amigo..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Sumiyoshi Tsukuyomi."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Al parecer tus poderes de deidad siguen activos.",
+                "Pero por otro lado, también están inestables..."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Si. ¡Estoy viendo tus intenciones ahora mismo!"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "¡No te atreverás a molestarla!",
+                "¡El incidente empeorará de esa manera!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "¿Por qué no te quedas en tus jardines",
+                "hasta que esto acabe?"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "¡Olvídate de todo y cancela tu viaje!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "¿Pero por qué estoy fuera, eh?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "No tendría por qué importarle."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Creí que los dioses absolutos",
+                "preferían estar tranquilos en sus mundos..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Pero también... ¿Ha notado su baja de poder?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "¿Estás leyendo mi mente, no?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Si tanto le molesta quedarse quieto, hubiera",
+                "sido mejor que nos ayudara desde el principio."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "¡Envés de pensar en su creciente rencor!"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "... Lo que me quiere decir es que ya es tarde,",
+                "y será mejor que no intervenga..."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Pero... Debo admitir..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Hay algo que me atrae de todo esto...",
+                "Mi poder tanto como voluntad caen..."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Y se trata de ella..."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "Creí que los dioses absolutos",
+                "preferían estar tranquilos en sus mundos..."
             ]
         }
     },
@@ -550,61 +652,4 @@
             ]
         }
     },
-    "14": {
-        "34_0": {
-            "lines": [
-                "¿Has notado tu baja de poder?"
-            ]
-        }
-    },
-    "13": {
-        "34_0": {
-            "lines": [
-                "Vamos, ¿Por qué es que estoy fuera?"
-            ]
-        },
-        "42_0": {
-            "lines": [
-                "¿Has notado tu baja de poder?"
-            ]
-        },
-        "50_0": {
-            "lines": [
-                "Y hubiera sido mejor que decidieras ayudarnos",
-                "envés de pensar en tu creciente rencor."
-            ]
-        },
-        "58_0": {
-            "lines": [
-                "Hmn..."
-            ]
-        },
-        "66_0": {
-            "lines": [
-                "Hay muchas cosas extrañas que han pasado por esto..."
-            ]
-        },
-        "74_0": {
-            "lines": [
-                "Si el incidente termina. Todo volverá a la normalidad",
-                "Como ya es tarde, es mejor que no intervenga..."
-            ]
-        },
-        "82_0": {
-            "lines": [
-                "Pero... Debo admitir..."
-            ]
-        },
-        "90_0": {
-            "lines": [
-                "Hay algo que me atrae...",
-                "Siento que mi poder tanto como voluntad caen..."
-            ]
-        },
-        "98_0": {
-            "lines": [
-                "Está cerca... ¿No?"
-            ]
-        }
-    }
 }
