@@ -77,7 +77,7 @@
     ],
     "22": [
         "Has desbloqueado a",
-        "Catyon en el modo VS."
+        "Catyon Rossnato en el modo VS."
     ],
     "10": [
         "Has desbloqueado las historias",

@@ -46,7 +46,7 @@
     "15_0": "Supera la Historia \"El Incidente Guiando al Castigo\"",
     "0_0": "Supera la Historia \"Encargado para todo desastre\"",
     "0_1": [
-        "Has superado la Historia de Sumiyoshi.",
+        "Has superado la Historia de Sumiyoshi Tsukuyomi.",
         "¿Ya estará más tranquilo?"
     ],
     "1_0": "Supera la Historia \"Solución a toda Anomalía\"",
@@ -72,7 +72,7 @@
         "¿Cuantás más Barreras de su Poder Podrá Romper?"
     ],
     "18_1": [
-        "Has Superado la Historia de Catyon",
+        "Has Superado la Historia de Catyon Rossnato",
         "Espero que tus ojos no estén tan mal como los de ella.",
         "(Eso me Suena a mis Oidos y Olfato DX)"
     ],
@@ -85,12 +85,12 @@
         "Esperemos que vuelva otra vez..."
     ],
     "14_1": [
-        "Has Superado la Historia de ???.",
+        "Has Superado la Historia de Nameless Deity.",
         "Me lo papeo en Getfixedboi Legendary Hardcore",
         "como Desayuno (no miento, bueno solo lo del desayuno)"
     ],
     "13_1": [
-        "Has Superado la Historia de Yumemi",
+        "Has Superado la Historia de Yumemi Okazaki",
         "Ojalá haya aprendido magia con todo esto jajsaj"
     ],
     "22_1": [
@@ -98,7 +98,7 @@
         "¿Cuantos intentos fueron?"
     ],
     "6_1": [
-        "Has Superado la Historia de Shire.",
+        "Has Superado la Historia de Shire Wryglem.",
         "Nunca me di cuenta que su nombre significaba",
         "Comarca hasta que me vi LoTR por Décima vez"
     ],
